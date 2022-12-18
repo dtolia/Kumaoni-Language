@@ -16,6 +16,7 @@ A language can only be learned by speaking with other native speakers. Therefore
 
 <details><summary>Example Sentences</summary>
 <p>
+
 हिंदी | कुमाऊँनी | | हिंदी | कुमाऊँनी 
 --- | --- | --- | --- | --- 
 मैं जाता हूँ। | मी जानु। | | मैं जा रहा हूँ। | मी जान्हु।
