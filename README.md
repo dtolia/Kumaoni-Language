@@ -40,6 +40,7 @@ A language can only be learned by speaking with other native speakers. Therefore
 
 <details><summary>Example Sentences</summary>
 <p>
+
 हिंदी | कुमाऊँनी | | हिंदी | कुमाऊँनी
 --- | --- | --- | --- | ---
 हम जाते हैं। | हैमि जानु। | | हम जा रहे हैं। | हैमि जान्हु।
@@ -59,6 +60,7 @@ A language can only be learned by speaking with other native speakers. Therefore
 
 <details><summary>Example Sentences</summary>
 <p>
+
 हिंदी | कुमाऊँनी | | हिंदी | कुमाऊँनी
 --- | --- | --- | --- | ---
 कर ले। | करि लि। | | कर लो। | करि लियौ।
@@ -75,6 +77,7 @@ Type | हिंदी | कुमाऊँनी
 
 <details><summary>Example Sentences</summary>
 <p>
+
 Type | हिंदी | कुमाऊँनी | | हिंदी | कुमाऊँनी
 --- | --- | --- | --- | --- | ---
 (Action) | तू मिठाई खा लेना। | त्वे मिठै खै लिए। | | तुम मिठाई खा लेना। | तिम मिठै खै लिया।
