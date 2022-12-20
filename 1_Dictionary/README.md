@@ -2,6 +2,8 @@
 --- | --- | --- 
 साथी | दगड़ी | companion, partner
 साथियों | दगड़ियन | companions, partners
+आर | वली; वल्ली | adjacent, beside, this side
+पार | पली; पल्ली | across, beyond, other side
 दिन | दिवस | day
 भाई | भाय, भै | brother
 ठंडा | अलि | cold
