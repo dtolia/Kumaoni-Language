@@ -1,7 +1,7 @@
 # Learning Kumaoni
 A language can only be learned by speaking with other native speakers. Therefore, in the following paragraphs you can find sentences that you may use in everyday life. And up above, you shall discover folders containing other language-learning resources.
 
-Please raise issues about content (if any) in the issues section above after logging into Github.
+Please raise issues about content (if any) in the **Issues** section above after logging into Github.
 
 ---
 
@@ -137,3 +137,20 @@ Type | हिंदी | कुमाऊँनी | Type | हिंदी | क
 
 ---
 
+## 3. Future Tense of verb 'सुन'
+हिंदी | कुमाऊँनी 
+--- | --- 
+सुनेगा | सुनला
+सुनोगे | सुनलो
+सुनाएगा | सुनौल
+सुनाओगे | सुनौलो
+
+<details><summary>Example Sentences</summary>
+<p>
+
+हिंदी | कुमाऊँनी | | हिंदी | कुमाऊँनी
+--- | --- | --- | --- | ---
+तू सुनेगा। | त्वे सुनला। | | तुम सुनोगे। | तिम सुनलो।
+तू सुनाएगा। | त्वे सुनौल। | | तुम सुनाओगे। | तिम सुनौलो।
+</p>
+</details>
