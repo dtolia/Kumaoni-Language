@@ -1,5 +1,5 @@
 # Verb Conjugation (क्रिया के बदलते रूप)
-धातु = खा
+Conjugation of the regular verb **खा** (based on simple tense):
 
 ### वर्तमान काल
 पुरुष | एकवचन | बहुवचन
