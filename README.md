@@ -14,7 +14,7 @@ Please raise issues about content (if any) in the **Issues** section above after
 जाता हूँ। | जानु।
 जाता है। | जाने।
 जा रहा हूँ। | जान्हु।
-जा रहा है। | जान्है।
+जा रहा है। | जान्हे।
 
 <details><summary>Example Sentences</summary>
 <p>
