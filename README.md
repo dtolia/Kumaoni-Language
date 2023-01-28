@@ -75,7 +75,7 @@ Type | हिंदी | कुमाऊँनी
 (Action) | (तू) लेना | लिए; लियै
 (Action) | (तुम/आप) लेना | लिया
 (Action) | (आप) लीजिए | लिश्या; लिस्या
-(Possession) | लेना | लिन; ल्हिन
+(Possession) | लेना/लेने | लिन; ल्हिन
 
 <details><summary>Example Sentences</summary>
 <p>
@@ -125,6 +125,7 @@ Type | हिंदी | कुमाऊँनी | Type | हिंदी | क
 --- | --- 
 लेगा | लिलो; लिल
 लोगे | लियौला; लियौल
+लेंगे | ल्याल
 
 <details><summary>Example Sentences</summary>
 <p>
@@ -177,6 +178,7 @@ Type | हिंदी | कुमाऊँनी
 --- | --- | --- 
 (Action) | (तू) लाना | लाए; लाये
 (Action) | (तुम/आप) लाना | लाया
+(Action) | (वह/वे) लाने | लून
 (Action) | (आप) लाइए | लौश्या; लौस्या
  
 <details><summary>Example Sentences</summary>
@@ -224,6 +226,7 @@ Type | हिंदी | कुमाऊँनी | Type | हिंदी | क
 --- | --- 
 लाएगा | लालो
 लाओगे | लाला
+लाएंगे | ल्यौल
 
 <details><summary>Example Sentences</summary>
 <p>
