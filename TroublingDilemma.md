@@ -1,10 +1,10 @@
 # Why Kumaoni isn't Standardized?
 The general perception around why Kumaoni isn’t standardized yet is as follows:
 
-* Lack of Political Will
-* Dialect versus Language Debate
-* Inferiority Complex
-* Negligible presence in Popular Culture
+* Lack of Political Will;
+* Dialect versus Language Debate;
+* Inferiority Complex; and,
+* Negligible presence in Popular Culture.
 
 But an often ignored, troubling aspect is the various geographically-differentiated rules that the dialects of Kumaoni follows. Yes, the variations among कारक and सर्वनाम words may be attributed to synonyms which would make the language vocabulary stronger. But it is the different rules around verb tenses that make the standardization process complicated.
 
