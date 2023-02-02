@@ -1,6 +1,8 @@
 # Learning Kumaoni
 A language can only be learned by speaking with other native speakers. Therefore, in the following paragraphs you can find sentences that you may use in everyday life. And up above, you shall discover folders containing other language-learning resources.
 
+Also see: Troubles around Kumaoni Standardization [here](/TroublingDilemma.md).
+
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
 
 ---
@@ -9,7 +11,7 @@ Please raise issues about content (if any) in the **Issues** section above after
 हिंदी | कुमाऊँनी 
 --- | --- 
 मैं | मी
-तू | त्वे; ते
+तू | त्वे
 वो / वह | उ
 जाता हूँ। | जानु।
 जाता है। | जाने।
@@ -32,7 +34,7 @@ Please raise issues about content (if any) in the **Issues** section above after
 --- | --- 
 हम | हैमि
 तुम | तिम
-आप | तिमि; आपु
+आप | तिमि
 वे | उनि
 (हम) जाते हैं। | जानु
 जाते हो। | जाना
