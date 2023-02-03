@@ -36,6 +36,7 @@ I think of two theories in this context.
 Standard dialect construction should be done to bring Kumaoni to the Eighth Schedule of the Constitution. On observing other scheduled languages and constitutional articles, we know that only those languages have been included in the schedule which:
 * differ from other scheduled languages; and
 * Strengthens Hindi.
+
 Perhaps along these lines, a satisfactory reason can be given for ignoring certain aspects of some dialects when creating the standard language.
 
 ### Second
