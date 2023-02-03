@@ -1,7 +1,7 @@
 # Learning Kumaoni
 A language can only be learned by speaking with other native speakers. Therefore, in the following paragraphs you can find sentences that you may use in everyday life. And up above, you shall discover folders containing other language-learning resources.
 
-Also check out: Troubles around Kumaoni Standardization [here](/TroublingDilemma.md).
+Also check out: [Troubles around Kumaoni Standardization](/TroublingDilemma.md).
 
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
 
