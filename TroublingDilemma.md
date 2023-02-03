@@ -21,3 +21,10 @@ Now suppose that some features of कुमय्या Kumaoni are not kept in 
 Hence, it becomes mandatory to publish some universally accepted principles following which the standard dialect may be composed.
 
 ---
+
+## The Case for खसपर्जिया
+Almora city was the capital of Kumaon during the medieval era. Thus, people from various regions migrated there for better prospects and administrative work. This made the Kumaoni dialect of Almora city (खसपर्जिया) popular in the Kingdom. But post-2000, with the formation of the hill state of Uttarakhand, people started migrating to the भाभर cities of Ramnagar, Haldwani, and Tanakpur. खसपर्जिया dialect didn’t hold prominence here. Hence, people reverted to their regional dialects. Kumaoni itself became a language that people only spoke with family members. Eventually, some families stopped teaching the language to their children out of fear that it may negatively affect their Hindi/English accent and hinder professional growth.
+
+This is one of the prime reasons why खसपर्जिया couldn’t be used as the standard dialect for Kumaoni.
+
+---
