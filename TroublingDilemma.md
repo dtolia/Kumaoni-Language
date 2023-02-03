@@ -28,3 +28,19 @@ Almora city was the capital of Kumaon during the medieval era. Thus, people from
 These are some of the prime reasons why खसपर्जिया couldn’t be used as the standard dialect for Kumaoni.
 
 ---
+
+## A Possible Solution
+I think of two theories in this context.
+
+### First
+Standard dialect construction should be done to bring Kumaoni to the Eighth Schedule of the Constitution. On observing other scheduled languages and constitutional articles, we know that only those languages have been included in the schedule which:
+* differ from other scheduled languages; and
+* Strengthens Hindi.
+Perhaps along these lines, a satisfactory reason can be given for ignoring certain aspects of some dialects when creating the standard language.
+
+### Second
+Like standard Bengali and Gujarati, the decision on standard dialect should be left to the affluent class of Kumaoni society. That is, the language that pleases the well-to-do and gets their economic protection should be the standard.
+
+Therefore the dialect whose music and lyrics attract the Kumaoni elites sitting in Delhi and Bombay, the dialect which may be easily learned by everyone, shall become the standard.
+
+---
