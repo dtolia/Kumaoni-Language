@@ -23,3 +23,9 @@
 तर्क | तुक | logic
 शैली (अंदाज़) | ठसक | style, genre, form
 दीवार | भीड़ी | wall
+आकाश (आसमान) | सरग | sky
+दलदल | स्यमार | bog, marsh, moor, quicksand
+केतली | तिपरी | kettle
+सष्टांग प्रणाम | घपकौन स्यौ | prostration, to bow down out of respect
+घूॅंट | तुरकू | gulp
+मण्डप (शामियाना) | बुरती छौनो | pavilion, a shed adorning flowers erected on festive occasions
