@@ -29,3 +29,6 @@
 सष्टांग प्रणाम | घपकौन स्यौ | prostration, to bow down out of respect
 घूॅंट | तुरकू | gulp
 मण्डप (शामियाना) | बुरती छौनो | pavilion, a shed adorning flowers erected on festive occasions
+चोटी पर स्थित भूमि की एक लंबी, संकरी पट्टी | धार | ridge; {Geography}
+संतुष्टि | धौ | satisfaction
+संतुष्ट| छक्क | satisfied
