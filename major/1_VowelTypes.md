@@ -3,7 +3,7 @@
 1. अ (transliterated as “a”)
    - अ (a) is pronounced as ‘A’ in America.
    - In prose, it is not pronounced at the end of a word, as in bɑ̄lak, not bɑ̄laka.
-   - But when certain terminations, of which the most important are le (by) and ko (of), are added to such a word, the “a” is pronounced, as in bɑ̄laka-le (by a child).
+   - But when certain terminations, of which the most important are le (by) and ko (of), are added to such a word, the “a” is pronounced, as in bɑ̄laka-le (बालकले) (Hindi: बालक ने).
    - In poetry, the pronunciation of a final “a” depends upon meter.
 
 2. आ (it has 2 sounds):
