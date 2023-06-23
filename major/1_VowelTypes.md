@@ -39,6 +39,8 @@
 
 7. औ (au) is pronounced as in Hindi.
 
+<br>
+
 [Next Chapter ->](https://pages.github.com/)
 
 ---
