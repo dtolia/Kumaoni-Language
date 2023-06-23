@@ -40,7 +40,7 @@ Standard dialect construction should be done to bring Kumaoni to the Eighth Sche
 Perhaps along these lines, a satisfactory reason can be given for ignoring certain aspects of some dialects when creating the standard language.
 
 ### Second
-Like standard Bengali and Gujarati, the decision on standard dialect should be left to the affluent class of Kumaoni society. That is, the language that pleases the well-to-do and gets their economic protection should be the standard.
+Like standard Bengali and Gujarati, the decision on standard dialect should be left to the affluent class of Kumaoni society. That is, the language that pleases the well-to-do and gets their patronage should be the standard.
 
 Therefore the dialect whose music and lyrics attract the Kumaoni elites sitting in Delhi and Bombay, the dialect which may be easily learned by everyone, shall become the standard.
 
