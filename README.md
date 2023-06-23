@@ -1,5 +1,5 @@
 # Learning Kumaoni
-A language can only be learned by speaking with other native speakers. Therefore, in the following paragraphs you can find sentences that you may use in everyday life. And up above, you shall discover folders containing other language-learning resources.
+A language should preferably be learned by speaking with other native speakers. But at times some nuances and intricasies surrounding the language must be explained beforehand. Therefore, in the following paragraphs you can find a treasure trove of information that may help you use Kumaoni in everyday life. And up above, you shall discover folders containing other language-learning resources.
 
 Also check out: [Troubles around Kumaoni Standardization](/TroublingDilemma.md).
 
@@ -41,4 +41,15 @@ Please raise issues about content (if any) in the **Issues** section above after
      - Sounds like the ‘i’ in right, as in chāītra चैइत्र.
      - It principally occurs in तत्सम words.
 
-6. 
+6. ओ (it has 2 sounds):
+   - Short vowel represented by “o”
+     - Sounds like the first ‘o’ in promote.
+     - Although many pronounce it as ordinary ओ now, as in rot̥o रोटो.
+   - Long vowel represented by “ō”
+     - It is ordinary ओ of Hindi, sounds like the second ‘o’ in promote.
+
+7. औ (au) is pronounced as in Hindi.
+
+[Next ->](https://pages.github.com/)
+
+---
