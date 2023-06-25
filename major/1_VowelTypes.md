@@ -41,6 +41,6 @@
 
 <br>
 
-[Next Chapter ->](/major/2_Epenthesis.md)
+[NextChapter ->](/major/2_Epenthesis.md)
 
 ---
