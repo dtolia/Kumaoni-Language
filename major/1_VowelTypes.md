@@ -41,6 +41,6 @@
 
 <br>
 
-[Next Chapter ->](https://pages.github.com/)
+[Next Chapter ->](/major/2_Epenthesis.md)
 
 ---
