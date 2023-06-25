@@ -39,13 +39,13 @@ The change of a vowel owing to the influence of another vowel in the succeeding 
    - Similarly, rot̥o रोटो (Hindi: रोटी) will become rwŏt̥o र्-वॉटो.
    - But some people say that forms such as myŏro and rwŏt̥o are vulgar and not used in polite conversation.
    - Examples:
-     - तसो च्यॉलो तेरो हैगो छ। (taso chyŏlo tero hai-go chh)
+     - तसो च्यॉलो तेरो हैगो छ। (taso chyŏlo tero hai-go chh)<br>
      [ऐसा बेटा तेरा हो गया है।]
-     - भारि पहाड़ जसो ब्वॉजो। (bhɑ̀ri pahɑ̄r̥ jaso bwŏjo)
+     - भारि पहाड़ जसो ब्वॉजो। (bhɑ̀ri pahɑ̄r̥ jaso bwŏjo)<br>
      [भारी पहाड़ जैसा बोजा।]
 
 <br>
 
-[<- Previous Chapter](/major/1_VowelTypes.md) &ensp [Next Chapter ->](https://pages.github.com/)
+[<- Previous Chapter](/major/1_VowelTypes.md) &ensp; [Next Chapter ->](https://pages.github.com/)
 
 ---
