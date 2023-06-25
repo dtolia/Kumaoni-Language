@@ -28,7 +28,7 @@ The change of a vowel owing to the influence of another vowel in the succeeding 
 4. Rule-4: The letter “o” or “ō” when followed by ‘ɑ̀’, becomes wɑ̀.
    - Thus, rot̥o रोटो (Hindi: रोटी) has its plural as rwɑ̀t̥ɑ̀ र्-वट (Hindi: रोटियाँ).
    - Examples: 
-     - वीके र्-वट दिण जाँछु। (wī-kē rwɑ̀t̥ɑ̀ din̥ jā̃-chhu)<br>
+     - वीथे र्-वट दिण जाँछु। (wī-thē rwɑ̀t̥ɑ̀ din̥ jā̃-chhu)<br>
      [उसको रोटियाँ देने जाता हूँ।]
      - थ्वड़ दिनन जाँलै। (thwɑ̀r̥ɑ̀ dinan jā̃lai)<br>
      [थोड़े दिनों तक।]
@@ -46,6 +46,6 @@ The change of a vowel owing to the influence of another vowel in the succeeding 
 
 <br>
 
-[<- Previous Chapter](/major/1_VowelTypes.md) &ensp; [Next Chapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/1_VowelTypes.md) &ensp; [NextChapter ->](https://pages.github.com/)
 
 ---
