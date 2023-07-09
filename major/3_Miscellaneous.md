@@ -50,6 +50,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/2_Epenthesis.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/2_Epenthesis.md) &ensp; [NextChapter ->](/major/4_ArticleGenderNumber.md)
 
 ---
