@@ -46,6 +46,6 @@ The change of a vowel owing to the influence of another vowel in the succeeding 
 
 <br>
 
-[<- PreviousChapter](/major/1_VowelTypes.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/1_VowelTypes.md) &ensp; [NextChapter ->](/major/3_Miscellaneous.md)
 
 ---
