@@ -23,6 +23,6 @@ There are two numbers, singular and plural.
 
 <br>
 
-[<- PreviousChapter](/major/3_Miscellaneous.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/3_Miscellaneous.md) &ensp; [NextChapter ->](/major/5_Cases.md)
 
 ---

@@ -45,3 +45,19 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 
 ## Agent Case
 
+1. The case of the Agent is employed exactly as in Hindi (and not as in Khas-Kurā), being used only with the subjects of transitive verbs in tenses formed from the past participle.
+
+2. The verb agrees in gender and person with the object, when the object is in the form of the nominative.
+
+3. If the object has the postposition thē थे (Hindi: को), then the verb remains in the masculine exactly as in Hindi.
+
+4. In Kumaoni, this case is exactly the same in form as the instrumental; its postposition (as in Khas-Kurā) being le ले.
+
+5. For example,
+   - वी आदिमिले वीथे यो कयो। (wī ādimi-le wī-thē yo kayo)<br>
+   [उस आदमी ने उसको यह कहा।]
+   - राजाले मुनिकि बात मानि ली। (ràjā-le muni-ki bāt {fem.} màni-lī)<br>
+   [राजा ने मुनि की बात मान ली।]
+   - एक-एकले यो सारि बात कैन। (ēk-eka-le yo sàri bāt {fem. plural} kain)<br>
+   [एक-एक ने ये सारी बातें कही।]
+
