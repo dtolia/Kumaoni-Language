@@ -1,7 +1,7 @@
 # Learning Kumaoni
 This repository has three parts:
 
-1. An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b> and associates.
+1. An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b> and associates. <br>
 Click here to start learning -> [Begin](/major/1_VowelTypes.md) <br>
 Also check out: [Troubles around Kumaoni Standardization](/TroublingDilemma.md).
 
