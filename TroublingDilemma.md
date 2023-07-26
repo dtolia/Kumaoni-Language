@@ -22,10 +22,14 @@ Hence, it becomes mandatory to publish some universally accepted principles foll
 
 ---
 
-## The Case for खसपर्जिया
-Almora city was the capital of Kumaon during the medieval era. Thus, people from various regions migrated there for better prospects and administrative work. This made the Kumaoni dialect of Almora city (खसपर्जिया) popular in the Kingdom. But post-2000, with the formation of the hill state of Uttarakhand, people started migrating to the भाभर cities of Ramnagar, Haldwani, and Tanakpur. खसपर्जिया dialect didn’t hold prominence here. Hence, people reverted to their regional dialects. Kumaoni became a language that people only used with family members. Eventually, some families stopped teaching the language to their children out of fear that it may negatively affect their Hindi/English accent and hinder professional growth.
+## The Case of Almora City Dialect
+Almora city was the capital of Kumaon during the late medieval era. Thus, people from various regions migrated there for better prospects and administrative work.
 
-These are some of the prime reasons why खसपर्जिया couldn’t be used as the standard dialect for Kumaoni.
+It is a generally accepted that Almora city dialect is खसपर्जिया, but that isn't true. Almora city lies in the Baramandal province and the dialect of this entire region is labelled खसपर्जिया. But since Almora city was settled by people from all across Kumaon and country, the city dialect drew influence from Sanskrit, Kannauji, and Awadhi alongside the various Kumaoni dialects. Thus becoming an ideal candidate for Standardized Kumaoni.
+
+But post-2000, with the formation of the hill state of Uttarakhand, people started migrating to the भाभर cities of Ramnagar, Haldwani, and Tanakpur. Almora city dialect didn’t hold prominence here. Hence, people reverted to their regional dialects. Kumaoni became a language that people only used with family members. Eventually, some families stopped teaching the language to their children out of fear that it may negatively affect their Hindi/English accent and hinder professional growth.
+
+And therefore, a promising dialect lost relevance among its people.
 
 ---
 
@@ -33,11 +37,11 @@ These are some of the prime reasons why खसपर्जिया couldn’t b
 I think of two theories in this context.
 
 ### First
-Standard dialect construction should be done to bring Kumaoni to the Eighth Schedule of the Constitution. On observing other scheduled languages and constitutional articles, we know that only those languages have been included in the schedule which:
+Standard dialect construction should be done keeping Almora City Dialect as base to bring Kumaoni to the Eighth Schedule of the Constitution. On observing other scheduled languages and constitutional articles, we know that only those languages have been included in the schedule which:
 * differ from other scheduled languages; and
 * strengthen Hindi.
 
-Perhaps along these lines, a satisfactory reason can be given for ignoring certain aspects of some dialects when creating the standard language.
+Perhaps along these lines, a satisfactory reason may be provided for modifying the Almora City dialect to create the standard language.
 
 ### Second
 Like standard Bengali and Gujarati, the decision on standard dialect should be left to the affluent class of Kumaoni society. That is, the language that pleases the well-to-do and gets their patronage should be the standard.
