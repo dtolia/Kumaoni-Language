@@ -5,9 +5,9 @@ This repository has three parts:
 Click here to start learning -> [Begin](/major/1_VowelTypes.md) <br>
 Also check out: [Troubles around Kumaoni Standardization](/TroublingDilemma.md).
 
-2. Folder 0 which provides a dictionary. 
+2. Folder 0 provides a dictionary. 
 
-3. Folders 1 to 6 which supplies references on various topics for quick revision.
+3. Folders 1 to 6 supply references on various topics for quick revision.
 
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
 
