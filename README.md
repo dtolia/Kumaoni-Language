@@ -1,8 +1,14 @@
 # Learning Kumaoni
-A language should preferably be learned by speaking with other native speakers. But at times some nuances and intricasies surrounding the language must be explained beforehand. Therefore, through the link below you can find a treasure trove of information that may help you use Kumaoni in everyday life. And up above, you shall discover folders containing other language-learning resources.
+This repository has three parts:
+
+1. An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b>and associates.
 
 Click here to start learning -> [Begin](/major/1_VowelTypes.md) <br>
 Also check out: [Troubles around Kumaoni Standardization](/TroublingDilemma.md).
+
+2. Folder 0 which provides a dictionary. 
+
+3. Folders 1 to 6 which supplies references on various topics for quick revision.
 
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
 
