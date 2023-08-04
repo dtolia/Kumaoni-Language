@@ -36,11 +36,11 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 7. In one instance, the oblique plural ends in nà, instead of n. Namely,
    - kir̥o किड़ो (a worm); nom. plural kir̥à किड़ा; obl. plural kir̥anà किड़न.
 
-8. When an oblique form ends in an unpronounced a, it takes that a again into pronunciation before the postposition le ले and ko को (kà का, ki कि). In the plural, this is optional before le. Thus,
+8. When an oblique form ends in an unpronounced 'a', it takes that 'a' again into pronunciation before the postposition le ले and ko को (kà का, ki कि). In the plural, this is optional before le. Thus,
    - bhar̥ भड़ (a warrior) has its agent case singular bhar̥a-le भड़ले (भड़ ने), and its genitive singular bhar̥a-ko भड़को (भड़ का).
    - In the plural, the agent is bhar̥an-le or bhar̥ana-le भड़नले (भड़ों ने), and its genitive is bhar̥ana-ko भड़नको (भड़ों का).
 
-9. If an oblique case ends in à, then this à become a before these postpositions. Thus,
+9. If an oblique case ends in à, then this à become 'a' before these postpositions. Thus,
    - chelo चेलो (a son) has its agent case chyàla-le च्यलले (बेटे ने), and its genitive singular chyàla-ko च्यलको (बेटे का).
 
 ## Agent Case (कर्ता कारक)
@@ -194,6 +194,6 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 
 <br>
 
-[<- PreviousChapter](/major/4_ArticleGenderNumber.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/4_ArticleGenderNumber.md) &ensp; [NextChapter ->](/major/6_Adjectives.md)
 
 ---
