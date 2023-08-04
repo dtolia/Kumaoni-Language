@@ -19,7 +19,7 @@
      - एकको नाम सुणिबेर। (eka-ko nām sun̥i-bēr)<br>
      [एक का नाम सुनकर।]
      - डाँकुनको काम। (d̥à̃kuna-ko kām)<br>
-     [डाकुओं का काम।]
+     [डाकुओं का काम।]<br>
    - Masculine Oblique
      - थ्वड़ ढीलमा। (thwàr̥à d̥hīl-mā)<br>
      [थोड़े देर में।]
@@ -40,8 +40,8 @@
      - वीका थिकाल बड़ा सुंदर छिया। (wī-kà thikāl bàr̥à sundar chhiyà)<br>
      [उसके कपड़े बड़े सुंदर थे।]
      - वाँका पापिनैकि दुर्दश। (wā̃-kà pāpinai-ki durdàśà)<br>
-     [वहाँ के पापियों की दुर्दशा।]
-  - Feminine
+     [वहाँ के पापियों की दुर्दशा।]<br>
+   - Feminine
      - बड़ि रीस ऐ। (bar̥i rīs ai)<br>
      [बड़ी गुस्सा आई।]
      - आदिमिनकि बड़ि भीड़। (ādimina-ki bar̥i bhīr̥)<br>
