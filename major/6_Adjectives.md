@@ -37,7 +37,7 @@
      [इसके मरने का वक्त।]
      - म्यर दगड़िया राजि हुनेर निहातन। (myàrà dagar̥iyà rāji hunēr nihàtan)<br>
      [मेरे सखे राजी होनेवाले नहीं हैं।]
-     - वीका थिकाल बड़ा सुंदर छिया। (wī-kà thikāl bàr̥à sundar chhiyà)<br>
+     - वीका लुकड़ बड़ा सुंदर छिया। (wī-kà lukàr̥à bàr̥à sundar chhiyà)<br>
      [उसके कपड़े बड़े सुंदर थे।]
      - वाँका पापिनैकि दुर्दश। (wā̃-kà pāpinai-ki durdàśà)<br>
      [वहाँ के पापियों की दुर्दशा।]<br><br>
