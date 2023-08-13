@@ -61,6 +61,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/5_Cases.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/5_Cases.md) &ensp; [NextChapter ->](/major/7_Pronouns.md)
 
 ---
