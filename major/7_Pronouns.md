@@ -204,6 +204,40 @@ The relative pronoun and its correlative are declined as follows,
    - कै समयमा। (kai samay-mā)<br>
    [किसी समय में।]
 
+## Other Pronominal Forms
+
+1. For other pronominal forms we may quote,
+   - yaso यसो (Hindi: ऐसा); yasi यसि (Hindi: ऐसी); yàsà यस (Hindi: ऐसे).
+   - jaso जसो (Hindi: जैसा); jasi जसि (Hindi: जैसी); jàsà जस (Hindi: जैसे).
+   - uso उसो (Hindi: वैसा); usi उसि (Hindi: वैसी); usà उस (Hindi: वैसे).
+   - taso तसो (Hindi: तैसा); tasi तसि (Hindi: तैसी); tàsà तस (Hindi: तैसे).
+   - jaswe जस्वे (Hindi: जैसे ही); uswe उस्वे (Hindi: वैसे ही); taswe तस्वे (Hindi: तैसे ही).
+   - etuk एतुक (Hindi: इतना); katuk कतुक (Hindi: कितना).
+   - wā̃ वाँ (Hindi: वहाँ); yā̃ याँ (Hindi: यहाँ).
+   - jab जब; tab तब.
+   - eth एथ, eti एति (Hindi: इधर); uth उथ (Hindi: उधर).
+
+2. Examples,
+   - यसो करिबेर। (yaso kari-bēr)<br>
+   [ऐसा करके।]
+   - एक यसि ठौर पुजो। (ēk yasi t̥haur pujo)<br>
+   [एक ऐसी जगह पहुँचा।]
+   - बहौत आदिमि यस छन। (bahaut ādimi yàsà chhan)<br>
+   [बहुत आदमी ऐसे हैं।]
+   - भीलन जसो। (Bhīlan jaso)<br>
+   [भीलों जैसा।]
+   - जसि स्यैणि मैं बेउणा चाँछियूँ, ठीक यो उसि छ। (jasi syain̥i maĩ bēun̥ā chā̃-chhyū̃, t̥hīk yo usi chh)<br>
+   [जैसी महिला मैं ब्याहना चाहता था, ठीक यह वैसी है।]
+   - उस्वे करो। (uswe karo)<br>
+   [वैसा ही करा।]
+   - जस्वे मातंग आगहै भैर आछियो, तस्वे उननले आदिमिनकि बड़ि भीड़ देखि। (jaswe Mātan̊g àgà-hai bhair ā-chhiyo, taswe unana-le ādimina-ki bar̥i bhīr̥ dekhi.)<br>
+   [जैसे ही मातंग आग से बाहर आया, तैसे ही उन्होंने आदमियों की बड़ी भीड़ देखी।]
+   - एतुक कैबेर। (etuk kai-bēr)<br>
+   [इतना कहकर।]
+   - एतुकैइमा। (etukāī-mā)<br>
+   [इतने ही में।]
+   - पछोंका पैकको तराण कतुक छ? (pachhō̃-kà paika-ko tarān̥ katuk chh)<br>
+   [पश्चिम के वीर का ताकत कितना है?]
 
 <br>
 
