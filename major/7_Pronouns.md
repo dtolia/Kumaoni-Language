@@ -170,6 +170,40 @@ The relative pronoun and its correlative are declined as follows,
    - तुम जन बातनमा मन लगूँछा। (tum jan bàtan-mā man lagū̃-chhā)<br>
    [तुम जिन बातों में मन लगा रहे हो।]
 
+## Interrogative Pronouns
+
+1. The interrogative pronouns are,
+   - ko को (Hindi: कौन), which is declined like jo जो.
+   - ke के (Hindi: क्या).
+   - ki-lai किलै (Hindi: क्यों).
+
+2. Examples, 
+   - तु को छे? (tu ko chhē {fem.})<br>
+   [तू कौन है?]
+   - कूणको के मतलब छ? (kūn̥a-ko ke matlab chh)<br>
+   [कहने का क्या मतलब है?]
+   - त्यर गलन जन्यो किलै छ? (tyàrà gàlan janyo ki-lai chh)<br>
+   [तेरे गले जनेऊ क्यों है?]
+
+## Indefinite Pronouns
+
+1. The indefinite pronouns are,
+   - kwē क्वे (Hindi: कोई).
+   - kēi केइ (Hindi: कुछ).
+   - The oblique singular is kai कै (Hindi: किस / किसी).
+   - The oblique plural is kananāī कननैइ; kanāī कनैइ {Adj.} (Hindi: किन). 
+   - The genitive plural are kanarai कनरै or kanarwē कनर्वे (Hindi: किनका); kanari कनरि (Hindi: किनकी); kanàrà कनर (Hindi: किनके).
+
+2. Examples,
+   - क्वे डरौ नैं। (kwē d̥arau naĩ)<br>
+   [कोई डरो नहीं।]
+   - वीले उननथे केइ नि कयो। (wī-le unan-thē kēi ni kayo)<br>
+   [उसने उनको कुछ नही कहा।]
+   - कैले कयो? (kai-le kayo)<br>
+   [किसने कहा?]
+   - कै समयमा। (kai samay-mā)<br>
+   [किसी समय में।]
+
 
 <br>
 
