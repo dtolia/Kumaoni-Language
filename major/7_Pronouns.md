@@ -114,6 +114,62 @@ The first two demonstrative pronouns are as follows,
    - उननथे एक ताल मिलो। (unan-thē ēk tāl milo)<br>
    [उनको एक तालाब मिला।]
 
+## Reflexive Pronouns
+
+1. The reflexive pronoun is āpū̃ आपूँ (Hindi: स्वयं), which does not change in declension except that its genitives are àpan̥o अपणो (Hindi: अपना), àpàn̥à अपण (Hindi: अपने), àpan̥i अपणि (Hindi: अपनी).
+
+2. āphī आफी (Hindi: स्वयं ही) is an emphatic form of āpū̃.
+
+3. Examples,
+   - आपूँ वीले लकड़ एकबट्टा करा। (āpū̃ wī-le làkàr̥à ēk-bàt̥t̥à kàrà)<br>
+   [स्वयं उसने लकड़े इक्कठे करे।]
+   - अपण देशहै भैर भेजो। (àpàn̥à dēś-hai bhair bhejo)<br>
+   [अपने देश से बाहर भेजा।]
+   - सोमदत्तले अपणि कथा कै। (Sōmdatta-le àpan̥i kathā kai)<br>
+   [सोमदत्त ने अपनी कथा कही।]
+   - सब बात आफी है जालिन। (sab bāt āphī hai jàlin)<br>
+   [सब बातें स्वयं ही हो जाएंगी।]
+
+## Relative & Correlative Pronouns
+The relative pronoun and its correlative are declined as follows,
+
+| Type | Whoever | That, He, She, It |
+| ------------- | ------------- | ------------- |
+| Singular Nominative | jo (जो); je (जे) | tau (तौ); te (ते); so (सो) |
+| Singular Oblique | jai (जै); jyai (ज्यै) {Hindi: जिस} | tai (तै); tyai (त्यै) |
+|  |  |  |
+| Plural Nominative | jo (जो); je (जे) | tau (तौ); te (ते); so (सो) |
+| Plural Genitive | janaro (जनरो) | tanaro (तनरो) |
+| Plural Oblique | janan (जनन); jan (जन) {Hindi: जिन} | tanan (तनन); tan (तन) |
+
+1. In the nominative, 
+   - jo and tau can be used for both persons and things.
+   - je and te only for things.
+   - so can only be used for persons.
+
+2. In the oblique singular, jyai and tyai can only be used as substantives and can only refer to things.
+
+3. As usual, the oblique forms of janaro जनरो (Hindi: जिनका) and tanaro are janàrà जनर (Hindi: जिनके) and tanàrà.
+
+4. When used as an adjective,
+   - jo or je & so or te are employed when the noun in agreement is in the nominative singular or plural.
+   - jai & tai when it is in an oblique case singular.
+   - jan & tan when it is in an oblique case plural.
+
+5. Examples,
+   - वीमा जो लेखियो छियो ते पड़ो। (wī-mā jo lekhiyo chhiyo te par̥o)<br>
+   [उसमें जो लिखा था वो पढ़ा।]
+   - जे वीमा लेखियो छ, ते तु करिए। (je vī-mā lekhiyo chh, te tu kariyē)<br>
+   [जो उसमें लिखा है, वो तू कर।]
+   - जैका हातमा उ रूँछि। (jai-kà hāt-mā u rū̃-chhi)<br>
+   [जिसके हाथ में वह रहती थी।]
+   - जै बखत उ मलिथे आयो। (jai bakhat u mali thē àyo)<br>
+   [जिस वक्त वह ऊपर को आया।]
+   - जननले बेद छाड़िहालीं। (janana-le bēd chhàr̥i-hālī̃)<br>
+   [जिन्होंने वेद छोड़ दिए हैं।]
+   - तुम जन बातनमा मन लगूँछा। (tum jan bàtan-mā man lagū̃-chhā)<br>
+   [तुम जिन बातों में मन लगा रहे हो।]
+
 
 <br>
 
