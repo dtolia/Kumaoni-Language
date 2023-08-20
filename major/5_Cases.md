@@ -81,13 +81,13 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 
 ## Dative Case (संप्रदान कारक)
 
-1. The usual postposition of the Dative is su सु and kà liji का लिजि, used exactly like the Hindi kē liyē.
+1. The usual postposition of the Dative is su सु and kà liji का लिजि, used exactly like the Hindi hētu and kē liyē, respectively.
 
 2. Examples,
    - पाणि पिणसु वी तलौनमा आयो। (pàn̥i pin̥-su vī talaun-mā àyo)<br>
-   [पानी पीने के लिए उस तालाब में आया।]
+   [पानी पीने हेतु उस तालाब में आया।]
    - अपणि दगड़ियनथे देखौणसु अपणि खल्दिमा धरि लियो। (àpan̥i dagar̥iyan-thē dekhaun̥-su àpan̥i khaldi-mā dhari-liyo)<br>
-   [अपनी सखियों को दिखाने के लिए अपनी जेब में रख लिया।]
+   [अपनी सखियों को दिखाने हेतु अपनी जेब में रख लिया।]
    - सामलका लिजि सत्तुको थैलो। (sàmalà-kà liji sattu-ko thailo)<br>
    [प्रावधान के लिए सत्तू का थैला।]
 
