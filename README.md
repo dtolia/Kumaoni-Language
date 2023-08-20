@@ -7,7 +7,7 @@ This repository has three parts:
 
 2. Folder 0 provides a dictionary. 
 
-3. Folders 1 to 6 supply references on various topics for quick revision.
+3. Folders 1 to 5 supply references on various topics for quick revision.
 
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
 
