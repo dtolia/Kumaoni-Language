@@ -81,7 +81,7 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 
 ## Dative Case (संप्रदान कारक)
 
-1. The usual postposition of the Dative is su सु and kà liji का लिजि, used exactly like the Hindi hētu and kē liyē, respectively.
+1. The usual postpositions of the Dative are su सु and kà liji का लिजि, used exactly like the Hindi hētu हेतु and kē liyē के लिए, respectively.
 
 2. Examples,
    - पाणि पिणसु वी तलौनमा आयो। (pàn̥i pin̥-su vī talaun-mā àyo)<br>
@@ -93,7 +93,7 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 
 ## Instrumental Case (करण कारक)
 
-1. The postpositions of the Instrumental case are le ले and kà màri का मारि, used exactly like the Hindi sē से and kē mārē के मारे respectively.
+1. The postpositions of the Instrumental case are le ले and kà màri का मारि, used exactly like the Hindi sē से and kē mārē के मारे, respectively.
 
 2. Examples,
    - वीले चिचाट करो जैले वी पैककि नीन टुटि गै। (vī-le chichāt̥ karo jai-le vī paika-ki nīn t̥ut̥i gai)<br>
