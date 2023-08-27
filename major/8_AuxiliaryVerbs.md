@@ -21,6 +21,7 @@ In the general principles of its conjugation Kumaoni closely follows Hindi; but 
 The form chh of the third person singular has in prose no vowel, and is pronounced together with the final syllable of the word which precedes it. Thus,
 - bar̥o chh = bar̥ochh बड़ोछ.
 - katuk chh = katukchh कतुक्छ.
+
 In poetry, as usual, the final ‘a’ may be pronounced, so that we should have bar̥o chha, katuka chha. 
 Note that in this document we have preferred the poetry style for prose writing as well.
 
