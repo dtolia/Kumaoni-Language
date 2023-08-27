@@ -14,9 +14,9 @@ In the general principles of its conjugation Kumaoni closely follows Hindi; but 
 ### Auxiliary Verb
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
-| (1) | chhũ छुँ (I am) | chhũ छुँ (we are) |
-| (2) | Masc. - chhai छै; <br>Fem. - chhē छे (optional) {thou art} | chhā छा (you are) |
-| (3) | Masc. - chh छ {he is}; <br>Fem. - chhya छ्य / chhe छ्ये (optional) {she is} | chhan छन (they are) |
+| (1) | chhũ छुँ | chhũ छुँ |
+| (2) | Masc. - chhai छै; <br>Fem. - chhē छे (optional) | chhā छा |
+| (3) | Masc. - chh छ; <br>Fem. - chhya छ्य / chhe छ्ये (optional) | chhan छन |
 
 <br>
 
