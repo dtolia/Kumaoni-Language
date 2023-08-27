@@ -241,6 +241,6 @@ The relative pronoun and its correlative are declined as follows,
 
 <br>
 
-[<- PreviousChapter](/major/6_Adjectives.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/6_Adjectives.md) &ensp; [NextChapter ->](/major/8_AuxiliaryVerbs.md)
 
 ---
