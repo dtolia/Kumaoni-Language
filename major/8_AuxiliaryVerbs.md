@@ -44,7 +44,8 @@ There is a negative verb substantive nihātū̃ निहातूँ or nhā
 | (2) | Masc. - nihàtai निहतै; <br>Fem. - nihātyē निहात्ये | Masc. - nihàtau निहतौ / nihātā निहाता; <br>Fem. - nihàtiyau निहतियौ / nihàtiyā निहतिया |
 | (3) | Masc. - nihàti निहति; <br>Fem. - nihàte निहते | Masc. - nihàtan निहतन; <br>Fem. - nihàtan निहतन / naĩ नैं |
 
-Similarly, we have the negatives rau-nihàti रौनिहति, he is not, and rau-nihàtan रौनिहतन, they are not, etc.<br>
+Similarly, we have the negatives rau-nihàti रौनिहति, he is not, and rau-nihàtan रौनिहतन, they are not, etc.
+<br>
 
 ## Past Tense
 
