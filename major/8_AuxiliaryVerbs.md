@@ -90,7 +90,16 @@ The examples of auxiliary verbs will be found under the head of finite verbs.
 [तेरी बातें सच्ची हैं।]
 - मैं यसो उल्लु निहातूँ। (maĩ yaso ullu nihātū̃)<br>
 [मैं ऐसा उल्लू नहीं हूँ।]
-
+- वीको क्वे च्यॉलो निहति। (wī-ko kwē chyŏlo nihàti)<br>
+[उसका कोई बेटा नही है।]
+- जेवर अर करामतकि थैलि अब कभैं मिलनेर नैं। (jēwar ar karāmata-ki thaili ab kabhaĩ milanēr naĩ)<br>
+[ज़ेवर और करामात की थैली अब कभी मिलनेवाली नहीं।]
+- मैं यसो सराप लायक नि छियूँ। (maĩ yaso sarāp lāyak ni chhiyū̃)<br>
+[मैं ऐसा श्राप लायक नहीं थी।]
+- ज्वान स्यैणि छि। (jwān syain̥i chhi)<br>
+[जवान महिला थी।]
+- वीका लुकड़ बड़ा सुन्दर छिय। (wī-kà lukàr̥à bàr̥à sundar chhiyà)<br>
+[उसके कपड़े बड़े सुंदर थे।]
 
 <br>
 
