@@ -32,8 +32,8 @@ The present perfect tense of the verb rū̃n̥ō रूँणो (Hindi: र�
 | (1) | Masc. - rau-chhũ रौछुँ; <br>Fem. - rai-chhũ रैछुँ | Masc. - rau-chhũ रौछुँ; <br>Fem. - rai-chhũ रैछुँ |
 | (2) | Masc. - rau-chhai रौछै; <br>Fem. - rai-chhai रैछै | Masc. - rau-chhā रौछा; <br>Fem. - rai-chhā रैछा |
 | (3) | Masc. - rau-chh रौ छ; <br>Fem. - rai-chh रै छ | Masc. - rī री or raī रई; <br>Fem. - rī̃ रीं or raī̃ रईं |
-In the above table, ra र may be substituted for rau, and rē रे for rai.
 
+In the above table, ra र may be substituted for rau, and rē रे for rai.
 
 <br>
 
