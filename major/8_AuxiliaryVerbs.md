@@ -1,6 +1,7 @@
 # Chapter-8: Auxiliary Verbs & Verb Substantive
 
-In the general principles of its conjugation Kumaoni closely follows Hindi; but the participial tenses all take personal terminations, and there is an independent passive voice formed by adding ī ई to the root (as in Khas-Kura). The Auxiliary Verb form is used in association with other main verb. Verb Substantive form is used independently.<br>
+In the general principles of its conjugation Kumaoni closely follows Hindi; but the participial tenses all take personal terminations, and there is an independent passive voice formed by adding ī ई to the root (as in Khas-Kura). The Auxiliary Verb form is used in association with other main verb. Verb Substantive form is used independently.
+<br><br>
 
 ## Present Tense
 
@@ -45,7 +46,7 @@ There is a negative verb substantive nihātū̃ निहातूँ or nhā
 | (3) | Masc. - nihàti निहति; <br>Fem. - nihàte निहते | Masc. - nihàtan निहतन; <br>Fem. - nihàtan निहतन / naĩ नैं |
 
 Similarly, we have the negatives rau-nihàti रौनिहति, he is not, and rau-nihàtan रौनिहतन, they are not, etc.
-<br>
+<br><br>
 
 ## Past Tense
 
