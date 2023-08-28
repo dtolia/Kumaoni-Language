@@ -35,6 +35,17 @@ The present perfect tense of the verb rū̃n̥ō रूँणो (Hindi: र�
 
 In the above table, ra र may be substituted for rau, and rē रे for rai.
 
+### Negative Verb Substantive
+There is a negative verb substantive nihātū̃ निहातूँ or nhātū̃ न्हातूँ (I am not/I will not be) which is thus conjugated,
+
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | Masc. - nihātū̃ निहातूँ; <br>Fem. - nihātyū̃ निहात्यूँ | Masc. - nihātū̃ निहातूँ; <br>Fem. - nihàtiyū̃ निहतियूँ |
+| (2) | Masc. - nihàtai निहतै; <br>Fem. - nihātyē निहात्ये | Masc. - nihàtau निहतौ / nihātā निहाता; <br>Fem. - nihàtiyau निहतियौ / nihàtiyā निहतिया |
+| (3) | Masc. - nihàti निहति; <br>Fem. - nihàte निहते | Masc. - nihàtan निहतन; <br>Fem. - nihàtan निहतन / naĩ नैं |
+
+Similarly, we have the negatives rau-nihàti रौनिहति, he is not, and rau-nihàtan रौनिहतन, they are not, etc.
+
 <br>
 
 [<- PreviousChapter](/major/7_Pronouns.md) &ensp; [NextChapter ->](https://pages.github.com/)
