@@ -46,6 +46,17 @@ There is a negative verb substantive nihātū̃ निहातूँ or nhā
 
 Similarly, we have the negatives rau-nihàti रौनिहति, he is not, and rau-nihàtan रौनिहतन, they are not, etc.
 
+## Past Tense
+
+### Verb Substantive & Auxiliary Verb
+The past change for gender. It is the same in form whether it is a verb substantive or an auxiliary. It is conjugated as follows,
+
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | chhiyū̃ छियूँ | chhiyā̃ छियाँ |
+| (2) | Masc. - chhiyē छिए; <br>Fem. - chhī छी | chhiyā छिया |
+| (3) | Masc. - chhiyo छियो; <br>Fem. - chhi छि | Masc. - chhiyà छिय; <br>Fem. - chhin छिन |
+
 <br>
 
 [<- PreviousChapter](/major/7_Pronouns.md) &ensp; [NextChapter ->](https://pages.github.com/)
