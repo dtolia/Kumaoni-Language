@@ -82,6 +82,14 @@ The examples of auxiliary verbs will be found under the head of finite verbs.
 [तू कौन है?]
 - छ्यत्रिनको जे काम छ। (chhyatrina-ko je kām {masc.} chh)<br>
 [क्षत्रियों का जो काम है।]
+- हम तेरि सृष्टिमा सबनहै नान छूँ। (ham teri sr̥isht̥i-mā saban-hai nànà chhū̃)<br>
+[हम तेरी सृष्टि में सबसे छोटे हैं।]
+- तुम को छौ, अर याँ किलै रूँछा? (tum ko chhau {v.s.}, ar yā̃ kilai rū̃-chhā {a.v.})<br>
+[तुम कौन हो, और यहाँ क्यों रहते हो?]
+- तेरि बात साँचि छन। (teri bāt {fem.} sà̃chi chhan)<br>
+[तेरी बातें सच्ची हैं।]
+- मैं यसो उल्लु निहातूँ। (maĩ yaso ullu nihātū̃)<br>
+[मैं ऐसा उल्लू नहीं हूँ।]
 
 
 <br>
