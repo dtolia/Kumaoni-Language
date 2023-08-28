@@ -1,6 +1,6 @@
 # Chapter-8: Auxiliary Verbs & Verb Substantive
 
-In the general principles of its conjugation Kumaoni closely follows Hindi; but the participial tenses all take personal terminations, and there is an independent passive voice formed by adding ī ई to the root (as in Khas-Kura). The Auxiliary Verb form is used in association with other main verb. Verb Substantive form is used independently.
+In the general principles of its conjugation Kumaoni closely follows Hindi; but the participial tenses all take personal terminations, and there is an independent passive voice formed by adding ī ई to the root (as in Khas-Kura). The Auxiliary Verb form is used in association with other main verb. Verb Substantive form is used independently.<br>
 
 ## Present Tense
 
@@ -44,7 +44,7 @@ There is a negative verb substantive nihātū̃ निहातूँ or nhā
 | (2) | Masc. - nihàtai निहतै; <br>Fem. - nihātyē निहात्ये | Masc. - nihàtau निहतौ / nihātā निहाता; <br>Fem. - nihàtiyau निहतियौ / nihàtiyā निहतिया |
 | (3) | Masc. - nihàti निहति; <br>Fem. - nihàte निहते | Masc. - nihàtan निहतन; <br>Fem. - nihàtan निहतन / naĩ नैं |
 
-Similarly, we have the negatives rau-nihàti रौनिहति, he is not, and rau-nihàtan रौनिहतन, they are not, etc.
+Similarly, we have the negatives rau-nihàti रौनिहति, he is not, and rau-nihàtan रौनिहतन, they are not, etc.<br>
 
 ## Past Tense
 
@@ -56,6 +56,17 @@ The past change for gender. It is the same in form whether it is a verb substant
 | (1) | chhiyū̃ छियूँ | chhiyā̃ छियाँ |
 | (2) | Masc. - chhiyē छिए; <br>Fem. - chhī छी | chhiyā छिया |
 | (3) | Masc. - chhiyo छियो; <br>Fem. - chhi छि | Masc. - chhiyà छिय; <br>Fem. - chhin छिन |
+
+### Perfective
+The pluperfect tense of the verb rū̃n̥ō रूँणो (Hindi: रहना) is very frequently employed as auxiliary. The pluperfect, I had remained, is used to mean ‘I was.’ As the conjugation of this verb is somewhat irregular, this tense is here given in full detail.
+
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | Masc. - rau-chhiyū̃ रौछियूँ; <br>Fem. - rai-chhiyū̃ रैछियूँ | Masc. - rau-chhiyā̃ रौछियाँ; <br>Fem. - rai-chhiyā̃ रैछियाँ |
+| (2) | Masc. - rau-chhiyē रौछिए; <br>Fem. - rai-chhī रैछी | Masc. - rau-chhiyā रौछिया; <br>Fem. - rai-chhiyā रैछिया |
+| (3) | Masc. - rau-chhiyo रौछियो; <br>Fem. - rai-chhi रैछि | Masc. - rau-chhiyà रौछिय; <br>Fem. - rai-chhin रैछिन |
+
+As before, we may have ra for rau, and rē for rai.
 
 <br>
 
