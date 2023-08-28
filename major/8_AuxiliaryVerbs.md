@@ -69,6 +69,20 @@ The pluperfect tense of the verb rū̃n̥ō रूँणो (Hindi: रहन�
 | (3) | Masc. - rau-chhiyo रौछियो; <br>Fem. - rai-chhi रैछि | Masc. - rau-chhiyà रौछिय; <br>Fem. - rai-chhin रैछिन |
 
 As before, we may have ra for rau, and rē for rai.
+<br><br>
+
+## Examples of Verb Substantive
+The examples of auxiliary verbs will be found under the head of finite verbs.
+
+- तु को छै? (tu ko chhai {masc.})<br>
+[तू कौन है?]
+- म्यॉरो नौं रत्नोद्भव छ, मैं मगध देशका राजाको वजीर छूँ। (myŏro naũ Ratnōdbhav chh, maĩ magadh dēśà-kà ràja-ko wajīr chhū̃)<br>
+[मेरा नाम रत्नोद्भव है, मैं मगध देश के राजा का वजीर हूँ।]
+- तु को छे? (tu ko chhē {fem.})<br>
+[तू कौन है?]
+- छ्यत्रिनको जे काम छ। (chhyatrina-ko je kām {masc.} chh)<br>
+[क्षत्रियों का जो काम है।]
+
 
 <br>
 
