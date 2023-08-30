@@ -103,6 +103,6 @@ The examples of auxiliary verbs will be found under the head of finite verbs.
 
 <br>
 
-[<- PreviousChapter](/major/7_Pronouns.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/7_Pronouns.md) &ensp; [NextChapter ->](/major/9_Infinitive.md)
 
 ---
