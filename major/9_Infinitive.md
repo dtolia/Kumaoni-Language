@@ -1,4 +1,4 @@
-# Infinitive or Verbal Noun
+# Chapter-9: Infinitive or Verbal Noun
 
 An infinitive is a form of verb that can be used as a noun, adjective, or adverb.
 
