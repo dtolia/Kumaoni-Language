@@ -44,7 +44,7 @@ An infinitive is a form of verb that can be used as a noun, adjective, or adverb
     - वी जगा देखणथे हिटि दि हालौ। (wī jàgà dekhan̥-thē hit̥i-di hālau)<br>
     [उस जगह देखने को चल…।]
     - लकड़ काटणथे धुरा जैरई। (làkàr̥à kàt̥an̥ dhurà jai-raī)<br>
-    [लकड़ियाँ काटने को पहाड़ जाइ रहे।]
+    [लकड़े काटने को पहाड़ जाइ रहे।]
     - उ पैक धुराथे जाण लागि रौछियो। (u Paik dhurà-thē jān̥ làgi rau-chhiyo)<br>
     [वह वीर पहाड़ को जाने लग रहा था।]
 
