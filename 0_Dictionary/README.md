@@ -25,7 +25,7 @@
 दीवार | भीड़ी | wall
 आकाश (आसमान) | सरग | sky
 सेरा | स्यार | irrigated land
-दलदल | स्यमार | bog, marsh, moor, quicksand
+दलदल | स्यमार | bog, marsh, moor, quicksand; {Geography}
 केतली | तिपरी | kettle
 सष्टांग प्रणाम | घपकौन स्यौ | prostration, to bow down out of respect
 घूॅंट | तुरकू | gulp
@@ -37,3 +37,6 @@
 पहाड़ी | डाना | hill; {Geography}
 पहाड़, पर्वत | धुरा | mountain; {Geography}
 अनोखी, अलग-सी | अणकसि | peculiar, unusual, unique
+पास, निकट, नज़दीक | ढिग, न्यर, नजीक | close by, near, nearby
+धरती | थाती | earth; {Geography}
+गोरा, गोरी | फनार | quality of having a fair complexion
