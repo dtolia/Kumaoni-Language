@@ -19,7 +19,7 @@ An infinitive is a form of verb that can be used as a noun, adjective, or adverb
 7. The ū of the infinitive is often needlessly nasalised, so that we also have ū̃n̥o, kū̃n̥o etc. 
 
 8. Similarly causals of the above five verbs and all double causals have their infinitives in,
-   - aūn̥o अऊणो (Hindi: )
+   - aūn̥o अऊणो (Hindi: आवना)
    - kaūn̥o कऊणो (Hindi: कहवाना)
    - charaūn̥o चरऊणो (Hindi: चरवाना)
 9. This aū is often contracted to au, so that we also have aun̥o, kaun̥o and charaun̥o.
