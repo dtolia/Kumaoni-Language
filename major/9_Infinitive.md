@@ -20,6 +20,7 @@ An infinitive is a form of verb that can be used as a noun, adjective, or adverb
 
 8. Similarly causals of the above five verbs and all double causals have their infinitives in,
    - aūn̥o अऊणो (Hindi: आवना)
+   - khaūn̥o खऊणो (Hindi: खवाना / खिलाना)
    - kaūn̥o कऊणो (Hindi: कहवाना)
    - charaūn̥o चरऊणो (Hindi: चरवाना)
 9. This aū is often contracted to au, so that we also have aun̥o, kaun̥o and charaun̥o.
