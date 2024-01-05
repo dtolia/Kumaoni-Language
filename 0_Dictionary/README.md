@@ -23,7 +23,7 @@
 तर्क | तुक | logic
 शैली (अंदाज़) | ठसक | style, genre, form
 दीवार | भीड़ी | wall
-आकाश (आसमान) | सरग, खरै | sky
+आकाश (आसमान) | सरग, खरै, खराई | sky
 सेरा | स्यार | irrigated land; {Geography}
 दलदल | स्यमार | bog, marsh, moor, quicksand; {Geography}
 केतली | तिपरी | kettle
