@@ -23,8 +23,8 @@
 तर्क | तुक | logic
 शैली (अंदाज़) | ठसक | style, genre, form
 दीवार | भीड़ी | wall
-आकाश (आसमान) | सरग | sky
-सेरा | स्यार | irrigated land
+आकाश (आसमान) | सरग, खरै | sky
+सेरा | स्यार | irrigated land; {Geography}
 दलदल | स्यमार | bog, marsh, moor, quicksand; {Geography}
 केतली | तिपरी | kettle
 सष्टांग प्रणाम | घपकौन स्यौ | prostration, to bow down out of respect
@@ -40,3 +40,4 @@
 पास, निकट, नज़दीक | ढिग, न्यर, नजीक | close by, near, nearby
 धरती | थाती | earth; {Geography}
 गोरा, गोरी | फनार | quality of having a fair complexion
+नदी के किनारे की भूमि | बगड़ | riverside land; {Geography}
