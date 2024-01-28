@@ -65,6 +65,6 @@ An infinitive is a form of verb that can be used as a noun, adjective, or adverb
 
 <br>
 
-[<- PreviousChapter](/major/8_AuxiliaryVerbs.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/8_AuxiliaryVerbs.md) &ensp; [NextChapter ->](/major/10_PresentParticiple.md)
 
 ---
