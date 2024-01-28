@@ -21,7 +21,12 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 ## Resources
 1. [Dictionary](/0_Dictionary/README.md) 
 
-2. Folders 1 to 5 supply references on various topics for quick revision.
+2. Quick Revision:
+   - [Pronouns](/1_Pronouns/README.md)
+   - [Cases](/2_Cases/README.md)
+   - [Pronoun Cases](/3_PronounCases/README.md)
+   - [Verb Conjugation](/4_VerbConjugation/README.md)
+   - [Verb Tenses](/5_VerbTenses/README.md)
 
 3. Also check out: [Troubles around Kumaoni Standardization](/TroublingDilemma.md).
 
