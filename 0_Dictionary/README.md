@@ -1,6 +1,9 @@
 हिंदी | कुमाऊँनी | Tags 
 --- | --- | --- 
-साथी | दगड़ी | companion, partner
+साथ | दगड़ | together
+साथी, सखी | दगड़ी | companion, partner, friend (female)
+साथिया | दगड़िया | close friend, longtime companion
+सखा | दगड़ु | friend (male)
 साथियों | दगड़ियन | companions, partners
 आर | वली, वल्ली | adjacent, beside, this side
 पार | पली, पल्ली | across, beyond, other side
@@ -41,3 +44,8 @@
 धरती | थाती | earth; {Geography}
 गोरा, गोरी | फनार | quality of having a fair complexion
 नदी के किनारे की भूमि | बगड़ | riverside land; {Geography}
+लंबा-चौड़ा खेत, मैदान | ग्वार/गाड़/गाड़ौ/गड़ो | field; {Geography}
+छोटा-सँकरा खेत, सीढ़ीदार खेत | हाड | small field, terraced field; {Geography}
+पवन (हवा) | बयार | wind
+लालसा | नराइ | longing
+पीली | पिंगली | yellow
