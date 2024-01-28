@@ -11,14 +11,14 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 3. [Miscellaneous Properties](/major/3_Miscellaneous.md)
 4. [Article, Gender and Number](/major/4_ArticleGenderNumber.md)
 5. [Case](/major/5_Cases.md)
-6. [Adjectives](/major/6_Adjectives.md)
-7. [Pronouns](/major/7_Pronouns.md)
-8. [Auxiliary Verbs & Verb Substantive](/major/8_AuxiliaryVerbs.md)
+6. [Adjective](/major/6_Adjectives.md)
+7. [Pronoun](/major/7_Pronouns.md)
+8. [Auxiliary Verb & Verb Substantive](/major/8_AuxiliaryVerbs.md)
 9. [Infinitive or Verbal Noun](/major/9_Infinitive.md)
 10. [Present Participle](/major/10_PresentParticiple.md)
 
 ## Resources
-1. Folder 0 provides a dictionary. 
+1. [Dictionary](/0_Dictionary/README.md) 
 
 2. Folders 1 to 5 supply references on various topics for quick revision.
 
