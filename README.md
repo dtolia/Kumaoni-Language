@@ -19,16 +19,16 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 10. [Present Participle](/major/10_PresentParticiple.md)
 
 ## Resources
-1. [Dictionary](/0_Dictionary/README.md) 
+1. [Dictionary](/rsrc/0_Dictionary.md) 
 
 2. Quick Revision:
-   - [Pronouns](/1_Pronouns/README.md)
-   - [Cases](/2_Cases/README.md)
-   - [Pronoun Cases](/3_PronounCases/README.md)
-   - [Verb Conjugation](/4_VerbConjugation/README.md)
-   - [Verb Tenses](/5_VerbTenses/README.md)
+   - [Pronouns](/rsrc/1_Pronouns.md)
+   - [Cases](/rsrc/2_Cases.md)
+   - [Pronoun Cases](/rsrc/3_PronounCases.md)
+   - [Verb Conjugation](/rsrc/4_VerbConjugation.md)
+   - [Verb Tenses](/rsrc/5_VerbTenses.md)
 
-3. Also check out: [Troubles around Kumaoni Standardization](/TroublingDilemma.md).
+3. Also check out: [Troubles around Kumaoni Standardization](/rsrc/TroublingDilemma.md).
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
