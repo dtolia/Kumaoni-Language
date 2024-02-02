@@ -28,7 +28,7 @@
 दीवार | भीड़ी | wall
 आकाश (आसमान) | सरग, खरै, खराई | sky
 सेरा | स्यार | irrigated land; {Geography}
-दलदल | स्यमार | bog, marsh, moor, quicksand; {Geography}
+दलदली भूमि, दलदल | सिमार/स्यमार | bog, marsh, moor, quicksand; {Geography}
 केतली | तिपरी | kettle
 सष्टांग प्रणाम | घपकौन स्यौ | prostration, to bow down out of respect
 घूॅंट | तुरकू | gulp
