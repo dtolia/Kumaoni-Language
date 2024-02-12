@@ -20,7 +20,7 @@
 मित्रता | मितराम | friendship
 बुद्धिहीन | ज्ञौज | idiot, stupid
 दरिद्रता | दालदारी | poverty
-तुरंत (जल्दी) | हकार | hurry, quick
+तुरंत (जल्दी) | झिट, हकार | hurry, quick
 जल्दबाज़ी | हकारक, कैबै | haste, hastiness
 जान-पहचान | भुजी-पछ्यान | acquaintance
 तर्क | तुक | logic
@@ -49,3 +49,5 @@
 पवन (हवा) | बयार | wind
 लालसा | नराइ | longing
 पीली | पिंगली | yellow
+वेदी | द्योठ्या/दिठ्या | elevated base prepared for religious purposes
+मलिन | नरगी | dirty, contaminated, sinful
