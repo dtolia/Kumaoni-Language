@@ -51,3 +51,7 @@
 पीली | पिंगली | yellow
 वेदी | द्योठ्या/दिठ्या | elevated base prepared for religious purposes
 मलिन | नरगी | dirty, contaminated, sinful
+नदी | रहप/रहौप | river; {Geography}
+नदिका, छोटी नदी | गार | rivulet; {Geography}
+प्रतिबिंब | छैल | reflection
+छाया; परछाई | शेल/शेव,सेल/सेव; स्योल | shadow
