@@ -41,6 +41,7 @@
 पहाड़, पर्वत | धुरा | mountain; {Geography}
 अनोखी, अलग-सी | अणकसि | peculiar, unusual, unique
 पास, निकट, नज़दीक | ढिग, न्यर, नजीक | close by, near, nearby
+भूमि (ज़मीन) | थात | land; {Geography}
 धरती | थाती | earth; {Geography}
 गोरा, गोरी | फनार | quality of having a fair complexion
 नदी के किनारे की भूमि | बगड़ | riverside land; {Geography}
@@ -54,4 +55,4 @@
 नदी | रहप/रहौप | river; {Geography}
 नदिका, छोटी नदी | गार | rivulet; {Geography}
 प्रतिबिंब | छैल | reflection
-छाया; परछाई | शेल/शेव,सेल/सेव; स्योल | shadow
+छाया; परछाई | शेल/शेव, सेल/सेव; स्योल | shadow
