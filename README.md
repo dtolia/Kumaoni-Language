@@ -1,6 +1,6 @@
 # Learning Kumaoni
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
-> **Update (28 Jan'24):** Working on past participle rn.
+> **Update (25 Mar'24):** Working on future passive participle rn.
 
 ## Primer on Kumaoni Grammar
 An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b> and associates.
@@ -17,6 +17,7 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 8. [Auxiliary Verb & Verb Substantive](/major/8_AuxiliaryVerbs.md)
 9. [Infinitive or Verbal Noun](/major/9_Infinitive.md)
 10. [Present Participle](/major/10_PresentParticiple.md)
+11. [Past Participle](/major/11_PastParticiple.md)
 
 ## Resources
 1. [Dictionary](/rsrc/0_Dictionary.md) 
