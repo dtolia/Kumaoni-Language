@@ -46,3 +46,31 @@ The verbal past participle may be either weak or strong.
 9. As in Hindi, the past participles of transitive verbs are passive, and when used to form tenses must be construed with the subject in the agent case. The verb lyūn̥o ल्यूणो, to bring, like the Hindi लाना, is treated as intransitive.
 
 10. As the verbal past participles are only employed in the formation of finite tenses, no examples of them can be given here.
+
+## Adjectival
+
+1. The adjectival past participle is formed by changing the o of the strong verbal past participle to iyo. Thus, hit̥iyo हिटियो (Hindi: चला). It is used when the participle is employed as an independent adjective.
+
+2. Its feminine singular is hit̥i हिटि (Hindi: चली) and its plural (both genders) is hit̥iyà हिटिय (Hindi: चले). We should expect the feminine plural to be hit̥i, not hit̥iyà, but this is not borne out by the examples which I have collected.
+
+3. I have not come across any examples of adjectival past participles of the irregular verbs.
+
+4. The following are examples of the use of the adjectival participle,
+   - मीले आपूँथे जंगलमा पड़ियो पायो। (mī-le āpū̃-thē jan̊gal-mā par̥iyo pàyo)<br>
+   [मैंने स्वयं को जंगल में पड़ा पाया।]
+   - त्वेथे एक लेखियो ताम्र पत्र मिललो; जे वीमा लेखियो छ, ते तु करिए। (twē-thē ēk lekhiyo tāmr patr milalo; je wī-mā lekhiyo chh, te tu kariyē)<br>
+   [तुझको एक लिखा ताम्र पत्र मिलेगा; जो उसमें लिखा है, वो तू करना।]
+   - नौ कुमार राजबाहन कणि हरइयो देखिबेर। (nau kumār Rājbāhan-kan̥i haràiyo dekhi-bēr)<br>
+   [नौ कुमार राजवाहन को हारा देखकर।]
+   - दोहरो रीसमा भरियो रौ छियो। (doharo rīs-mā bhariyo rau chhiyo)<br>
+   [दूसरा रोष में भरा रहा था।]
+   - वी कुंजमा फूल अर नाना-नाना पात बिछिय छिय, वाँ पलं बिछियो छियो, फूलदान धरिय छिय। (wī kuñj-mā phūl ar nānā-nānā pāt bichhiyà chhiyà, wā̃ palan̊ bichhiyo chhiyo, phūl-dān dhariyà chhiyà)<br>
+   [उस कुंज में फूल और विभिन्न पत्ते बिछे थे, वहाँ पलंग बिछा था, फूलदान रखे थे।]
+   - राजाकि चेलि अर मी राजमहलाक छजमा बैठिय छियाँ। (ràja-ki cheli ar mī rāj-mahalà-kà chhàjà-mā bait̥hiyà chhiyā̃)<br>
+   [राजा की बेटी और मैं राजमहल के छज्जे में बैठे थे।]
+
+<br>
+
+[<- PreviousChapter](/major/10_PresentParticiple.md) &ensp; [NextChapter ->](https://pages.github.com/)
+
+---
