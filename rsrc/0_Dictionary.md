@@ -38,7 +38,7 @@
 संतुष्ट | छक्क | satisfied
 पहाड़ी ढलान | भिड़ा, भ्योल | hillside; {Geography}
 पहाड़ी | डाना | hill; {Geography}
-पहाड़, पर्वत | धुरा | mountain; {Geography}
+पहाड़, पर्वत | धुरा | mountain, place high enough to have oak forest; {Geography}
 अनोखी, अलग-सी | अणकसि | peculiar, unusual, unique
 पास, निकट, नज़दीक | ढिग, न्यर, नजीक | close by, near, nearby
 भूमि (ज़मीन) | थात | land; {Geography}
@@ -56,3 +56,4 @@
 नदिका, छोटी नदी | गार | rivulet; {Geography}
 प्रतिबिंब | छैल | reflection
 छाया; परछाई | शेल/शेव, सेल/सेव; स्योल | shadow
+खड़ी पहाड़ी | काँठा | cliff; {Geography}
