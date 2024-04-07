@@ -1,7 +1,9 @@
 # Chapter-12: Future Passive Participle
 
 1. The Future Passive Participle is exactly the same in form as the strong infinitive, with which it is liable to be confounded.
+
 2. Thus, hit̥an̥o हिटणो (Hindi: चलना), obl. singular and masc. plural hit̥àn̥à हिटण (Hindi: चलने), fem. hit̥an̥i हिटणि (Hindi: चलनी); similarly, māran̥o मारणो (Hindi: मारना).
+
 3. Examples of the use of this participle are,
    - छ्यत्रिनको जे बुति छ, ते करणो चैंछ। (chhyatrina-ko je buti chh, te karan̥o chaĩ-chh)<br>
    [क्षत्रियों का जो काम है, वो करना चाहिए।]
