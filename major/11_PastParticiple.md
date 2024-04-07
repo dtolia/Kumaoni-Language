@@ -71,6 +71,6 @@ The verbal past participle may be either weak or strong.
 
 <br>
 
-[<- PreviousChapter](/major/10_PresentParticiple.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/10_PresentParticiple.md) &ensp; [NextChapter ->](/major/12_FuturePassiveParticiple.md)
 
 ---
