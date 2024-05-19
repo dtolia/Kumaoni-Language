@@ -31,6 +31,7 @@
    ["मेरे साथी इस बात में राजी होनेवाले नहीं हैं", कहा।]
    - "मेरो मालिक राजबाहन उई छ," कै। ("mero mālik Rājbāhan u-ī chh," kai)<br>
    ["मेरा मालिक राजवाहन वही है," कहा।]
+
 Here kai (like Khas-Kura bhani) is used at the end of a quotation, like the Sanskrit iti. This is very common.
 
 8. Numerous examples will be found under the head of intensive verbs. Compare also the following examples of the long form,
