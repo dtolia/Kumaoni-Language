@@ -18,6 +18,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/11_PastParticiple.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/11_PastParticiple.md) &ensp; [NextChapter ->](/major/13_ConjunctiveParticiple.md)
 
 ---
