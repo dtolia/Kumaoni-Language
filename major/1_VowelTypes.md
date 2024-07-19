@@ -8,7 +8,7 @@
 
 2. आ (it has 2 sounds):
    - Short vowel represented by “ɑ̀”
-     - Sounds like ‘a’ in German ‘mann’ (google translate ‘man’ to German). 
+     - Sounds like ‘a’ in German ‘mann’ (google translate ‘man’ to German).
      - But many pronounce it as अ (a) or आ (ɑ̄) now. Thus, tyɑ̀rɑ̀ (त्यर) (Hindi: तेरे). 
    - Long vowel represented by “ɑ̄”
      - It is the regular आ of Hindi, sounds like the ‘a’ in father; as in राग rɑ̄g.
