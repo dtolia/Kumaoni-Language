@@ -9,7 +9,7 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
    - ādimi-le आदिमिले (Hindi: आदमी ने)
 
 2. But masculine तद्भव nouns in o make the oblique form singular (and also the nominative plural) by changing the o to à. Thus,
-   - à̃kho आँखो (Hindi: आँख; nom. singular) becomes à̃khà आँखा (Hindi: आँखें; nom. plural and obl. singular). The oblique plural would be à̃khan आँखन (Hindi: आँखों).
+   - à̃kho आँखो (Hindi: आँख; nom. singular) becomes à̃khà आँखा (Hindi: आँखों; nom. plural and obl. singular). The oblique plural would be à̃khan आँखन (Hindi: आँखें).
 
 3. Occasionally we come across an oblique form in ai, which is used for all kinds of nouns. It’s very commonly seen when using the genitive -ki case. Thus,
    - rājai-ki cheli राजैकि च्येलि (Hindi: राजा की बेटी).
@@ -113,7 +113,7 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
    - वीका आँखनबटि आँसु ऊँण पैठा। (vī-kà à̃khan-bat̥i ā̃su ū̃n̥ pait̥hà)<br>
    [उसके आँखों से आँसू आन पड़े।]
    - आँखाहै निकालिबेर। (à̃khà-hai nikàli-bēr)<br>
-   [आँख से निकालकर।]
+   [आँखों से निकालकर।]
    - वी दिनबटि मैं अपण दगड़ियनहै अलग रूँछु। (wī din-bat̥i maĩ àpàn̥à dagar̥iyan-hai alag rū̃-chhu)<br>
    [उस दिन से मैं अपने सखों से अलग रहता हूँ।]
    - तु काँबटि आछै? (tu kā̃-bat̥i ā-chhai)<br>
