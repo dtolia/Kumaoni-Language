@@ -191,7 +191,7 @@ The relative pronoun and its correlative are declined as follows,
    - kwē क्वे (Hindi: कोई).
    - kēi केइ (Hindi: कुछ).
    - The oblique singular is kai कै (Hindi: किस / किसी).
-   - The oblique plural is kananāī कननैइ; kanāī कनैइ {Adj.} (Hindi: किन). 
+   - The oblique plural is kananaī कननइ; kanaī कनइ {Adj.} (Hindi: किन). 
    - The genitive plural are kanarai कनरै or kanarwē कनर्वे (Hindi: किनका); kanari कनरि (Hindi: किनकी); kanàrà कनर (Hindi: किनके).
 
 2. Examples,
