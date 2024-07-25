@@ -14,10 +14,10 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 3. Occasionally we come across an oblique form in ai, which is used for all kinds of nouns. It’s very commonly seen when using the genitive -ki case. Thus,
    - rājai-ki cheli राजैकि च्येलि (Hindi: राजा की बेटी).
    - The ai is even added to obl. plural form. Thus, obl. plural pāpin पापिन becomes pāpinai-ki durdàśà पापिनैकि दुर्दशा (Hindi: पापियों की दुर्दशा).
-   - This termination ai must be distinguished from another termination āī which only gives emphasis, and does not indicate case. Thus, 
-     - dvī द्वी (Hindi: दो) becomes dvīyāī द्वीयैइ (Hindi: दो ही).
-     - swain̥ स्वैण (Hindi: सपना) becomes swain̥āī स्वैणैइ (Hindi: सपना ही).
-     - inan jaso इनन जसो (Hindi: इन जैसा) becomes inanāī jaso इननैइ जसो (इन्ही जैसा).
+   - This termination ai must be distinguished from another termination aī which only gives emphasis, and does not indicate case. Thus, 
+     - dvī द्वी (Hindi: दो) becomes dvīyaī द्वीयइ (Hindi: दो ही).
+     - swain̥ स्वैण (Hindi: सपना) becomes swain̥aī स्वैणइ (Hindi: सपना ही).
+     - inan jaso इनन जसो (Hindi: इन जैसा) becomes inanaī jaso इननइ जसो (इन्ही जैसा).
 
 4. Occasionally we also meet nouns whose nominatives do not end in o, yet they have an old oblique form in à. These forms are usually almost adverbs. Examples,
    - kār कार (Hindi: काल) becomes adharāt kārà-mā अधरात कारमा (Hindi: अर्धरात्रि काल में).
