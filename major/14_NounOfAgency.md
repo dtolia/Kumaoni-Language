@@ -8,7 +8,7 @@
    - राजाथे नि करन्या कर्म करै। (ràjà-thē ni karanyā karm karai)<br>
    [राजा को नहीं करनेवाले कर्म कराए।]
 
-2. More often we a form made by changing the no of the present participle to nēr. Thus, hit̥anēr (Hindi: चलनेवाला). Examples,
+2. More often we meet a form made by changing the '-no' of the present participle to -nēr. Thus, hit̥anēr (Hindi: चलनेवाला). Examples,
    - अघिन के करनेर छै? (aghin ke karanēr chhai)<br>
    [आगे क्या करनेवाला है?]
    - भोल राजाको च्यॉलो ऊनेर छ। (bhōl ràja-ko chyŏlo ūnēr chh)<br>
