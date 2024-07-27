@@ -21,14 +21,17 @@
 |  |  |  |
 | hun̥o हुणो (Hindi: होना) | (1) hū̃ हूँ (Hindi: होऊँ)<br>(2) hoai होऐ (Hindi: होए)<br>(3) hō हो (Hindi: होए) | (1) Same as Singular (Hindi: होएँ)<br>(2) hoau होऔ (Hindi: हों)<br>(3) होऔ or hun हुन (Hindi: होते) |
 
-2. The following are examples of the use of this tense,
+2. The following are examples of the use of this tense,<br>
    - मी यसो उल्लू निहातूँ जे त्यरि बातनमा ऊँ। (mī yaso ullu nihātū̃ je tyàri bàtan-mā ū̃)<br>
    [मैं ऐसा उल्लू नहीं हूँ जो तेरी बातों में आऊँ।]
    - देखूँ हमि द्वीनमा को बड़ो छ। (dekhū̃ hami dwīn-mā ko bar̥o chh)<br>
    [देखें हम दोनों में कौन बड़ा है।]
    - सो अब क्वे यसो उपाय बतै दिहालौ जैले यो बालक बचिजा, अर हमि कथ यसि जाग न्हैजूँ जाँ रैबेर हमि बचिजूँ। (so ab kwē yaso upāy batai di hālau jai-le yo bālak bachi jà, ar hami kath yasi jàgà nhai jū̃ jā̃ rai-bēr hami bachi jū̃)<br>
    [तो अब कोई ऐसा उपाय बता दे डालो जिससे यह बालक बच जाए, और हम कहीं ऐसी जगह निकल जाएँ जहाँ रहकर हम बच जाएँ।]
-
+   - तुमि कतुके उनरि पोथी पढ़ौ, अर कतुके उनरि बातन सुणौ। (tumi katukē unari pothi par̥au, aur katukē unari bàtan sun̥au)<br>
+   [तुम कितनी उनकी पुस्तक पढ़ो, और कितनी उनकी बातें सुनो।]
+   - कतुक आदिमि नौकर धरा, जैले टार-टार जालै यैको नौं हो अर मस्तकइ यैथै डबल मिलौ। (katuk ādimi naukar dharà, jai-le t̥ār-t̥ār jālai yai-ko naũ hō ar mastakaī yai-thē dabal milau)<br>
+   [कितने आदमी नौकर रखे, जिससे दूर-दूर तक इसका नाम होए और बहुत सारे ही इसको रुपय मिले।]
 
 <br>
 
