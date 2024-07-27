@@ -1,6 +1,6 @@
 # Learning Kumaoni
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
-> **Update (4 June'24):** Working on old present rn.
+> **Update (27 July'24):** Working on imperative rn.
 
 ## Primer on Kumaoni Grammar
 An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b> and associates.
@@ -21,6 +21,7 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 12. [Future Passive Participle](/major/12_FuturePassiveParticiple.md)
 13. [Conjunctive Participle](/major/13_ConjunctiveParticiple.md)
 14. [Noun of Agency](/major/14_NounOfAgency.md)
+15. [Old Present](/major/15_OldPresent.md)
 
 ## Resources
 1. [Dictionary](/rsrc/0_Dictionary.md) 
