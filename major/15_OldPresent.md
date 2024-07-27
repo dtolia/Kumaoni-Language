@@ -20,8 +20,9 @@
 | khān̥o खाणो (Hindi: खाना) | (1) khū̃ खूँ (Hindi: खाऊँ)<br>(2) khà खा (Hindi: खाए)<br>(3) खा or khau खौ (Hindi: खाए) | (1) Same as Singular (Hindi: खाएँ)<br>(2) khàyau खायौ (Hindi: खाओ)<br>(3) खायौ or khān खान (Hindi: खाते) |
 |  |  |  |
 | hun̥o हुणो (Hindi: होना) | (1) hū̃ हूँ (Hindi: होऊँ)<br>(2) hoai होऐ (Hindi: होए)<br>(3) hō हो (Hindi: होए) | (1) Same as Singular (Hindi: होएँ)<br>(2) hoau होऔ (Hindi: हों)<br>(3) होऔ or hun हुन (Hindi: होते) |
+<br>
 
-2. The following are examples of the use of this tense,<br><br>
+2. The following are examples of the use of this tense,
    - मी यसो उल्लू निहातूँ जे त्यरि बातनमा ऊँ। (mī yaso ullu nihātū̃ je tyàri bàtan-mā ū̃)<br>
    [मैं ऐसा उल्लू नहीं हूँ जो तेरी बातों में आऊँ।]
    - देखूँ हमि द्वीनमा को बड़ो छ। (dekhū̃ hami dwīn-mā ko bar̥o chh)<br>
