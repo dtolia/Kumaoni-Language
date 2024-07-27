@@ -16,6 +16,10 @@
 | ūn̥o ऊणो (Hindi: आना) | (1) ū̃ ऊँ (Hindi: आऊँ)<br>(2) ai ऐ (Hindi: आए)<br>(3) au औ (Hindi: आए) | (1) Same as Singular (Hindi: आएँ)<br>(2) àyau आयौ (Hindi: आओ)<br>(3) आयौ or ūn ऊन (Hindi: आते) |
 | lyūn̥o ल्यूणो (Hindi: लाना) | (1) lyū̃ ल्यूँ (Hindi: लाऊँ)<br>(2) lyai ल्यै (Hindi: लाए)<br>(3) lyau ल्यौ (Hindi: लाए) | (1) Same as Singular (Hindi: लाएँ)<br>(2) lyàyau ल्यायौ (Hindi: लाओ)<br>(3) ल्यायौ or lyūn ल्यून (Hindi: लाते) |
 |  |  |  |
+| jān̥o जाणो (Hindi: जाना) | (1) jū̃ जूँ (Hindi: जाऊँ)<br>(2) jà जा (Hindi: जाए)<br>(3) जा or jau जौ (Hindi: जाए) | (1) Same as Singular (Hindi: जाएँ)<br>(2) jàyau जायौ (Hindi: जाओ)<br>(3) जायौ or jān जान (Hindi: जाते) |
+| khān̥o खाणो (Hindi: खाना) | (1) khū̃ खूँ (Hindi: खाऊँ)<br>(2) khà खा (Hindi: खाए)<br>(3) खा or khau खौ (Hindi: खाए) | (1) Same as Singular (Hindi: खाएँ)<br>(2) khàyau खायौ (Hindi: खाओ)<br>(3) खायौ or khān खान (Hindi: खाते) |
+|  |  |  |
+| hun̥o हुणो (Hindi: होना) | (1) hū̃ हूँ (Hindi: होऊँ)<br>(2) hoai होऐ (Hindi: होए)<br>(3) hō हो (Hindi: होए) | (1) Same as Singular (Hindi: होएँ)<br>(2) hoau होऔ (Hindi: हों)<br>(3) होऔ or hun हुन (Hindi: होते) |
 
 <br>
 
