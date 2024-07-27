@@ -24,6 +24,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/13_ConjunctiveParticiple.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/13_ConjunctiveParticiple.md) &ensp; [NextChapter ->](/major/15_OldPresent.md)
 
 ---
