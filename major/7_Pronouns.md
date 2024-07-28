@@ -78,7 +78,7 @@ The first two demonstrative pronouns are as follows,
 
 5. The forms of the genitive plural should be noted. The termination rō is the termination of the genitive in the Marwari dialect of Rajasthani. As usual, the oblique forms of these genitives are inàrà (इनर) and unàrà (उनर).
 
-6. An emphatic form of yo is yē ये (Hindi: यह ही), and of u is uī उई (Hindi: वह ही). Similarly the emphatic forms of the oblique plural are inanāī इननैइ (Hindi: इन्ही) and unanāī उननैइ (Hindi: उन्ही).
+6. An emphatic form of yo is yē ये (Hindi: यह ही), and of u is uī उई (Hindi: वह ही). Similarly the emphatic forms of the oblique plural are inanaī इननइ (Hindi: इन्ही) and unanaī उननइ (Hindi: उन्ही).
 
 7. Examples,
    - वी आदिमिले वीथे यो कयो। (wī ādimi-le wī-thē yo kayo)<br>
