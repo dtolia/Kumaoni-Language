@@ -212,10 +212,12 @@ The relative pronoun and its correlative are declined as follows,
    - uso उसो (Hindi: वैसा); usi उसि (Hindi: वैसी); usà उस (Hindi: वैसे).
    - taso तसो (Hindi: तैसा); tasi तसि (Hindi: तैसी); tàsà तस (Hindi: तैसे).
    - jaswe जस्वे (Hindi: जैसे ही); uswe उस्वे (Hindi: वैसे ही); taswe तस्वे (Hindi: तैसे ही).
-   - etuk एतुक (Hindi: इतना); katuk कतुक (Hindi: कितना).
-   - wā̃ वाँ (Hindi: वहाँ); yā̃ याँ (Hindi: यहाँ).
+   - yatu यतु (Hindi: इतना); yatuke यतुके (Hindi: इतनी); yatuk यतुक (Hindi: इतने).
+   - katu कतु (Hindi: कितना); katuke कतुके (Hindi: कितनी); katuk कतुक (Hindi: कितने).
+   - wā̃ वाँ (Hindi: वहाँ); yā̃ याँ (Hindi: यहाँ); kā̃ काँ (Hindi: कहाँ).
    - jab जब; tab तब.
-   - eth एथ, eti एति (Hindi: इधर); uth उथ (Hindi: उधर).
+   - yath यथ (Hindi: यहीं); uth उथ (Hindi: वहीं); kath कथ (Hindi: कहीं).
+   - yati यति (Hindi: इधर); uti उति (Hindi: उधर); kati कति (Hindi: किधर).
 
 2. Examples,
    - यसो करिबेर। (yaso kari-bēr)<br>
