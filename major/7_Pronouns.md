@@ -231,14 +231,14 @@ The relative pronoun and its correlative are declined as follows,
    - जसि स्यैणि मैं बेउणा चाँछियूँ, ठीक यो उसि छ। (jasi syain̥i maĩ bēun̥ā chā̃-chhyū̃, t̥hīk yo usi chh)<br>
    [जैसी महिला मैं ब्याहना चाहता था, ठीक यह वैसी है।]
    - उस्वे करो। (uswe karo)<br>
-   [वैसा ही करा।]
+   [वैसे ही करा।]
    - जस्वे मातंग आगहै भैर आछियो, तस्वे उननले आदिमिनकि बड़ि भीड़ देखि। (jaswe Mātan̊g àgà-hai bhair ā-chhiyo, taswe unana-le ādimina-ki bar̥i bhīr̥ dekhi.)<br>
    [जैसे ही मातंग आग से बाहर आया, तैसे ही उन्होंने आदमियों की बड़ी भीड़ देखी।]
-   - एतुक कैबेर। (etuk kai-bēr)<br>
+   - यतु कैबेर। (etuk kai-bēr)<br>
    [इतना कहकर।]
-   - एतुकैइमा। (etukāī-mā)<br>
+   - यतुकइमा। (etukāī-mā)<br>
    [इतने ही में।]
-   - पछोंका पैकको तराण कतुक छ? (pachhō̃-kà paika-ko tarān̥ katuk chh)<br>
+   - पछोंका पैकको तराण कतु छ? (pachhō̃-kà paika-ko tarān̥ katuk chh)<br>
    [पश्चिम के वीर का ताकत कितना है?]
 
 <br>
