@@ -42,8 +42,8 @@ An infinitive is a form of verb that can be used as a noun, adjective, or adverb
     [तुझ साथ भेंट करने की बड़ी इच्छा थी।]
     - सुस्ताणथे बैठि गयो। (sustān̥-thē bait̥hi gayo)<br>
     [सुस्ताने को बैठ गया।]
-    - वी जगा देखणथे हिटि दि हालौ। (wī jàgà dekhan̥-thē hit̥i-di hālau)<br>
-    [उस जगह देखने को चल…।]
+    - वी जाग देखणथे हिटि दि हालौ। (wī jàgà dekhan̥-thē hit̥i-di hālau)<br>
+    [उस जगह देखने को चल दे डालो।]
     - लकड़ काटणथे धुरा जैरई। (làkàr̥à kàt̥an̥ dhurà jai-raī)<br>
     [लकड़े काटने को पहाड़ जाइ रहे।]
     - उ पैक धुराथे जाण लागि रौछियो। (u Paik dhurà-thē jān̥ làgi rau-chhiyo)<br>
