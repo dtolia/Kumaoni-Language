@@ -4,7 +4,7 @@
 
 | Infinitive | Singular | Plural |
 | ------------- | ------------- | ------------- |
-| hit̥an̥o हिटणो (Hindi: चलना) | (2) hit̥ai हिटै (Hindi: चले) | (2) hit̥au हिटौ (Hindi: चलो) |
+| hit̥an̥o हिटणो (Hindi: चलना) | (2) हिट or hit̥iyē हिटिये (Hindi: चले) | (2) hit̥au हिटौ or hit̥iyā हिटिया (Hindi: चलो) |
 
 2. The termination -iyē is not respectful as it is in Hindi.
 
