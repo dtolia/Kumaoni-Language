@@ -36,6 +36,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/14_NounOfAgency.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/14_NounOfAgency.md) &ensp; [NextChapter ->](/major/16_Imperative.md)
 
 ---
