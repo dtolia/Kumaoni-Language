@@ -55,6 +55,14 @@
    [तुम उस जगह देखने को चल दे डालो।]
    - तुमि केइ नि डरौ। (tumi kei ni d̥arau)<br>
    [तुम कुछ नहीं डरो।]
+   - तुमि म्यर दगड़ ब्या लै करौ, राज्य लै लिया। (tumi myar dagar̥ byā lai karau, rājya lai liyā)<br>
+   [तुम मेरे साथ विवाह भी करो, राज्य भी लो।]
+   - यैकणि छाड़ि दिया, फिरि लौटै दिया। (yai-kan̥i chhàr̥i diyā, phiri laut̥ai diyā)<br>
+   [इसको छोड़ दो, फिर लौटा दो।]
+   - वीकणि म्यलमा जो चाँनीं उ देखि सकनीं, तुमि लै देखला त देखिया। (wī-kan̥i myàlà-mā jo chā̃nī̃ u dekhi sakanī̃, tumi lai dekhalā ta dekhiyā)<br>
+   [उसको मेले में जो चाहते हैं वो देख सकते हैं, तुम भी देखोगे तो देखो।]
+   - फिरि तुमि घर ऐ जाया। (phiri tumi ghar ai-jàyā)<br>
+   [फिर तुम घर आ जाओ।]
 
 
 <br>
