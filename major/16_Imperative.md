@@ -45,6 +45,17 @@
    [उसमे तू जा।]
    - यैकणि त्वे स्वीणइ झन समजिये। (yai-kan̥i tu svīn̥aī jhan samajiyē)<br>
    [इसको तू सपना ही मत समझ।]
+   - कैकणि त्वे यति ऊण झन दिये। (kai-kan̥i tvē yati ūn̥ jhan diyē)<br>
+   [किसी को तू इधर आने मत दे।]
+   - आँछो, त्वेइ लि लिये। (à̃chho, tvē-i li-liyē)<br>
+   [अच्छा, तू ही ले ले।]
+   - तुमि म्यर दगड़ अलग हिटौ। (tumi myàrà dagàr̥à alag hit̥au)<br>
+   [तुम मेरे साथ अलग चलो।]
+   - तुमि वी जाग देखण हुणि हिटि दि हालौ। (tumi wī jàgà dekhan̥-hun̥i hit̥i di hālau)<br>
+   [तुम उस जगह देखने को चल दे डालो।]
+   - तुमि केइ नि डरौ। (tumi kei ni d̥arau)<br>
+   [तुम कुछ नहीं डरो।]
+
 
 <br>
 
