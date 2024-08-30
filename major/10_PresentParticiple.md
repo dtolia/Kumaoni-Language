@@ -38,14 +38,14 @@ A present participle is a verb form that indicates an ongoing action or state in
 9. Examples of the oblique form,
    - मी बीन लिबेर अपणो मन बेलमूनै रयूँ। (mī bīn li-bēr àpan̥o man belamūnai rayū̃)<br>
    [मैं बीन लेकर अपना मन बहलाते रहा।]
-   - उ येथ-उथ फिरनै रयो। (u yeth-uth phiranai rayo)<br>
-   [वह इधर-उधर फिरते रहा।]
+   - उ यथ-उथ फिरनै रयो। (u yeth-uth phiranai rayo)<br>
+   [वह यहीं-वहीं फिरते रहा।]
    - हमि सारि रात बात करनै रयाँ। (hami sàri rāt bāt karanai rayā̃)<br>
    [हम सारी रात बात करते रहे।]
    - वीमा फटिक चमकनै रीं। (wī-mā phat̥ik chamakanai rī̃)<br>
-   [उसमें फिटकरियाँ चमकते रहीं।]
+   [उसमें फिटकरियाँ चमकते रहती हैं।]
    - "हमि अन्न-पाणि छोड़िबेर मरनूँ", कूनै रीं। ("hami ann-pàn̥i chhor̥i-bēr maranū̃", kūnai rī̃)<br>
-   ["हम अन्न-पानी छोड़कर मरते हैं", कहे रहीं।]
+   ["हम अन्न-पानी छोड़कर मरते हैं", कहे रहीं हैं।]
    - उ लै म्यर तरफ भलिकै चाँनै रैछि। (u lai myar taraph bhali-kai chā̃nai rai-chhi)<br>
    [वह भी मेरे तरफ अच्छे से देखे रही थी।]
    - एक सिद्ध होम करन रौ छ। (ēk siddh hōm karànà rau-chh)<br>
