@@ -47,9 +47,9 @@
 नदी के किनारे की भूमि | बगड़ | riverside land; {Geography}
 लंबा-चौड़ा खेत, मैदान | ग्वार/गाड़/गाड़ौ/गड़ो | field; {Geography}
 छोटा-सँकरा खेत, सीढ़ीदार खेत | हाड | small field, terraced field; {Geography}
-पवन (हवा) | बयार | wind
+पवन (हवा) | बयार/बयाल/बयाव; पौन | wind
 लालसा | नराइ | longing
-पीली | पिंगली | yellow
+पीली | पिंगली | yellow; {Color}
 वेदी | द्योठ्या/दिठ्या | elevated base prepared for religious purposes
 मलिन | नरगी | dirty, contaminated, sinful
 नदी | रहप/रहौप | river; {Geography}
@@ -57,3 +57,4 @@
 प्रतिबिंब | छैल | reflection
 छाया; परछाई | शेल/शेव, सेल/सेव; स्योल | shadow
 खड़ी पहाड़ी | काँठा | cliff; {Geography}
+श्वेत | सुकिलो; सेतो/स्यौत; धौल | white; {Color}
