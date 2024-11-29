@@ -9,7 +9,7 @@ There are two genders, masculine and feminine. These generally follow the Hindi 
 ## Number
 There are two numbers, singular and plural.
 
-1. Tadbhav nouns which in Hindi end in ɑ̄, in Kumaoni as in Rajasthani end in o. Thus, Hindi chēlɑ̄ चेला becomes Kumaoni chelo चेलो (a son).
+1. तद्भव nouns which in Hindi end in ɑ̄, in Kumaoni as in Rajasthani end in o. Thus, Hindi chēlɑ̄ चेला becomes Kumaoni chelo चेलो (a son).
 
 2. These nouns form the nominative plural by changing the final o to ɑ̀. Thus,
    - bhin̥o भिणो (wall); plural bhin̥ɑ̀ भिणा (walls).
