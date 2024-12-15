@@ -1,6 +1,6 @@
 # Learning Kumaoni
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
-> **Update (30 Aug'24):** Working on future rn.
+> **Update (15 Dec'24):** Working on past conditional rn.
 
 ## Primer on Kumaoni Grammar
 An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b> and associates.
@@ -23,6 +23,7 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 14. [Noun of Agency](/major/14_NounOfAgency.md)
 15. [Old Present](/major/15_OldPresent.md)
 16. [Imperative](/major/16_Imperative.md)
+17. [Future](/major/17_Future.md)
 
 ## Resources
 1. [Dictionary](/rsrc/0_Dictionary.md) 
