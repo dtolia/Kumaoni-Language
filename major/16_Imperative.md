@@ -74,6 +74,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/15_OldPresent.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/15_OldPresent.md) &ensp; [NextChapter ->](/major/17_Future.md)
 
 ---
