@@ -7,9 +7,9 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 
 <b>Content</b>
 
-1. [Types of Vowel](/major/1_VowelTypes.md)
-2. [Rules of Epenthesis](/major/2_Epenthesis.md)
-3. [Miscellaneous Properties](/major/3_Miscellaneous.md)
+1. [Types of Vowel](/major/01_VowelTypes.md)
+2. [Rules of Epenthesis](/major/02_Epenthesis.md)
+3. [Miscellaneous Properties](/major/03_Miscellaneous.md)
 4. [Article, Gender and Number](/major/04_ArticleGenderNumber.md)
 5. [Case](/major/05_Cases.md)
 6. [Adjective](/major/06_Adjectives.md)

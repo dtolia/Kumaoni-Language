@@ -57,6 +57,6 @@ A present participle is a verb form that indicates an ongoing action or state in
 
 <br>
 
-[<- PreviousChapter](/major/9_Infinitive.md) &ensp; [NextChapter ->](/major/11_PastParticiple.md)
+[<- PreviousChapter](/major/09_Infinitive.md) &ensp; [NextChapter ->](/major/11_PastParticiple.md)
 
 ---

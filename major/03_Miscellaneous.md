@@ -50,6 +50,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/2_Epenthesis.md) &ensp; [NextChapter ->](/major/4_ArticleGenderNumber.md)
+[<- PreviousChapter](/major/02_Epenthesis.md) &ensp; [NextChapter ->](/major/04_ArticleGenderNumber.md)
 
 ---
