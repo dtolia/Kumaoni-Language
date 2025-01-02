@@ -15,7 +15,7 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 6. [Adjective](/major/6_Adjectives.md)
 7. [Pronoun](/major/7_Pronouns.md)
 8. [Auxiliary Verb & Verb Substantive](/major/8_AuxiliaryVerbs.md)
-9. [Infinitive or Verbal Noun](/major/9_Infinitive.md)
+9. [Infinitive or Verbal Noun](/major/09_Infinitive.md)
 10. [Present Participle](/major/10_PresentParticiple.md)
 11. [Past Participle](/major/11_PastParticiple.md)
 12. [Future Passive Participle](/major/12_FuturePassiveParticiple.md)
