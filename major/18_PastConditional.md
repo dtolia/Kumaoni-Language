@@ -18,6 +18,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/17_Imperative.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/17_Future.md) &ensp; [NextChapter ->](https://pages.github.com/)
 
 ---
