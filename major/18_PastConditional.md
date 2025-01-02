@@ -15,6 +15,8 @@
 4. The forms for the irregular verbs are based on the corresponding present participles and require no further  explanation.
 
 5. The following is an example of the use of this tense,
+   - मी मरि जान्यूँ, त भलो हुनो। (mī mari jānyū̃, ta bhalo huno)<br>
+   [मैं मर जाती, तो भला होता।]
 
 <br>
 
