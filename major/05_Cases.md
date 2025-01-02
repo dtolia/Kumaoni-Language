@@ -194,6 +194,6 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 
 <br>
 
-[<- PreviousChapter](/major/4_ArticleGenderNumber.md) &ensp; [NextChapter ->](/major/6_Adjectives.md)
+[<- PreviousChapter](/major/04_ArticleGenderNumber.md) &ensp; [NextChapter ->](/major/06_Adjectives.md)
 
 ---

@@ -61,6 +61,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/5_Cases.md) &ensp; [NextChapter ->](/major/7_Pronouns.md)
+[<- PreviousChapter](/major/05_Cases.md) &ensp; [NextChapter ->](/major/07_Pronouns.md)
 
 ---
