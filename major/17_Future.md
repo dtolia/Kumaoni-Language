@@ -70,6 +70,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/16_Imperative.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/16_Imperative.md) &ensp; [NextChapter ->](/major/18_PastConditional.md)
 
 ---
