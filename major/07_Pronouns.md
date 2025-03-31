@@ -168,7 +168,7 @@ The relative pronoun and its correlative are declined as follows,
    - जननले बेद छाड़िहालीं। (janana-le bēd chhàr̥i-hālī̃)<br>
    [जिन्होंने वेद छोड़ दिए हैं।]
    - तुम जन बातनमा मन लगूँछा। (tum jan bàtan-mā man lagū̃-chhā)<br>
-   [तुम जिन बातों में मन लगा रहे हो।]
+   [तुम जिन बातों में मन लगाते हो।]
 
 ## Interrogative Pronouns
 
