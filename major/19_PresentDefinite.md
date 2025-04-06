@@ -22,6 +22,10 @@
 | chā̃n̥o चाँणो (Hindi: चाहना) | (1) chā̃-chhu चाँछु (Hindi: चाहता हूँ)<br>(2) chā̃-chhai चाँछै (Hindi: चाहता है)<br>(3) chā̃-chh चाँछ (Hindi: चाहता है) | (1) chānū̃ चानूँ (Hindi: चाहते हैं)<br>(2) dchā̃-chhā चाँछा (Hindi: चाहते हो)<br>(3) chānī चानी (Hindi: चाहते हैं) |
 |  |  |  |
 | rūn̥o रूणो (Hindi: रहना) | (1) rū̃-chhu रूँछु (Hindi: रहता हूँ)<br>(2) rū̃-chhai रूँछै (Hindi: रहता है)<br>(3) rū̃-chh रूँछ (Hindi: रहता है) | (1) rūnū̃ रूनूँ (Hindi: रहते हैं)<br>(2) rū̃-chhā रूँछा (Hindi: रहते हो)<br>(3) rūnī रूनी (Hindi: रहते हैं) |
+| kūn̥o कूणो (Hindi: कहना) | (1) kū̃-chhu कूँछु (Hindi: कहता हूँ)<br>(2) kū̃-chhai कूँछै (Hindi: कहता है)<br>(3) kū̃-chh कूँछ (Hindi: कहता है) | (1) kūnū̃ कूनूँ (Hindi: कहते हैं)<br>(2) kū̃-chhā कूँछा (Hindi: कहते हो)<br>(3) kūnī कूनी (Hindi: कहते हैं) |
+| ūn̥o ऊणो (Hindi: आना) | (1) ū̃-chhu ऊँछु (Hindi: आता हूँ)<br>(2) ū̃-chhai ऊँछै (Hindi: आता है)<br>(3) ū̃-chh ऊँछ (Hindi: आता है) | (1) ūnū̃ ऊनूँ (Hindi: आते हैं)<br>(2) ū̃-chhā ऊँछा (Hindi: आते हो)<br>(3) ūnī ऊनी (Hindi: आते हैं) |
+| lyūn̥o ल्यूणो (Hindi: लाना) | (1) lyū̃-chhu ल्यूँछु (Hindi: लाता हूँ)<br>(2) lyū̃-chhai ल्यूँछै (Hindi: लाता है)<br>(3) lyū̃-chh ल्यूँछ (Hindi: लाता है) | (1) lyūnū̃ ल्यूनूँ (Hindi: लाते हैं)<br>(2) lyū̃-chhā ल्यूँछा (Hindi: लाते हो)<br>(3) lyūnī ल्यूनी (Hindi: लाते हैं) |
+|  |  |  |
 
 <br>
 
