@@ -20,6 +20,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/17_Future.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/17_Future.md) &ensp; [NextChapter ->](/major/19_PresentDefinite.md)
 
 ---
