@@ -68,6 +68,14 @@
    - अर्थ उ छ जैकणि आदिमि कमूनी, बड़ूनी और समालि राखनी। (arth u chh jai-kan̥i ādimi kamūnī, bar̥ūnī aur samàli ràkhanī)<br>
    [अर्थ वह है जिसको आदमी कमाते हैं, बड़ाते हैं और संभाल रखते हैं।]
 
+7. When the present tense is preceded by a negative, the above forms are not used, the forms of the Past Conditional being used instead. Thus, “ni hit̥anyū̃” and not “ni hit̥ã-chhu”, I do not go. Examples are,
+   - मी आपण काका कणि बिख दीबेर मारण नि चान्यूँ। (mī àpàn̥à kàkà-kan̥i bikh dī-bēr màràn̥à ni chānyū̃)<br>
+   [मैं अपने चाचा को विष देकर मारने नहीं चाहता हूँ।]
+   - मी चोर लै छूँ, त यस नकि चोरि नि करन्यूँ। (mī chōr lai chhū̃, ta yàsà naki chori ni karanyū̃)<br>
+   [मैं चोर भी हूँ, तो ऐसे बुरी चोरी नहीं करता हूँ।]
+   - ज्ञानिको विखय-सुखले धरम नि बिगड़नो, पर हमि अर्थ-कामन कणि नि जाणनाँ। (gyāni-ko vikhay-sukha-le dharam ni bigar̥ano, par hami arth-kāman-kan̥i ni jàn̥anā̃)<br>
+   [ज्ञानी का विषय-सुख से धर्म नहीं बिगड़ता है, पर हम अर्थ-कामों को नहीं जानते हैं।]
+
 <br>
 
 [<- PreviousChapter](/major/18_PastConditional.md) &ensp; [NextChapter ->](https://pages.github.com/)
