@@ -32,6 +32,15 @@
 | hun̥o हुणो (Hindi: होना) | (1) hũ-chhu हुँछु (Hindi: होता हूँ)<br>(2) hũ-chhai हुँछै (Hindi: होता है)<br>(3) hũ-chh हुँछ (Hindi: होता है) | (1) hunū̃ हुनूँ (Hindi: होते हैं)<br>(2) hũ-chhā हुँछा (Hindi: होते हो)<br>(3) hunī हुनी (Hindi: होते हैं) |
 |  |  |  |
 | din̥o दिणो (Hindi: देना) | (1) dĩ-chhu दिंछु (Hindi: देता हूँ)<br>(2) dĩ-chhai दिंछै (Hindi: देता है)<br>(3) dĩ-chh दिंछ (Hindi: देता है) | (1) dinū̃ दिनूँ (Hindi: देते हैं)<br>(2) dĩ-chhā दिंछा (Hindi: देते हो)<br>(3) dinī दिनी (Hindi: देते हैं) |
+| lin̥o लिणो (Hindi: लेना) | (1) lĩ-chhu लिंछु (Hindi: लेता हूँ)<br>(2) lĩ-chhai लिंछै (Hindi: लेता है)<br>(3) lĩ-chh लिंछ (Hindi: लेता है) | (1) linū̃ लिनूँ (Hindi: लेते हैं)<br>(2) lĩ-chhā लिंछा (Hindi: लेते हो)<br>(3) linī लिनी (Hindi: लेते हैं) |
+
+5. The following are examples of the use of the full form of this tense,
+   - त्वे मी कणि भलो जै मानन छे। (tvē mī-kan̥i bhalo jai mànan-chhē)
+   [तू मुझको अच्छा जो मानती है।]
+   - तुमि क्वे मंत्रले झाड़नो लै जाणन छा? (tumi kwē mantra-le jhàr̥ano lai jàn̥an-chhā)
+   [तुम कोई मंत्र से झाड़ना भी जानते हो?]
+
+
 
 <br>
 
