@@ -26,6 +26,12 @@
 | ūn̥o ऊणो (Hindi: आना) | (1) ū̃-chhu ऊँछु (Hindi: आता हूँ)<br>(2) ū̃-chhai ऊँछै (Hindi: आता है)<br>(3) ū̃-chh ऊँछ (Hindi: आता है) | (1) ūnū̃ ऊनूँ (Hindi: आते हैं)<br>(2) ū̃-chhā ऊँछा (Hindi: आते हो)<br>(3) ūnī ऊनी (Hindi: आते हैं) |
 | lyūn̥o ल्यूणो (Hindi: लाना) | (1) lyū̃-chhu ल्यूँछु (Hindi: लाता हूँ)<br>(2) lyū̃-chhai ल्यूँछै (Hindi: लाता है)<br>(3) lyū̃-chh ल्यूँछ (Hindi: लाता है) | (1) lyūnū̃ ल्यूनूँ (Hindi: लाते हैं)<br>(2) lyū̃-chhā ल्यूँछा (Hindi: लाते हो)<br>(3) lyūnī ल्यूनी (Hindi: लाते हैं) |
 |  |  |  |
+| jān̥o जाणो (Hindi: जाना) | (1) jā̃-chhu जाँछु (Hindi: जाता हूँ)<br>(2) jā̃-chhai जाँछै (Hindi: जाता है)<br>(3) jā̃-chh जाँछ (Hindi: जाता है) | (1) jānū̃ जानूँ (Hindi: जाते हैं)<br>(2) jā̃-chhā जाँछा (Hindi: जाते हो)<br>(3) jānī जानी (Hindi: जाते हैं) |
+| khān̥o खाणो (Hindi: खाना) | (1) khā̃-chhu खाँछु (Hindi: खाता हूँ)<br>(2) khā̃-chhai खाँछै (Hindi: खाता है)<br>(3) khā̃-chh खाँछ (Hindi: खाता है) | (1) khānū̃ खानूँ (Hindi: खाते हैं)<br>(2) khā̃-chhā खाँछा (Hindi: खाते हो)<br>(3) khānī खानी (Hindi: खाते हैं) |
+|  |  |  |
+| hun̥o हुणो (Hindi: होना) | (1) hũ-chhu हुँछु (Hindi: होता हूँ)<br>(2) hũ-chhai हुँछै (Hindi: होता है)<br>(3) hũ-chh हुँछ (Hindi: होता है) | (1) hunū̃ हुनूँ (Hindi: होते हैं)<br>(2) hũ-chhā हुँछा (Hindi: होते हो)<br>(3) hunī हुनी (Hindi: होते हैं) |
+|  |  |  |
+| din̥o दिणो (Hindi: देना) | (1) dĩ-chhu दिंछु (Hindi: देता हूँ)<br>(2) dĩ-chhai दिंछै (Hindi: देता है)<br>(3) dĩ-chh दिंछ (Hindi: देता है) | (1) dinū̃ दिनूँ (Hindi: देते हैं)<br>(2) dĩ-chhā दिंछा (Hindi: देते हो)<br>(3) dinī दिनी (Hindi: देते हैं) |
 
 <br>
 
