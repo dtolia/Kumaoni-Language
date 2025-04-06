@@ -1,6 +1,6 @@
 # Learning Kumaoni
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
-> **Update (02 Jan'25):** Working on present definite rn.
+> **Update (06 Apr'25):** Working on imperfect rn.
 
 ## Primer on Kumaoni Grammar
 An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b> and associates.
@@ -25,6 +25,7 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 16. [Imperative](/major/16_Imperative.md)
 17. [Future](/major/17_Future.md)
 18. [Past Conditional](/major/18_PastConditional.md)
+19. [Present Definite](/major/19_PresentDefinite.md)
 
 ## Resources
 1. [Dictionary](/rsrc/0_Dictionary.md) 
