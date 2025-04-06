@@ -35,11 +35,20 @@
 | lin̥o लिणो (Hindi: लेना) | (1) lĩ-chhu लिंछु (Hindi: लेता हूँ)<br>(2) lĩ-chhai लिंछै (Hindi: लेता है)<br>(3) lĩ-chh लिंछ (Hindi: लेता है) | (1) linū̃ लिनूँ (Hindi: लेते हैं)<br>(2) lĩ-chhā लिंछा (Hindi: लेते हो)<br>(3) linī लिनी (Hindi: लेते हैं) |
 
 5. The following are examples of the use of the full form of this tense,
-   - त्वे मी कणि भलो जै मानन छे। (tvē mī-kan̥i bhalo jai mànan-chhē)
+   - त्वे मी कणि भलो जै मानन छे। (tvē mī-kan̥i bhalo jai mànan-chhē)<br>
    [तू मुझको अच्छा जो मानती है।]
-   - तुमि क्वे मंत्रले झाड़नो लै जाणन छा? (tumi kwē mantra-le jhàr̥ano lai jàn̥an-chhā)
+   - तुमि क्वे मंत्रले झाड़नो लै जाणन छा? (tumi kwē mantra-le jhàr̥ano lai jàn̥an-chhā)<br>
    [तुम कोई मंत्र से झाड़ना भी जानते हो?]
 
+6. The following are examples of the more usual (contracted) form,
+   - महादेब ज्युकि तपस्या करुँ छु। (Mahādēb-jyu-ki tapasyà karũ-chhu)<br>
+   [महादेव जी की तपस्या करता हूँ।]
+   - मी हात देखणो लै जाणँ छु। (mī hāt dekhan̥o lai jàn̥ã-chhu)<br>
+   [मैं हाथ देखना भी जानता हूँ।]
+   - भील जसो देखीं छै। (bhīl jaso dekhī̃ chhai)<br>
+   [भील जैसा दिखता है।]
+   - जे हुणियो भयो, ते हुँछ। (je hun̥iyo bhayo te hũ-chh)<br>
+   [जो होना हुआ, सो होता है।]
 
 
 <br>
