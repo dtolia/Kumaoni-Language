@@ -19,6 +19,9 @@
 | dekhūn̥o देखूणो (Hindi: दिखाना) | (1) dekhaũ-chhu देखउँ छु (Hindi: दिखाता हूँ)<br>(2) dekhaũ-chhai देखउँ छै (Hindi: दिखाता है)<br>(3) dekhaũ-chh देखउँ छ (Hindi: दिखाता है) | (1) dekhaunū̃ देखउनूँ (Hindi: दिखाते हैं)<br>(2) dekhaũ-chhā देखउँ छा (Hindi: दिखाते हो)<br>(3) dekhaunī देखउनी (Hindi: दिखाते हैं) |
 | dekhin̥o देखिणो (Hindi: दिखना) | (1) dekhī̃-chhu देखीं छु (Hindi: दिखता हूँ)<br>(2) dekhī̃-chhai देखीं छै (Hindi: दिखता है)<br>(3) dekhī̃-chh देखीं छ (Hindi: दिखता है) | (1) dekhīnū̃ देखीनूँ (Hindi: दिखते हैं)<br>(2) dekhī̃-chhā देखीं छा (Hindi: दिखते हो)<br>(3) dekhīnī देखीनी (Hindi: दिखते हैं) |
 |  |  |  |
+| chā̃n̥o चाँणो (Hindi: चाहना) | (1) chā̃-chhu चाँछु (Hindi: चाहता हूँ)<br>(2) chā̃-chhai चाँछै (Hindi: चाहता है)<br>(3) chā̃-chh चाँछ (Hindi: चाहता है) | (1) chānū̃ चानूँ (Hindi: चाहते हैं)<br>(2) dchā̃-chhā चाँछा (Hindi: चाहते हो)<br>(3) chānī चानी (Hindi: चाहते हैं) |
+|  |  |  |
+| rūn̥o रूणो (Hindi: रहना) | (1) rū̃-chhu रूँछु (Hindi: रहता हूँ)<br>(2) rū̃-chhai रूँछै (Hindi: रहता है)<br>(3) rū̃-chh रूँछ (Hindi: रहता है) | (1) rūnū̃ रूनूँ (Hindi: रहते हैं)<br>(2) rū̃-chhā रूँछा (Hindi: रहते हो)<br>(3) rūnī रूनी (Hindi: रहते हैं) |
 
 <br>
 
