@@ -78,6 +78,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/18_PastConditional.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/18_PastConditional.md) &ensp; [NextChapter ->](/major/20_Imperfect.md)
 
 ---
