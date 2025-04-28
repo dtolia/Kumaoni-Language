@@ -161,7 +161,7 @@ As in other Indo-Aryan languages, cases are generally made by means of postposit
 
 1. The most common postpositions of the Locative are,
    - mā मा (Hindi: में/पर)
-   - jā̃lai जाँलै (Hindi: तक)
+   - jā̃lai जाँलै / जालेक (Hindi: तक)
    - par पर (Hindi: पर) is also used by the vulgar.
 
 2. Examples,
