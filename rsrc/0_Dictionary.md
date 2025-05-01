@@ -2,9 +2,9 @@
 --- | --- | --- 
 साथ | दगड़ | together
 साथी, सखी | दगड़ी | companion, partner, friend (female)
-साथिया | दगड़िया | close friend, longtime companion
+साथिया, सखियाँ | दगड़िया | close friend (female), friends (female)
 सखा | दगड़ु | friend (male)
-साथियों | दगड़ियन | companions, partners
+साथियों | दगड़ियन | companions, partners, friends (male)
 आर | वली, वल्ली | adjacent, beside, this side
 पार | पली, पल्ली | across, beyond, other side
 दिन | दिवस | day
