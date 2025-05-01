@@ -55,6 +55,6 @@
 नदी | रहप/रहौप | river; {Geography}
 नदिका, छोटी नदी | गार | rivulet; {Geography}
 प्रतिबिंब | छैल | reflection
-छाया; छाँव; परछाई | शेल/शेव, सेल/सेव; छेव; स्योल | shade; shadow
+छाया; छाँव; परछाई | सेल/सेव, शेल/शेव; छेव; स्योल | shade; umbra; shadow
 खड़ी पहाड़ी | काँठा | cliff; {Geography}
 श्वेत | सुकिलो; सेतो/स्यौत; धौल | white; {Color}
