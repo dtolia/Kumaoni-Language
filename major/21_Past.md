@@ -83,7 +83,46 @@
 7. The following are examples of the use of the past tense of transitive verbs,
    - मीले यो बिचार करो। (mī-le yo bichār karo)<br>
    [मैंने यह विचार करा।]
-
+   - मीले यो सुणि। (mī-le yo sun̥i)<br>
+   [मैंने यह सुनी।]
+   - तुमले मी कणि पैंले खबर किलै नि दि? (tuma-le mī kan̥i paĩlē khabar kilai ni di)<br>
+   [तुमने मुझको पहले खबर क्यों नहीं दी?]
+   - नौ कुमारन दगड़ वी कणि आपण देश है भैर भेजो। (nau kumāran dagar̥ wī-kan̥i àpàn̥à dēś-hai bhair bhejo)<br>
+   [नौ कुमारों साथ उसको अपने देश से बाहर भेजा।]
+   - मातंग थैं ऐबेर वीले एक रत्न भेंट मा धरि दियो। (Mātan̊g-thaĩ ai-bēr wī-le ek ratn bhēt̥-mā dhari diyo)<br>
+   [मातंग को (पास) आकर उसने एक रत्न भेंट में रख दिया।]
+   - वीले कयो। (wī-le kayo)<br>
+   [उसने कहा।]
+   - मी कणि मारि दियो। (mī kan̥i màri diyo)<br>
+   [मुझको मार दिया।]
+   - मीले यै कणि नाचणो, गैणो, बाजो बजूणो, लेखणो-पढ़नो, बलणो-चोलणो सिकायो। (mī-le yai-kan̥i nàchan̥o, gain̥o, bàjo bajūn̥o, lekhan̥o-par̥ano, balàn̥o-cholàn̥o sikàyo)<br>
+   [मैंने इसको नाचना, गाना, बाजा बजाना, लिखना-पढ़ना, बोलना-चालना सिखाया।]
+   - सोमदत्तले आपणि कथा कै। (Sōmadatta-le àpan̥i kathā kai)<br>
+   [सोमदत्त ने अपनी कथा कही।]
+   - महादेब ज्युकि पुजा करणि सिकै। (Mahādēb-jyu-ki pujā karan̥i sikai)<br>
+   [महादेव जी कि पूजा करनी सिखाई।]
+   - कालिंदिकि बात वीले मानि लि। (Kālindi-ki bāt wī-le mani-li)<br>
+   [कालिंदी की बात उसने मान ली।]
+   - मातंगले वी कणि येक मणि दि। (Mātan̊ga-le wī-kan̥i yēk man̥i di)<br>
+   [मातंग ने उसको एक मणि दी।]
+   - वीले मस्तकइ लकड़ एकहट्टा करा, अर आगो बालो, अर मंत्र पढ़ा। (wī-le mastakāī làkàr̥à ēk-hàt̥t̥à kàrà, ar àgo bàlo, ar mantr pàr̥à)<br>
+   [उसने बहुत सारे ही लकड़े इकठ्ठे करे, और आग जलाया, और मंत्र पढ़े।]
+   - उइले आपण खाणिय सातु तलौ मा खिति दिया। (ui-le àpàn̥à khàn̥iya sàtu talau-mā khiti diyà)<br>
+   [उसने अपने खाने के सत्तू तालाब में फेंक दिए।]
+   - हमले रातकि बातन जागऺ-जागऺ सुणिन। (hama-lē ràta-ki bātan jàgà-jàgà sun̥in)<br>
+   [हमने रात की बातें जगह-जगह सुनीं।]
+   - वीले मी कणि धर्मकि पोथीन सुणैन। (wī-le mī-kan̥i dharma-ki pustak sun̥ain)<br>
+   [उसने मुझको धर्म की पुस्तकें सुनाईं।]
+   - बुढ़ियाले मी कणि यों बातन कयिन। (bur̥iya-le mī-kan̥i yõ bātan kayin)<br>
+   [बुढ़िया ने मुझको ये बातें कहीं।]
+   - एक-एकले यों सारि बातन कैन। (ek-eka-le yõ sàri bātan kain)<br>
+   [एक-एक ने ये सारी बातें कहीं।]
+   - वीले गालियन दीन। (wī-le gàliyan dīn)<br>
+   [उसने गालियाँ दीं।]
+   - मीले यों सब बातन मालुम करि लियिन। (mī-le yõ sab bātan mālum kari liyin)<br>
+   [मैंने ये सब बातें मालूम कर लीं।]
+   - मीले वीकि बुढ़ि छेड़ि धर्मरक्षिता दगड़ पछ्याँण लगै अर काममंजरी हुणि वीकऺ हातले मस्त चीजन भेजिन। (mī-le wī-ki bur̥i chher̥i Dharmarakshitā dagar̥ pachhyā̃n̥ lagai ar Kāmamañjari-hun̥i wī-kà hàta-le mast chījan bhejin)<br>
+   [मैंने उसकी बूढ़ी दासी धर्मरक्षिता साथ पहचान लगाई और काममंजरी को (के लिए) उसके हाथ से बहुत चीज़ें भेजीं।]
 
 <br>
 
