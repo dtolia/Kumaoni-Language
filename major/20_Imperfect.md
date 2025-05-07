@@ -26,6 +26,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/19_PresentDefinite.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/19_PresentDefinite.md) &ensp; [NextChapter ->](/major/21_Past.md)
 
 ---
