@@ -70,6 +70,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/21_Past.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/21_Past.md) &ensp; [NextChapter ->](/major/23_Pluperfect.md)
 
 ---
