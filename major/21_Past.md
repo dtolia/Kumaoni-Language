@@ -126,6 +126,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/20_Imperfect.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/20_Imperfect.md) &ensp; [NextChapter ->](/major/22_Perfect.md)
 
 ---
