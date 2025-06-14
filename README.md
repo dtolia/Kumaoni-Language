@@ -1,6 +1,6 @@
 # Learning Kumaoni
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
-> **Update (7 May'25):** Working on perfect rn.
+> **Update (15 Jun'25):** Working on passives & causals rn.
 
 ## Primer on Kumaoni Grammar
 An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b> and associates.
@@ -28,6 +28,8 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 19. [Present Definite](/major/19_PresentDefinite.md)
 20. [Imperfect](/major/20_Imperfect.md)
 21. [Past](/major/21_Past.md)
+22. [Perfect (Present Perfect)](/major/22_Perfect.md)
+23. [Pluperfect (Past Perfect)](/major/23_Pluperfect.md)
 
 ## Resources
 1. [Dictionary](/rsrc/0_Dictionary.md) 
