@@ -1,6 +1,6 @@
 # Chapter-24: Passives & Causals
 
-<br><br>
+<br>
 
 ## Passives
 
