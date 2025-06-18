@@ -1,7 +1,5 @@
 # Chapter-24: Passives & Causals
 
-<br>
-
 ## Passives
 
 1. A passive voice is formed by adding ī to the root. Thus the root of dekhan̥o, to see, is dekh. The passive root is dekhī with an infinitive dekhīn̥o, to be visible.
