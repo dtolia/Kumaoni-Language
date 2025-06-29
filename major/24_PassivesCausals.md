@@ -48,6 +48,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/23_Pluperfect.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/23_Pluperfect.md) &ensp; [NextChapter ->](/major/25_CompoundVerbs.md)
 
 ---
