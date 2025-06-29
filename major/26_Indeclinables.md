@@ -20,6 +20,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/25_CompoundVerbs.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/25_CompoundVerbs.md) &ensp;
 
 ---
