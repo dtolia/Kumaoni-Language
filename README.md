@@ -1,6 +1,6 @@
 # Learning Kumaoni
 Please raise issues about content (if any) in the **Issues** section above after logging into Github.
-> **Update (29 Jun'25):** Working on indeclinables rn.
+> **Update (29 Jun'25):** Working on verb conjugation rn.
 
 ## Primer on Kumaoni Grammar
 An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguistic Survey of India by <b>Pandit Chintamani Joshi</b> and associates.
@@ -32,6 +32,7 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 23. [Pluperfect (Past Perfect)](/major/23_Pluperfect.md)
 24. [Passives & Causals](/major/24_PassivesCausals.md)
 25. [Compound Verbs](/major/25_CompoundVerbs.md)
+26. [Indeclinables](/major/26_Indeclinables.md)
 
 ## Resources
 1. [Dictionary](/rsrc/0_Dictionary.md) 
