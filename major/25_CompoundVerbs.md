@@ -163,6 +163,6 @@ Compound verbs are formed much on the same lines as in Hindi.
 
 <br>
 
-[<- PreviousChapter](/major/24_PassivesCausals.md) &ensp; [NextChapter ->](https://pages.github.com/)
+[<- PreviousChapter](/major/24_PassivesCausals.md) &ensp; [NextChapter ->](/major/26_Indeclinables.md)
 
 ---
