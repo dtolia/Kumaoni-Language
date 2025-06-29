@@ -73,7 +73,7 @@ Compound verbs are formed much on the same lines as in Hindi.
 
 ## Potential Compounds
 
-1. Potential compounds have sakan̥o with the short conjunctive participle.
+1. Potential compounds have sakan̥o सकणो with the short conjunctive participle.
 
 2. Thus,
    - जतुक दुख हमि दी सकुँलऺ, ततुक त्वेकणि द्युँलऺ। (jatuk dukh hami dī sakũlà, tatuk tvē-kan̥i dyũlà)<br>
@@ -83,7 +83,7 @@ Compound verbs are formed much on the same lines as in Hindi.
 
 ## Completive Compounds
 
-1. Completive compounds are formed with hàlan̥o.
+1. Completive compounds are formed with hàlan̥o हालणो.
 
 2. Thus,
    - तुमि वी जाग देखण हुणि हिटि दि हालौ। (tumi wī jàgà dekhan̥-hun̥i hit̥i-di hālau)<br>
@@ -129,7 +129,7 @@ Compound verbs are formed much on the same lines as in Hindi.
 
 ## Inceptive Compounds
 
-1. Inceptive compounds are similarly formed with the verb pait̥han̥o (not lagan̥o), to begin (Hindi: शुरू होना). The oblique infinitive maybe either weak or strong.
+1. Inceptive compounds are similarly formed with the verb pait̥han̥o पैठणो (not lagan̥o लगणो), to begin (Hindi: शुरू होना). The oblique infinitive maybe either weak or strong.
 
 2. Thus,
    - घबरैबेर कामण पैठ। (ghabarai-bēr kàman̥ pait̥hà)<br>
@@ -153,7 +153,7 @@ Compound verbs are formed much on the same lines as in Hindi.
 
 ## Compound of Necessity
 
-1. A compound indicating Necessity is made by conjugating par̥an̥o, to fall (Hindi: पड़ना), with the direct strong infinitive.
+1. A compound indicating Necessity is made by conjugating par̥an̥o पड़णो, to fall (Hindi: पड़ना), with the direct strong infinitive.
 
 2. Thus,
    - अन्यार मा हिटणो पड़ो। (anyàrà-mā hit̥an̥o par̥o)
