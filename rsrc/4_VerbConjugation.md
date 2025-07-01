@@ -12,4 +12,7 @@ hit̥anai-rau-chhũ हिटनै रौछुँ, I am a-going (Hindi: च�
 Weak Verbal: hit̥a हिट (Hindi: चले), fem. hit̥i हिटि (Hindi: चली); Strong Verbal: hit̥o (Hindi: चला), fem. hit̥i हिटि (Hindi: चली);<br>
 Adjectival: hitiyo हिटियो, gone (Hindi: चला).
 
+## Future Passive Participle
+hit̥an̥o हिटणो, fem. hit̥an̥i हिटणि, to be gone, about to be gone; masc. obl. sing. and plur. hit̥àn̥à हिटण.
+
 ---

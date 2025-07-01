@@ -17,9 +17,9 @@ A present participle is a verb form that indicates an ongoing action or state in
    - मी हिटनै रयूँ। (mī hit̥anai rayū̃)<br>
    [मैं चलते रहा।]
    - मी हिटनै रौछुँ। (mī hit̥anai rau-chhũ)<br>
-   [मैं चले रहा हूँ।]
+   [मैं चल रखा हूँ।]
    - मी हिटनै रौछियूँ। (mī hit̥anai rau-chhiyū̃)<br>
-   [मैं चले रहा था।]
+   [मैं चल रखा था।]
 
 6. I have not met any example of the nominative masculine singular of this participle used in its correct sense. But the participle is also employed as the third person singular of the past conditional (like the Hindi चलता, if he had gone), and of that I have found one instance.
 
