@@ -42,7 +42,6 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
    - [Cases](/rsrc/2_Cases.md)
    - [Pronoun Cases](/rsrc/3_PronounCases.md)
    - [Verb Conjugation](/rsrc/4_VerbConjugation.md)
-   - [Verb Tenses](/rsrc/5_VerbTenses.md)
 
 3. Also check out: [Troubles around Kumaoni Standardization](/rsrc/TroublingDilemma.md).
 
