@@ -9,6 +9,7 @@ hit̥ano हिटनो (Hindi: चलता); fem. hit̥ani हिटनि (H
 hit̥anai-rau-chhũ हिटनै रौछुँ, I am a-going (Hindi: चल रखा हूँ); hit̥anai-rau-chhiyū̃ हिटनै रौछियूँ, I was a-going (Hindi: मैं चल रखा था).
 
 ## Past Participle
-Weak Verbal: hit̥a हिट (Hindi: चले), fem. hit̥i हिटि (Hindi: चली); Strong Verbal: hit̥o (Hindi: चला), fem. hit̥i हिटि (Hindi: चली); Adjectival: hitiyo हिटियो, gone (Hindi: चला).
+Weak Verbal: hit̥a हिट (Hindi: चले), fem. hit̥i हिटि (Hindi: चली); Strong Verbal: hit̥o (Hindi: चला), fem. hit̥i हिटि (Hindi: चली);<br>
+Adjectival: hitiyo हिटियो, gone (Hindi: चला).
 
 ---
