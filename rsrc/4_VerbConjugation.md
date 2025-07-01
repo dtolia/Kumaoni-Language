@@ -5,7 +5,7 @@ The following is a summary of the conjugation of the verb hit̥an̥o in its more
 hit̥an̥o हिटणो, the act of going (Hindi: चलना); obl. form hit̥an̥, hit̥àn̥à हिटण (Hindi: चलने).
 
 ## Present Participle
-hit̥ano हिटनो (Hindi: चलता); fem. hit̥ani हिटनि (Hindi: चलती); obl. form hit̥ànà हिटन, hit̥anai हिटनै (Hindi: चलते);
+hit̥ano हिटनो (Hindi: चलता); fem. hit̥ani हिटनि (Hindi: चलती); obl. form hit̥ànà हिटन, hit̥anai हिटनै (Hindi: चलते);<br>
 hit̥anai-rau-chhũ हिटनै रौछुँ, I am a-going (Hindi: चल रखा हूँ); hit̥anai-rau-chhiyū̃ हिटनै रौछियूँ, I was a-going (Hindi: मैं चल रखा था).
 
 ## Past Participle
