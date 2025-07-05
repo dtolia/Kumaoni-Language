@@ -23,7 +23,7 @@ I go, I may go.
 
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
-| . | Common Gender | . |
+| . | Common Gender | Common Gender |
 | (1) | hit̥ū̃ हिटूँ | hit̥ū̃ हिटूँ |
 | (2) | hit̥ai हिटै | hit̥au हिटौ |
 | (3) | hit̥ हिट | hit̥an हिटन |
@@ -32,10 +32,9 @@ I go, I may go.
 Go.
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
-| . | Common Gender | . |
+| . | Common Gender | Common Gender |
 | (1) | hit̥ū̃ हिटूँ | hit̥ū̃ हिटूँ |
 | (2) | hit̥ हिट (Hindi: चल) or hit̥iyē हिटिये (Hindi: चलना) | hit̥au हिटौ (Hindi: चलो) or hit̥iyā हिटिया (Hindi: चलना) |
 | (3) | hit̥ हिट | hit̥an हिटन |
-
 
 ---
