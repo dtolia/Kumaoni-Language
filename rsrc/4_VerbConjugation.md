@@ -1,5 +1,5 @@
 # Verb Conjugation (क्रिया के बदलते रूप)
-The following is a summary of the conjugation of the verb hit̥an̥o in its more usual forms:
+The following is a summary of the conjugation of the verb hit̥an̥o हिटणो in its more usual forms:
 
 ## Infinitive or Verbal Noun
 hit̥an̥o हिटणो, the act of going (Hindi: चलना); obl. form hit̥an̥, hit̥àn̥à हिटण (Hindi: चलने).
@@ -27,5 +27,15 @@ I go, I may go.
 | (1) | hit̥ū̃ हिटूँ | hit̥ū̃ हिटूँ |
 | (2) | hit̥ai हिटै | hit̥au हिटौ |
 | (3) | hit̥ हिट | hit̥an हिटन |
+
+## Imperative
+Go.
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| . | Common Gender | . |
+| (1) | hit̥ū̃ हिटूँ | hit̥ū̃ हिटूँ |
+| (2) | hit̥ हिट (Hindi: चल) or hit̥iyē हिटिये (Hindi: चलना) | hit̥au हिटौ (Hindi: चलो) or hit̥iyā हिटिया (Hindi: चलना) |
+| (3) | hit̥ हिट | hit̥an हिटन |
+
 
 ---
