@@ -20,7 +20,6 @@ hit̥i हिटि (Hindi: चल), hit̥i-bēr हिटिबेर, having 
 
 ## Old Present
 I go, I may go.
-
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
 | . | Common Gender | Common Gender |
@@ -36,5 +35,13 @@ Go.
 | (1) | hit̥ū̃ हिटूँ | hit̥ū̃ हिटूँ |
 | (2) | hit̥ हिट (Hindi: चल) or hit̥iyē हिटिये (Hindi: चलना) | hit̥au हिटौ (Hindi: चलो) or hit̥iyā हिटिया (Hindi: चलना) |
 | (3) | hit̥ हिट | hit̥an हिटन |
+
+## Future
+I shall go.
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | hit̥ũlo हिटुँलो | hit̥ũlà हिटुँलऺ |
+| (2) | Masc. - hit̥alai हिटलै; <br>Fem. - hit̥alī हिटली | hit̥alā हिटला |
+| (3) | Masc. - hit̥alo हिटलो; <br>Fem. - hit̥ali हिटलि | Masc. - hit̥àlà हिटलऺ; <br>Fem. - hit̥alin हिटलिन |
 
 ---
