@@ -44,4 +44,12 @@ I shall go.
 | (2) | Masc. - hit̥alai हिटलै; <br>Fem. - hit̥alī हिटली | hit̥alā हिटला |
 | (3) | Masc. - hit̥alo हिटलो; <br>Fem. - hit̥ali हिटलि | Masc. - hit̥àlà हिटलऺ; <br>Fem. - hit̥alin हिटलिन |
 
+## Past Conditional
+(if) I had gone, I should have gone.
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | hit̥anū̃ हिटनूँ ; hit̥anyū̃ हिटन्यूँ | hit̥anū̃ हिटनूँ ; hit̥anā̃ हिटनाँ |
+| (2) | Masc. - hit̥anai हिटनै; <br>Fem. - hit̥anī हिटनी | hit̥anā हिटना |
+| (3) | Masc. - hitan̥o हिटनो; <br>Fem. - hit̥ani हिटनि | Masc. - hit̥ànà हिटनऺ; <br>Fem. - hit̥anin हिटनिन |
+
 ---
