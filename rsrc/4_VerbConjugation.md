@@ -68,4 +68,12 @@ I go, I am going (Hindi: मैं चलता हूँ).
 | (2) | Masc. - hit̥ã-chhai हिटँ छै; <br>Fem. - hit̥ã-chhē हिटँ छे | hit̥ã-chhā हिटँ छा |
 | (3) | Masc. - hit̥ã-chh हिटँ छ; <br>Fem. - hit̥ã-chhya हिटँ छ्य | Masc. - hit̥anī हिटनी; <br>Fem. - hit̥anin हिटनिन |
 
+## Negative Present Definite
+I do not go (Hindi: मैं नहीं चलता हूँ).
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | ni hit̥anū̃ नि हिटनूँ ; ni hit̥anyū̃ नि हिटन्यूँ | ni hit̥anū̃ नि हिटनूँ ; ni hit̥anā̃ नि हिटनाँ |
+| (2) | Masc. - ni hit̥anai नि हिटनै; <br>Fem. - ni hit̥anī नि हिटनी | ni hit̥anā नि हिटना |
+| (3) | Masc. - ni hitan̥o नि हिटनो; <br>Fem. - ni hit̥ani नि हिटनि | Masc. - ni hit̥ànà नि हिटनऺ; <br>Fem. - ni hit̥anin नि हिटनिन |
+
 ---
