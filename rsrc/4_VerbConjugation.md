@@ -33,11 +33,11 @@ Go.
 | ------------- | ------------- | ------------- |
 | . | Common Gender | Common Gender |
 | (1) | hit̥ū̃ हिटूँ | hit̥ū̃ हिटूँ |
-| (2) | hit̥ हिट (Hindi: चल) or hit̥iyē हिटिये (Hindi: चलना) | hit̥au हिटौ (Hindi: चलो) or hit̥iyā हिटिया (Hindi: चलना) |
+| (2) | hit̥ हिट (Hindi: चल!) or hit̥iyē हिटिये (Hindi: चलना!) | hit̥au हिटौ (Hindi: चलो) or hit̥iyā हिटिया (Hindi: चलना) |
 | (3) | hit̥ हिट | hit̥an हिटन |
 
 ## Future
-I shall go.
+I shall go (Hindi: मैं चलूँगा).
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
 | (1) | hit̥ũlo हिटुँलो | hit̥ũlà हिटुँलऺ |
@@ -45,7 +45,7 @@ I shall go.
 | (3) | Masc. - hit̥alo हिटलो; <br>Fem. - hit̥ali हिटलि | Masc. - hit̥àlà हिटलऺ; <br>Fem. - hit̥alin हिटलिन |
 
 ## Past Conditional
-(if) I had gone, I should have gone.
+(if) I had gone, I should have gone (Hindi: मैं चलता तो...).
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
 | (1) | hit̥anū̃ हिटनूँ ; hit̥anyū̃ हिटन्यूँ | hit̥anū̃ हिटनूँ ; hit̥anā̃ हिटनाँ |
@@ -53,11 +53,19 @@ I shall go.
 | (3) | Masc. - hitan̥o हिटनो; <br>Fem. - hit̥ani हिटनि | Masc. - hit̥ànà हिटनऺ; <br>Fem. - hit̥anin हिटनिन |
 
 ## Past
-I went.
+I went (Hindi: मैं चला).
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
 | (1) | hit̥yū̃ हिट्यूँ | hit̥ā̃ हिटाँ |
 | (2) | Masc. - hit̥ai हिटै; <br>Fem. - hit̥ī हिटी | hit̥ā हिटा |
 | (3) | Masc. - hit̥o हिटो; <br>Fem. - hit̥i हिटि | Masc. - hit̥à हिटऺ; <br>Fem. - hit̥in हिटिन |
+
+## Present Definite
+I go, I am going (Hindi: मैं चलता हूँ).
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | hit̥ũ-chhu हिटुँ छु | hit̥anū̃ हिटनूँ |
+| (2) | Masc. - hit̥ã-chhai हिटँ छै; <br>Fem. - hit̥ã-chhē हिटँ छे | hit̥ã-chhā हिटँ छा |
+| (3) | Masc. - hit̥ã-chh हिटँ छ; <br>Fem. - hit̥ã-chhya हिटँ छ्य | Masc. - hit̥anī हिटनी; <br>Fem. - hit̥anin हिटनिन |
 
 ---
