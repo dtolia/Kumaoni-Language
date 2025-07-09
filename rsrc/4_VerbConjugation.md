@@ -58,7 +58,7 @@ I went (Hindi: मैं चला).
 | ------------- | ------------- | ------------- |
 | (1) | hit̥yū̃ हिट्यूँ | hit̥ā̃ हिटाँ |
 | (2) | Masc. - hit̥ai हिटै; <br>Fem. - hit̥ī हिटी | hit̥ā हिटा |
-| (3) | Masc. - hit̥o हिटो; <br>Fem. - hit̥i हिटि | Masc. - hit̥à हिटऺ; <br>Fem. - hit̥in हिटिन |
+| (3) | Masc. - hit̥o हिटो; <br>Fem. - hit̥ī हिटी | Masc. - hit̥à हिटऺ; <br>Fem. - hit̥in हिटिन |
 
 ## Present Definite
 I go, I am going (Hindi: मैं चलता हूँ).
