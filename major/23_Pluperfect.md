@@ -18,7 +18,7 @@
    - त्वि आज जाँलै के करन रौछिये? (tvi āj jā̃lai ke karànà-rau-chhiyē)<br>
    [तू आज तक क्या करत रखा था?]
    - जै दिन त्वि बाग़ बटि गैछी, तै दिनै बटि म्यरो मन त्वीले हरि लेछ। (jai din tvi bāg-bat̥i gai-chhī, tai din-ai-bat̥i myŏro man tvīle hari lē-chh)<br>
-   [जिस दिन तू बाग़ से गई है, उस दिन ही से मेरा मन तूने हर लिया है।]
+   [जिस दिन तू बाग़ से गई थी, उस दिन ही से मेरा मन तूने हर लिया है।]
    - जब उ पैक धुरा हुणि जाण लागि रौछियो। (jab u paik dhurà-hun̥i jān̥ làgi rau-chhiyo)<br>
    [जब वह वीर पर्वत को (के लिए) जाने लग रखा था।]
    - जस्वे मातंग आगहै भैर आछियो। (jaswē Mātan̊g àgà-hai bhair ā-chhiyo)<br>
