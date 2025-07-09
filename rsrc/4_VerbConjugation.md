@@ -77,7 +77,7 @@ I do not go (Hindi: मैं नहीं चलता हूँ).
 | (3) | Masc. - ni hitan̥o नि हिटनो; <br>Fem. - ni hit̥ani नि हिटनि | Masc. - ni hit̥ànà नि हिटनऺ; <br>Fem. - ni hit̥anin नि हिटनिन |
 
 ## Perfect (Present Perfect)
-I have gone (Hindi: मैं चला हूँ।).
+I have gone (Hindi: मैं चला हूँ).
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
 | (1) | hit̥yū̃ हिट्यूँ | hit̥ā̃ हिटाँ |
@@ -91,5 +91,13 @@ I was going (Hindi: मैं चलता था).
 | (1) | hit̥ã-chhiyū̃ हिटँ छियूँ | hit̥ã-chhiyā̃ हिटँ छियाँ |
 | (2) | Masc. - hit̥ã-chhiyē हिटँ छिये; <br>Fem. - hit̥ã-chhī हिटँ छी | hit̥ã-chhiyā हिटँ छिया |
 | (3) | Masc. - hit̥ã-chhiyo हिटँ छियो; <br>Fem. - hit̥ã-chhi हिटँ छि | Masc. - hit̥ã-chhiyà हिटँ छिय; <br>Fem. - hit̥ã-chhin हिटँ छिन |
+
+## Pluperfect (Past Perfect)
+I had gone (Hindi: मैं चला था).
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | Masc. - hit̥a-chhiyū̃ (chhyū̃) हिटछियूँ (छ्यूँ); <br>Fem. - hit̥i-chhiyū̃ हिटिछियूँ | Masc. - hit̥a-chhiyā̃ हिटछियाँ; <br>Fem. - hit̥i-chhiyā̃ हिटिछियाँ |
+| (2) | Masc. - hit̥a-chhiyē हिटछिये; <br>Fem. - hit̥i-chhī हिटिछी | Masc. - hit̥a-chhiyā हिटछिया; <br>Fem. - hit̥i-chhiyā हिटिछिया |
+| (3) | Masc. - hit̥a-chhiyo हिटछियो; <br>Fem. - hit̥i-chhi हिटिछि | Masc. - hit̥a-chhiyà हिटछिय; <br>Fem. - hit̥i-chhin हिटिछिन |
 
 ---
