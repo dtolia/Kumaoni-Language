@@ -40,28 +40,28 @@ An infinitive is a form of verb that can be used as a noun, adjective, or adverb
     [लौटने की आई।]
     - त्वे दगड़ भेंट करनकि बड़ि इच्छा छि। (twē dagar̥ bhēt̥ karana-ki bar̥i ichchhā chhi)<br>
     [तुझ साथ भेंट करने की बड़ी इच्छा थी।]
-    - सुस्ताणथे बैठि गयो। (sustān̥-thē bait̥hi gayo)<br>
-    [सुस्ताने को बैठ गया।]
-    - वी जाग देखणथे हिटि दि हालौ। (wī jàgà dekhan̥-thē hit̥i-di hālau)<br>
-    [उस जगह देखने को चल दे डालो।]
-    - लकड़ काटणथे धुरा जैरई। (làkàr̥à kàt̥an̥ dhurà jai-raī)<br>
-    [लकड़े काटने को पहाड़ जाइ रहे।]
-    - उ पैक धुराथे जाण लागि रौछियो। (u Paik dhurà-thē jān̥ làgi rau-chhiyo)<br>
-    [वह वीर पहाड़ को जाने लग रहा था।]
+    - सुस्ताण हुणि बसि गयो। (sustān̥-hun̥i basi gayo)<br>
+    [सुस्ताने को (के लिए) बैठ गया।]
+    - वी जाग देखण हुणि हिटि दि हालौ। (wī jàgà dekhan̥-hun̥i hit̥i-di hālau)<br>
+    [उस जगह देखने को (के लिए) चल दो।]
+    - लकड़ काटण धुरा जै रईं। (làkàr̥à kàt̥an̥ dhurà jai-raī̃)<br>
+    [लकड़े काटने पर्वत जा रखे हैं।]
+    - उ पैक धुरा हुणि जाण लागि रौछियो। (u Paik dhurà-hun̥i jān̥ làgi rau-chhiyo)<br>
+    [वह वीर पर्वत को (के लिए) जाने लग रखा था।]
 
 15. Examples of strong infinitive form,
-    - यै-वीले मैं तुमरो ऊणो चै रौछियूँ। (yai-vīlē maĩ tumaro ūn̥o chai rau-chhiyū̃)<br>
+    - यै-वीले मी तुमरो ऊणो चै रौछियूँ। (yai-vīlē mī tumaro ūn̥o chai rau-chhiyū̃)<br>
     [इस-उससे मैं तुम्हारा आना देख रहा था।]
-    - वीथे ढूढणो चैंछ। (wī-thē d̥hud̥han̥o chaĩ-chh)<br>
+    - वीकणि हेरणो चैंछ। (wī-kan̥i heran̥o chaĩ-chh)<br>
     [उसको ढूँढना चाहिए।]
-    - कुँवरथे अन्यारमा हिटणो पड़ो। (kũwar-thē anyàrà-mā hit̥an̥o par̥o)<br>
+    - कुँवर कणि अन्यारमा हिटणो पड़ो। (kũwar-kan̥i anyàrà-mā hit̥an̥o par̥o)<br>
     [कुँवर को अँधेरे में चलना पड़ा।]
-    - घमंड कै मनुष्यथे करणो नि चैन। (ghaman̥d̥ kai manushya-thē karan̥o ni chain)<br>
+    - घमंड कसै मनुष्य कणि करणो नि चैन। (ghaman̥d̥ kasai manushya-kan̥i karan̥o ni chain)<br>
     [घमंड किसी मनुष्य को करना नहीं चाहिए।]
     - बहौत देश रूण लायक छन। (bahaut dēś rūn̥à lāyak chhan)<br>
     [बहुत देश रहने लायक हैं।]
-    - राजा अपण सब नौकरनथे हौ खऊणसु लिगयो। (ràjà àpàn̥à sab naukaran-thē hau khaūn̥à-su li-gayo)<br>
-    [राजा अपने सब नौकरों को हवा खिलाने हेतु ले गया।]
+    - राजा आफण सप्पै नौकरन कणि हौ खऊणसु लिगयो। (ràjà àphàn̥à sappai naukaran-kan̥i hau khaūn̥à-su li-gayo)<br>
+    [राजा अपने सभी नौकरों को हवा खिलाने हेतु ले गया।]
 
 <br>
 
