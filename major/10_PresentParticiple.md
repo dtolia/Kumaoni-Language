@@ -29,7 +29,7 @@ A present participle is a verb form that indicates an ongoing action or state in
    - मी मरि जानूँ, त भलो हुनो। (mī mari jānyū̃, ta bhalo huno)<br>
    [मैं मर जाती, तो भला होता।]
    - जब मी बगीचमा सोचनि-सोचनि फिरनै रैछियूँ। (jab mī bagīchà-mā sochani-sochani phiranai rai-chhiyū̃)<br>
-   [जब मैं बगीचे में सोचती-सोचती फिरत रही थी।]
+   [जब मैं बगीचे में सोचती-सोचती फिरत रखी थी।]
    - उनले आदिमिनकि बड़ि भीड़ ऊनि देखि। (una-le ādimina-ki bar̥i bhīr̥ ūni dekhi)<br>
    [उन्होंने आदमियों की बड़ी भीड़ आती देखी।]
    - मातंग महादेव ज्युकऺ वचन पुरऺ हुनऺ देखिबेर। (Mātan̊g Mahādēv-jyu-kà vachan purà hunà dekhi-bēr)<br>
