@@ -48,11 +48,11 @@ A present participle is a verb form that indicates an ongoing action or state in
    ["हम अन्न-पानी छोड़कर मरते हैं", कहत रखे हैं।]
    - उ लै म्यरऺ तरफ भलिकै चाँनै रैछि। (u lai myar taraph bhali-kai chā̃nai rai-chhi)<br>
    [वह भी मेरे तरफ अच्छी तरह देखत रखी थी।]
-   - एक सिद्ध होम करन रौ छ। (ēk siddh hōm karànà rau-chh)<br>
+   - एक सिद्ध होम करनऺ रौ छ। (ēk siddh hōm karànà rau-chh)<br>
    [एक सिद्ध यज्ञ करत रखा है।]
-   - तुमि बहौत दिन बटि फिरन रौछा। (tumi bahaut din-bat̥i phirànà rau-chhā)<br>
+   - तुमि बहौत दिन बटि फिरनऺ रौछा। (tumi bahaut din-bat̥i phirànà rau-chhā)<br>
    [तुम बहुत दिन से फिरत रखे हो।]
-   - जब हमि गौं बटि शहरमा ऊन रौछियाँ। (jab hami gaũ-bat̥i śahar-mā ūnà rau-chhiyā̃)<br>
+   - जब हमि गौं बटि शहरमा ऊनऺ रौछियाँ। (jab hami gaũ-bat̥i śahar-mā ūnà rau-chhiyā̃)<br>
    [जब हम गाँव से शहर में आवत रखे थे।]
 
 <br>
