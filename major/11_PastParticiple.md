@@ -5,7 +5,7 @@ The past participle may be either verbal or adjectival.
 ## Verbal
 The verbal past participle may be either weak or strong.
 
-1. The weak verbal past participle is formed by adding a (अ) to the root. Thus, hit̥a हिटऽ (Hindi: चला), fem. hit̥i हिटि (Hindi: चली). The plural is the same as the singular in both genders (Hindi: चले / चलीं).
+1. The weak verbal past participle is formed by adding a (अ) to the root. Thus, hit̥a हिटऺ (Hindi: चला), fem. hit̥i हिटि (Hindi: चली). The plural is the same as the singular in both genders (Hindi: चले / चलीं).
 
 2. This form of the past participle is only used to make the perfect and pluperfect tenses, with the addition of auxiliary verbs. Thus, hit̥a-chh हिटऽ छ (Hindi: चला है); hit̥i-chh हिटि छ (Hindi: चली है); hit̥a-chhiyo हिटऽ छियो (Hindi: चला था); hit̥i-chhi हिटि छि (Hindi: चली थी). 
 
@@ -24,11 +24,11 @@ The verbal past participle may be either weak or strong.
 | din̥o दिणो (Hindi: देना) | Masc. - dē दे (Hindi: दिया); <br>Fem. - dī दी (Hindi: दी) |
 | lin̥o लिणो (Hindi: लेना) | Masc. - lē ले (Hindi: लिया); <br>Fem. - lī ली (Hindi: ली) |
 
-5. The strong verbal past participle is formed by changing the final a (अ) of the weak verbal past participle to o (ओ). Thus, hit̥o हिटो (Hindi: चला), masc. plural hit̥à हिट (Hindi: चले); fem. singular and plural hit̥i हिटि (Hindi: चली).
+5. The strong verbal past participle is formed by changing the final a (अ) of the weak verbal past participle to o (ओ). Thus, hit̥o हिटो (Hindi: चला), masc. plural hit̥à हिटऺ (Hindi: चले); fem. singular and plural hit̥i हिटि (Hindi: चली).
 
 6. This past participle is employed only in the formation of the past tense. Thus, u hit̥o उ हिटो (Hindi: वह चला).
 
-7. Causal verbs form the past participle in àyo. Thus, bachàyo बचयो (Hindi: बचाया); fem. bachai बचै (Hindi: बचाई).
+7. Causal verbs form the past participle in àyo. Thus, bachàyo बचायो (Hindi: बचाया); fem. bachai बचै (Hindi: बचाई).
 
 8. The following strong verbal past participles are irregular,
 
@@ -56,17 +56,17 @@ The verbal past participle may be either weak or strong.
 3. I have not come across any examples of adjectival past participles of the irregular verbs.
 
 4. The following are examples of the use of the adjectival participle,
-   - मीले आपूँथे जंगलमा पड़ियो पायो। (mī-le āpū̃-thē jan̊gal-mā par̥iyo pàyo)<br>
+   - मीले आफु कणि जंगलमा पड़ियो पायो। (mī-le āphu-kan̥i jan̊gal-mā par̥iyo pàyo)<br>
    [मैंने स्वयं को जंगल में पड़ा पाया।]
-   - त्वेथे एक लेखियो ताम्र पत्र मिललो; जे वीमा लेखियो छ, ते तु करिए। (twē-thē ēk lekhiyo tāmr patr milalo; je wī-mā lekhiyo chh, te tu kariyē)<br>
+   - त्वे कणि एक लेखियो तामपत्र मिललो; जे वीमा लेखियो छ, ते तु करिए। (twē-kan̥i ēk lekhiyo tàmà patr milalo; je wī-mā lekhiyo chh, te tu kariyē)<br>
    [तुझको एक लिखा ताम्र पत्र मिलेगा; जो उसमें लिखा है, वो तू करना।]
-   - नौ कुमार राजबाहन कणि हरइयो देखिबेर। (nau kumār Rājbāhan-kan̥i haràiyo dekhi-bēr)<br>
-   [नौ कुमार राजवाहन को हारा देखकर।]
+   - नौ कुमार राजबाहन कणि हराइयो देखिबेर। (nau kumār Rājbāhan-kan̥i haràiyo dekhi-bēr)<br>
+   [नौ कुमार राजवाहन को खोया देखकर।]
    - दोहरो रीसमा भरियो रौ छियो। (doharo rīs-mā bhariyo rau chhiyo)<br>
-   [दूसरा रोष में भरा रहा था।]
+   [दूसरा रोष में भरा रखा था।]
    - वी कुंजमा फूल अर नाना-नाना पात बिछिय छिय, वाँ पलं बिछियो छियो, फूलदान धरिय छिय। (wī kuñj-mā phūl ar nānā-nānā pāt bichhiyà chhiyà, wā̃ palan̊ bichhiyo chhiyo, phūl-dān dhariyà chhiyà)<br>
    [उस कुंज में फूल और विभिन्न पत्ते बिछे थे, वहाँ पलंग बिछा था, फूलदान रखे थे।]
-   - राजाकि चेलि अर मी राजमहलाक छजमा बैठिय छियाँ। (ràja-ki cheli ar mī rāj-mahalà-kà chhàjà-mā bait̥hiyà chhiyā̃)<br>
+   - राजाकि चेलि अन मी राजमहलकऺ छाजमा बैठिय छियाँ। (ràja-ki cheli an mī rāj-mahalà-kà chhàjà-mā bait̥hiyà chhiyā̃)<br>
    [राजा की बेटी और मैं राजमहल के छज्जे में बैठे थे।]
 
 <br>
