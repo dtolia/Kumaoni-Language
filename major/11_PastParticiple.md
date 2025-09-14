@@ -7,7 +7,7 @@ The verbal past participle may be either weak or strong.
 
 1. The weak verbal past participle is formed by adding a (अ) to the root. Thus, hit̥a हिटऺ (Hindi: चला), fem. hit̥i हिटि (Hindi: चली). The plural is the same as the singular in both genders (Hindi: चले / चलीं).
 
-2. This form of the past participle is only used to make the perfect and pluperfect tenses, with the addition of auxiliary verbs. Thus, hit̥a-chh हिटऽ छ (Hindi: चला है); hit̥i-chh हिटि छ (Hindi: चली है); hit̥a-chhiyo हिटऽ छियो (Hindi: चला था); hit̥i-chhi हिटि छि (Hindi: चली थी). 
+2. This form of the past participle is only used to make the perfect and pluperfect tenses, with the addition of auxiliary verbs. Thus, hit̥a-chh हिटछ (Hindi: चला है); hit̥i-chh हिटिछ (Hindi: चली है); hit̥a-chhiyo हिटछियो (Hindi: चला था); hit̥i-chhi हिटिछि (Hindi: चली थी). 
 
 3. Causal verbs, whose infinitives end in ūn̥o, form the weak past participle in ā (आ). Thus, from bachūn̥o बचूणो (Hindi: बचाना) we have bachā बचा (Hindi: बचाया), fem. bachai बचै (Hindi: बचाई).
 
