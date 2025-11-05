@@ -29,7 +29,7 @@
    [उन्हें मुझको देख बड़ी क्रोध आई।]
    - "म्यर दगड़िया यै बातमा राजी हुनेर निहतन," कौ। ("myàrà dagar̥iyà yai bāt-mā rāji hunēr nihàtan," kau)<br> 
    ["मेरे साथी इस बात में राजी होनेवाले नहीं हैं", कहा।]
-   - "मेरो मालिक राजबाहन उइ छ," कौ। ("mero mālik Rājbāhan u-i chh," kau)<br>
+   - "म्यरो मालिक राजबाहन उइ छ," कौ। ("myaro mālik Rājbāhan u-i chh," kau)<br>
    ["मेरा मालिक राजवाहन वही है," कहा।]
 
 &ensp;&ensp;&ensp;&ensp;Here kau कौ (like Khas-Kura bhani भनि) is used at the end of a quotation, like the Sanskrit iti इति. This is very common.
