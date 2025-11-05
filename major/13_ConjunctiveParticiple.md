@@ -25,27 +25,27 @@
 | lin̥o लिणो (Hindi: लेना) | li लि or lī ली (Hindi: ले) |
 
 7. The short form of the conjunctive participle is generally employed in the formation of compound verbs (q.v.). The following are examples of its independent use,
-   - उनन मीथे देखि बड़ि रीस ऐ। (unan mī-thē dekhi bar̥i rīs ài)<br>
-   [उन्हें मुझको देख बड़ा क्रोध आया।]
-   - "म्यर दगड़िया यै बातमा राजी हुनेर निहतन," कै। ("myàrà dagar̥iyà yai bāt-mā rāji hunēr nihàtan," kai)<br> 
+   - उनन मीकणि देखि बड़ि रीस ऐ। (unan mī-kan̥i dekhi bar̥i rīs ài)<br>
+   [उन्हें मुझको देख बड़ी क्रोध आई।]
+   - "म्यर दगड़िया यै बातमा राजी हुनेर निहतन," कौ। ("myàrà dagar̥iyà yai bāt-mā rāji hunēr nihàtan," kau)<br> 
    ["मेरे साथी इस बात में राजी होनेवाले नहीं हैं", कहा।]
-   - "मेरो मालिक राजबाहन उई छ," कै। ("mero mālik Rājbāhan u-ī chh," kai)<br>
+   - "मेरो मालिक राजबाहन उइ छ," कौ। ("mero mālik Rājbāhan u-i chh," kau)<br>
    ["मेरा मालिक राजवाहन वही है," कहा।]
 
-&ensp;&ensp;&ensp;&ensp;Here kai (like Khas-Kura bhani) is used at the end of a quotation, like the Sanskrit iti. This is very common.
+&ensp;&ensp;&ensp;&ensp;Here kau कौ (like Khas-Kura bhani भनि) is used at the end of a quotation, like the Sanskrit iti इति. This is very common.
 
 8. Numerous examples will be found under the head of intensive verbs. Compare also the following examples of the long form,
-   - राजबाहन थे वी देखिबेर असज भयो। (Rājbāhan thē wī dekhi-bēr àsaj bhayo)<br>
+   - राजबाहन कणि वी देखिबेर असज भयो। (Rājbāhan kan̥i wī dekhi-bēr àsaj bhayo)<br>
    [राजवाहन को उसे देखकर अचंभा हुआ।]
-   - उ खुसू-खुसू भाजिबेर मातंग थे गयो। (u khusū-khusū bhàji-bēr Mātan̊g thē gayo)<br>
-   [वह चुपचाप भागकर मातंग को गया।] 
+   - उ खुसू-खुसू भाजिबेर मातंग थै गयो। (u khusū-khusū bhàji-bēr Mātan̊g thai gayo)<br>
+   [वह चुपचाप भागकर मातंग को (के पास) गया।] 
    - वीले धाद लगैबेर कयो। (wī-le dhād lagai-bēr kayo)<br>
    [उसने पुकार लगाकर कहा।]
-   - मातंग थे ऐबेर वीले एक रत्न भेटमा धरि दियो। (Mātan̊g thē ai-bēr wī-le ēk ratn bhēt̥-mā dhari diyo)<br>
-   [मातंग को आकर उसने एक रत्न भेंट में रख दिया।]
-   - एक बड़ा बोटका तलि जैबेर सीण पड़िगयो। (ēk bàr̥à bot̥à-kà tali jai-bēr sīn̥ par̥i-gayo)<br>
+   - मातंग थै ऐबेर वीले एक रत्न भेटमा धरि दियो। (Mātan̊g thai ai-bēr wī-le ēk ratn bhēt̥-mā dhari diyo)<br>
+   [मातंग को (के पास) आकर उसने एक रत्न भेंट में रख दिया।]
+   - इक बड़ऺ बोटकऺ तलि जैबेर सीण पड़िगयो। (ik bàr̥à bot̥à-kà tali jai-bēr sīn̥ par̥i-gayo)<br>
    [एक बड़े पेड़ के नीचे जाकर सोने पड़ गया।]
-   - उ सत्तूको कुथलो लीबेर बाट लागो। (u sattū-ko kuthalo lī-bēr bàt̥à làgo)<br>
+   - उ सत्तूको कुथलो लिबेर बाट लागो। (u sattū-ko kuthalo li-bēr bàt̥à làgo)<br>
    [वह सत्तू का बोरा लेकर रास्ते लगा।]
 
 <br>
