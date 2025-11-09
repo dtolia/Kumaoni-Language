@@ -17,9 +17,9 @@ A present participle is a verb form that indicates an ongoing action or state in
    - मी हिटनै रयूँ। (mī hit̥anai rayū̃)<br>
    [मैं चलते रहा।]
    - मी हिटनै रौछुँ। (mī hit̥anai rau-chhũ)<br>
-   [मैं चलत (चल) रखा हूँ।]
+   [मैं चलते रहता हूँ।] and not [मैं चलत (चल) रखा हूँ।]
    - मी हिटनै रौछियूँ। (mī hit̥anai rau-chhiyū̃)<br>
-   [मैं चलत (चल) रखा था।]
+   [मैं चलते रहता था।] and not [मैं चलत (चल) रखा था।]
 
 6. I have not met any example of the nominative masculine singular of this participle used in its correct sense. But the participle is also employed as the third person singular of the past conditional (like the Hindi चलता, if he had gone), and of that I have found one instance.
 
@@ -29,7 +29,7 @@ A present participle is a verb form that indicates an ongoing action or state in
    - मी मरि जानूँ, त भलो हुनो। (mī mari jānyū̃, ta bhalo huno)<br>
    [मैं मर जाती, तो भला होता।]
    - जब मी बगीचमा सोचनि-सोचनि फिरनै रैछियूँ। (jab mī bagīchà-mā sochani-sochani phiranai rai-chhiyū̃)<br>
-   [जब मैं बगीचे में सोचती-सोचती फिरत रखी थी।]
+   [जब मैं बगीचे में सोचती-सोचती फिरते रहती थी।]
    - उनले आदिमिनकि बड़ि भीड़ ऊनि देखि। (una-le ādimina-ki bar̥i bhīr̥ ūni dekhi)<br>
    [उन्होंने आदमियों की बड़ी भीड़ आती देखी।]
    - मातंग महादेव ज्युकऺ वचन पुरऺ हुनऺ देखिबेर। (Mātan̊g Mahādēv-jyu-kà vachan purà hunà dekhi-bēr)<br>
@@ -37,23 +37,23 @@ A present participle is a verb form that indicates an ongoing action or state in
 
 9. Examples of the oblique form,
    - मी बीन लिबेर आफणो मन बेलमूनै रयूँ। (mī bīn li-bēr àphan̥o man belamūnai rayū̃)<br>
-   [मैं बीन लेकर अपना मन बहलात रहा।]
+   [मैं बीन लेकर अपना मन बहलाते रहा।]
    - उ यथ-उथ फिरनै रयो। (u yeth-uth phiranai rayo)<br>
-   [वह यहीं-वहीं फिरत रहा।]
+   [वह यहीं-वहीं फिरते रहा।]
    - हमि सारि रात बात करनै रयाँ। (hami sàri rāt bāt karanai rayā̃)<br>
-   [हम सारी रात बात करत रहे।]
+   [हम सारी रात बात करते रहे।]
    - वीमा फटिक चमकनै रीं। (wī-mā phat̥ik chamakanai rī̃)<br>
-   [उसमें फिटकरे चमकत रखे हैं।]
+   [उसमें फिटकरे चमकते रहते हैं।]
    - "हमि अन्न-पाणि छोड़िबेर मरनूँ", कूनै रीं। ("hami ann-pàn̥i chhor̥i-bēr maranū̃", kūnai rī̃)<br>
-   ["हम अन्न-पानी छोड़कर मरते हैं", कहत रखे हैं।]
+   ["हम अन्न-पानी छोड़कर मरते हैं", कहते रहते हैं।]
    - उ लै म्यरऺ तरफ भलिकै चाँनै रैछि। (u lai myar taraph bhali-kai chā̃nai rai-chhi)<br>
-   [वह भी मेरे तरफ अच्छी तरह देखत रखी थी।]
+   [वह भी मेरे तरफ अच्छी तरह देखते रहती थी।]
    - एक सिद्ध होम करनऺ रौ छ। (ēk siddh hōm karànà rau-chh)<br>
-   [एक सिद्ध यज्ञ करत रखा है।]
+   [एक सिद्ध यज्ञ करते रहता है।]
    - तुमि बहौत दिन बटि फिरनऺ रौछा। (tumi bahaut din-bat̥i phirànà rau-chhā)<br>
-   [तुम बहुत दिन से फिरत रखे हो।]
+   [तुम बहुत दिन से फिरते रहते हो।]
    - जब हमि गौं बटि शहरमा ऊनऺ रौछियाँ। (jab hami gaũ-bat̥i śahar-mā ūnà rau-chhiyā̃)<br>
-   [जब हम गाँव से शहर में आवत रखे थे।]
+   [जब हम गाँव से शहर में आते रहते थे।]
 
 <br>
 
