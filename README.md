@@ -33,6 +33,7 @@ An in-depth abridged course on Kumaoni grammar as expounded in Grierson's Liguis
 24. [Passives & Causals](/major/24_PassivesCausals.md)
 25. [Compound Verbs](/major/25_CompoundVerbs.md)
 26. [Indeclinables](/major/26_Indeclinables.md)
+27. [Addendum](/major/27_Addendum.md)
 
 ## Resources
 1. [Dictionary](/rsrc/0_Dictionary.md) 
