@@ -11,3 +11,15 @@ The following is the paradigm of this tense,
 
 ## Past Continuous
 The following is the paradigm of this tense,
+
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | hit̥anai-chhiyū̃ हिटनै छियूँ | hit̥anai-chhiyā̃ हिटनै छियाँ |
+| (2) | Masc. - hit̥anai-chhiyē हिटनै छिये; <br>Fem. - hit̥anai-chhī हिटनै छी | hit̥anai-chhiyā हिटनै छिया |
+| (3) | Masc. - hit̥anau-chhiyo हिटनौ छियो; <br>Fem. - hit̥anai-chi हिटनै छि | Masc. - hit̥anaī-chhiyà हिटनै छिय; <br>Fem. - hit̥anaī-chhin हिटनै छिन |
+
+<br>
+
+[<- PreviousChapter](/major/26_Indeclinables.md) &ensp;
+
+---
