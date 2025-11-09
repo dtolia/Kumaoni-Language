@@ -8,14 +8,14 @@
 
 | Person | Singular | Plural |
 | ------------- | ------------- | ------------- |
-| (1) | hit̥anū̃ हिटनूँ ; hit̥anyū̃ हिटन्यूँ ; hit̥anī̃ हिटनीं | hit̥anū̃ हिटनूँ ; hit̥anā̃ हिटनाँ |
+| (1) | hit̥anū̃ हिटनूँ ; ~~hit̥anyū̃ हिटन्यूँ ; hit̥anī̃ हिटनीं~~ | hit̥anā̃ हिटनाँ ; ~~hit̥anū̃ हिटनूँ~~ |
 | (2) | Masc. - hit̥anai हिटनै; <br>Fem. - hit̥anī हिटनी | hit̥anā हिटना |
 | (3) | Masc. - hitan̥o हिटनो; <br>Fem. - hit̥ani हिटनि | Masc. - hit̥ànà हिटनऺ; <br>Fem. - hit̥anin हिटनिन |
 
 4. The forms for the irregular verbs are based on the corresponding present participles and require no further  explanation.
 
 5. The following is an example of the use of this tense,
-   - मी मरि जान्यूँ, त भलो हुनो। (mī mari jānyū̃, ta bhalo huno)<br>
+   - मी मरि जानूँ, त भलो हुनो। (mī mari jānyū̃, ta bhalo huno)<br>
    [मैं मर जाती, तो भला होता।]
 
 <br>
