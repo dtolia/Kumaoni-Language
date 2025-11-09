@@ -20,6 +20,6 @@
 
 <br>
 
-[<- PreviousChapter](/major/25_CompoundVerbs.md) &ensp;
+[<- PreviousChapter](/major/25_CompoundVerbs.md) &ensp; [NextChapter ->](/major/27_Addendum.md)
 
 ---
