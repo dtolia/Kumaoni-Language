@@ -9,8 +9,8 @@ A present participle is a verb form that indicates an ongoing action or state in
 3. The present participle does not often occur in the direct form, but its oblique form is extremely common. This oblique form may be either hit̥anai हिटनै (really an old locative), or hit̥ànà हिटनऺ (Hindi: चलते). Both of these are frequently spelt, as is shown by the examples below, with a cerebral n̥.
 
 4. This oblique present participle, hit̥anai or hit̥ànà, means ‘in going,’ ‘while going,’ and is exactly equivalent to the English ‘a-going.’ It is frequently used with the past tenses of verb rū̃n̥ō (to remain) of which:
-   - The perfect rau-chhũ रौछुँ is equivalent to ‘I am,’ ‘I shall be.’
-   - The pluperfect rau-chhiyū̃ रौछियूँ is equivalent to ‘I was.’
+   - The present definite rū̃-chhu रूँछु is equivalent to ‘I am.’
+   - The imperfect rū̃-chhiyū̃ रूँछियूँ is equivalent to ‘I was.’
    - The past tense rayū̃ रयूँ is employed in its proper sense of ‘I remained,’ ‘I continue.’
 
 5. We thus get the following sets of forms,
