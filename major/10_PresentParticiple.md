@@ -6,7 +6,7 @@ A present participle is a verb form that indicates an ongoing action or state in
 
 2. The derivation of the participle shows that the n, being descended from an older nt, is certainly the correct form; but, nevertheless, the participle is frequently written with an n̥ instead, thus (incorrectly, according to the derivation) hit̥an̥o हिटणो, agreeing with the infinitive, with which it is therefore liable to be confused.
 
-3. The present participle does not often occur in the direct form, but its oblique form is extremely common. This oblique form may be either hit̥anai हिटनै (really an old locative), or hit̥ànà हिटनऺ (Hindi: चलते/चलत). Both of these are frequently spelt, as is shown by the examples below, with a cerebral n̥.
+3. The present participle does not often occur in the direct form, but its oblique form is extremely common. This oblique form may be either hit̥anai हिटनै (really an old locative), or hit̥ànà हिटनऺ (Hindi: चलते). Both of these are frequently spelt, as is shown by the examples below, with a cerebral n̥.
 
 4. This oblique present participle, hit̥anai or hit̥ànà, means ‘in going,’ ‘while going,’ and is exactly equivalent to the English ‘a-going.’ It is frequently used with the past tenses of verb rū̃n̥ō (to remain) of which:
    - The perfect rau-chhũ रौछुँ is equivalent to ‘I am,’ ‘I shall be.’
@@ -16,10 +16,10 @@ A present participle is a verb form that indicates an ongoing action or state in
 5. We thus get the following sets of forms,
    - मी हिटनै रयूँ। (mī hit̥anai rayū̃)<br>
    [मैं चलते रहा।]
-   - मी हिटनै रौछुँ। (mī hit̥anai rau-chhũ)<br>
-   [मैं चलते रहता हूँ।] and not [मैं चलत (चल) रखा हूँ।]
-   - मी हिटनै रौछियूँ। (mī hit̥anai rau-chhiyū̃)<br>
-   [मैं चलते रहता था।] and not [मैं चलत (चल) रखा था।]
+   - मी हिटनै रूँछु। (mī hit̥anai rū̃-chhu)<br>
+   [मैं चलते रहता हूँ।] ; (This follows Present Definite auxiliary)
+   - मी हिटनै रूँछियूँ। (mī hit̥anai rū̃-chhiyū̃)<br>
+   [मैं चलते रहता था।] ; (This follows Imperfect auxiliary)
 
 6. I have not met any example of the nominative masculine singular of this participle used in its correct sense. But the participle is also employed as the third person singular of the past conditional (like the Hindi चलता, if he had gone), and of that I have found one instance.
 
@@ -44,7 +44,7 @@ A present participle is a verb form that indicates an ongoing action or state in
    [हम सारी रात बात करते रहे।]
    - वीमा फटिक चमकनै रीं। (wī-mā phat̥ik chamakanai rī̃)<br>
    [उसमें फिटकरे चमकते रहते हैं।]
-   - "हमि अन्न-पाणि छोड़िबेर मरनूँ", कूनै रीं। ("hami ann-pàn̥i chhor̥i-bēr maranū̃", kūnai rī̃)<br>
+   - "हमि अन्न-पाणि छोड़िबेर मरनूँ", कूनै रूनी। ("hami ann-pàn̥i chhor̥i-bēr maranū̃", kūnai rūnī)<br>
    ["हम अन्न-पानी छोड़कर मरते हैं", कहते रहते हैं।]
    - उ लै म्यरऺ तरफ भलिकै चाँनै रैछि। (u lai myar taraph bhali-kai chā̃nai rai-chhi)<br>
    [वह भी मेरे तरफ अच्छी तरह देखते रहती थी।]
