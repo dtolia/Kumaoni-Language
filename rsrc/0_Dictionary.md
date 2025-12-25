@@ -88,3 +88,15 @@
 पिछले साल | पोर | last year
 पिछले साल से पहले का साल | परार | year before last year
 एक ज़माने में | पोर-परार | once upon a time
+ढोना | सारणो | to carry; {Verb}
+उठाना | टिपणो | to raise; {Verb}
+एक बार | इक घात | once
+जगना | बिजणो | to wake up; {Verb}
+चैन से लेटना / लंबा पसर जाना | लंपसर | lie down / stretch out
+निकल जाना | न्है जाणो / नसि जाणो | to leave; {Verb}
+निकालना | गाड़णो | to remove; {Verb}
+सपना | स्वीण | dream
+भीतर | भितेर | inside
+बूता (बलबूते) | पुति | stength
+पहनना | पैरणो | to wear; {Verb}
+ढूँढना | हेरणो | to find; {Verb}
