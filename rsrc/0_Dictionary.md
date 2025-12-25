@@ -97,6 +97,6 @@
 निकालना | गाड़णो | to remove; {Verb}
 सपना | स्वीण | dream
 भीतर | भितेर | inside
-बूता (बलबूते) | पुति | stength
+बूता (as in बलबूते) | पुति | stength
 पहनना | पैरणो | to wear; {Verb}
 ढूँढना | हेरणो | to find; {Verb}
