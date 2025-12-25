@@ -111,7 +111,7 @@
 हिंदी | कुमाऊँनी 
 --- | --- 
 में | मा, पिन 
-पर | माजि, परि 
+पर | मजि, परि 
 
 <details><summary>Example Sentences</summary>
 <p>
