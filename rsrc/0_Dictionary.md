@@ -165,4 +165,8 @@
 पुकार | धाद | call, evocation
 सुरीली आवाज़ | भौण | sing-voice, melodious voice
 भरोसा | पतिर | trust, faith
+विश्वसनीय | पत्यूणि | credible, reliable
+विश्वसनीयता | पत्यूणोव | credibility, reliability
+विश्वास कराना | पत्यूणो | to make believe; {Verb}
 परेशानी | अब्याव, धौथाणि, अशौं | trouble, tension, bother
+एकड़ | बीसा (i.e. 20 नाली) | acre; {Unit}
