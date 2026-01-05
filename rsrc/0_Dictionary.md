@@ -29,7 +29,7 @@
 जान-पहचान | भुजी-पछ्यान | acquaintance
 तर्क | तुक | logic
 शैली (अंदाज़) | ठसक | style, genre, form
-दीवार | भीड़ी/भिड़ | wall
+दीवार | भीड़ी / भिड़ | wall
 भूमि कटाव रोकनेवाली दीवार | पघार | erosion control wall
 आकाश (आसमान) | सरग, खरै, खराई | sky
 सेरा | स्यार | irrigated land; {Geography}
@@ -58,7 +58,7 @@
 पवन (हवा) | बयार/बयाल/बयाव; पौन | wind
 लालसा | नराइ | longing
 पीली | पिंगली | yellow; {Color}
-वेदी | द्योठ्या/दिठ्या | elevated base prepared for religious purposes
+वेदी | द्योठ्या / दिठ्या | elevated base prepared for religious purposes
 मलिन | नरगी | dirty, contaminated, sinful
 नदी | रहप/रहौप | river; {Geography}
 नदिका, छोटी नदी | गार | rivulet; {Geography}
@@ -100,3 +100,4 @@
 बूता (as in बलबूते) | पुति | stength
 पहनना | पैरणो | to wear; {Verb}
 ढूँढना | हेरणो | to find; {Verb}
+भी | लै / लगै | too, also; {Adverb}
