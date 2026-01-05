@@ -33,7 +33,7 @@
 भूमि कटाव रोकनेवाली दीवार | पघार | erosion control wall
 आकाश, गगन (आसमान) | अगास, अग्गन, सरग / सर्ग, खरै / खराई | sky
 सेरा | स्यार | irrigated land; {Geography}
-दलदली भूमि, दलदल | सिमार/स्यमार | bog, marsh, moor, quicksand; {Geography}
+दलदली भूमि, दलदल | सिमार / स्यमार | bog, marsh, moor, quicksand; {Geography}
 केतली | तिपरी | kettle
 सष्टांग प्रणाम | घपकौन स्यौ | prostration, to bow down out of respect
 घूॅंट | तुरकू | gulp
@@ -153,3 +153,16 @@
 दिन का खाना | सल्यो | lunch
 अधःपतन, ह्रास | उन्यांत | downfall, degradation
 विकास, तरक्की, समृद्धी | उम्यार | prosperity, growth, positive development
+टिकाऊ | शैल | durable
+गैर-टिकाऊ | अफार | non-durable
+भव्य, बहुत अनूठा | न्यारोइ | magnificent, very unique
+ठंडी हवा | शोड़ (feminine) | cold wind
+जीवन | जूनि | life
+जीवित | ज्यौन | alive
+चांद, चंद्रमा | जून | moon
+तारा | गैणऻ | star
+हालचाल | कुशौ-खेम, आदै-कुशै | well being
+पुकार | धाद | call, evocation
+सुरीली आवाज़ | भौण | sing-voice, melodious voice
+भरोसा | पतिर | trust, faith
+परेशानी | अब्याव, धौथाणि, अशौं | trouble, tension, bother
