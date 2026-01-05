@@ -60,8 +60,9 @@
 पीली | पिंगली | yellow; {Color}
 वेदी | द्योठ्या / दिठ्या | elevated base prepared for religious purposes
 मलिन | नरगी | dirty, contaminated, sinful
-नदी | रहप/रहौप | river; {Geography}
-नदिका, छोटी नदी | गार | rivulet; {Geography}
+नदी | रहप / रहौप | river; {Geography}
+नदिका, छोटी नदी | गार | creek, rivulet; {Geography}
+नाला | गधेढ़ / गद्यार | brook; {Geography}
 प्रतिबिंब | छैल | reflection
 छाया; छाँव; परछाई | सेल/सेव, शेल/शेव; छेव; स्योल | shade; umbra; shadow
 खड़ी पहाड़ी | काँठा | cliff; {Geography}
@@ -147,3 +148,8 @@
 सोचना | ठारणो | to think
 चलना | चोलणो | to work, to converse
 चलना | हिटणो | to walk, to move
+डर, भय | त्रास | fear
+नाश्ता | कल्यो | breakfast, snacks
+दिन का खाना | सल्यो | lunch
+अधःपतन, ह्रास | उन्यांत | downfall, degradation
+विकास, तरक्की, समृद्धी | उम्यार | prosperity, growth, positive development
