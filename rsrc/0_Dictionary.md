@@ -31,7 +31,7 @@
 शैली (अंदाज़) | ठसक | style, genre, form
 दीवार | भीड़ी / भिड़ | wall
 भूमि कटाव रोकनेवाली दीवार | पघार | erosion control wall
-आकाश (आसमान) | सरग, खरै, खराई | sky
+आकाश, गगन (आसमान) | अगास, अग्गन, सरग / सर्ग, खरै / खराई | sky
 सेरा | स्यार | irrigated land; {Geography}
 दलदली भूमि, दलदल | सिमार/स्यमार | bog, marsh, moor, quicksand; {Geography}
 केतली | तिपरी | kettle
@@ -101,3 +101,49 @@
 पहनना | पैरणो | to wear; {Verb}
 ढूँढना | हेरणो | to find; {Verb}
 भी | लै / लगै | too, also; {Adverb}
+उचित, सही | सप्यों | appropriate, correct, right
+अनुचित, ग़लत | बिप्यों | inappropriate, incorrect, wrong
+खुशी | फुर्ऱ्याट / फौंस्याट ; Usage: मन फुर्रिगौ। (मन खुश हो गया।) | happiness
+पगडंडी | ग्वैंट | trail, alleyway
+गली-वली | ग्वैंट-वैंट | street-wreet
+आह भरना, निःश्वास | निशास | sigh
+चिंता | झर्क | worry
+कौनसे | क्वल (को + ल) | which ones
+वश में करना, फुसला लेना, मनवा लेना | मुन लिणो | to persuade, to convince
+चालाक | सट्ट | clever, cunning
+ज्ञान, कौशल | सीप | knowledge, skill
+अनुभव | सीपठान | experience
+परिवार | मौ | family
+बिरादर | स्वार | extended family (descendant of the same ancestor)
+सगे-संबंधी, रिश्तेदार | संक-स्वार, लगलात | relatives
+कुल, घराना | आल | clan
+चबाना | बुकूणो | to chew; {Verb}
+दाँत से काटना | दत्यौणो | to bite; {Verb}
+प्रसिद्ध | गाहिन | famous
+कुल्ला करना | चुठणो | to wash hands or rinse your mouth after a meal
+शुद्ध / स्वच्छ / पवित्र | चोक्खो / च्वख | pure, clean, holy
+घी | घ्यू ; चोखुँन / चोखुँण | clarified butter
+जन्म | जरम | birth
+जन्मना | जर्मिणो | to take birth
+जन्माना | जर्मूणो | to give birth
+आजीवन | जरमभरि | lifelong
+क्या पता / क्या जाने | कसप | don't know, who knows
+विचित्र | क्याप | weird, bizarre
+कर्मठ | बुतकोर | diligent
+इंद्रधनुष | इंद्रेणी | rainbow
+सहित | सित | including, together with
+बहसबाज़ी | मचमचाट | bickering, debate, argumentation
+आलसी | अल्छी | lazy
+आलसीपन | ल्यमलमाट | laziness
+ज़्यादा | बाँकि / बैकि | more
+बारिश, वर्षा | द्यो, बर्खा | rain
+देवता | द्याप्त | god
+देवी | देइ | goddess
+मंदिर | थान, द्यौल, पौंर | temple
+सीढ़ी | निशण / निशणो | ladder
+बादल | बधौ, ऊना | cloud
+तक | जाँलै / जालेक | till, until
+खड़ा होना | ठाड़णो | to stand
+सोचना | ठारणो | to think
+चलना | चोलणो | to work, to converse
+चलना | हिटणो | to walk, to move
