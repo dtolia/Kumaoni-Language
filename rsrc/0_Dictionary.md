@@ -156,7 +156,8 @@
 टिकाऊ | शैल | durable
 गैर-टिकाऊ | अफार | non-durable
 भव्य, बहुत अनूठा | न्यारोइ | magnificent, very unique
-ठंडी हवा | शोड़ (feminine) | cold wind
+ठंडी हवा | शोड़ (feminine) | cold wind
+ठंडी हवा लगना, ठंडी हवा से ठंडा हो जाना | शोड़ीणो | To feel to cold air, to become cold due to cold air; {Verb}
 जीवन | जूनि | life
 जीवित | ज्यौन | alive
 चांद, चंद्रमा | जून | moon
@@ -170,3 +171,12 @@
 विश्वास कराना | पत्यूणो | to make believe; {Verb}
 परेशानी | अब्याव, धौथाणि, अशौं | trouble, tension, bother
 एकड़ | बीसा (i.e. 20 नाली) | acre; {Unit}
+भीग गया | तिनि ग्यो | got wet; {Verb}
+तर गया | निझूति ग्यो | got soaked; {Verb}
+मछली पकड़ने का जाल | ग्वद (masculine) | fishing net
+गाँठ | अंटि | knot
+लायक | लकारि | worthy
+ठंड से बचने के लिए बहुत सारे कपड़े पहनना | गदोड़णो | to wear multi-layer clothing for protection against the cold; {Verb}
+छीजना | घौणिणो | to wear out; {Verb}
+रगड़ना | खिणिणो | to erode; {Verb}
+घिसना | घसकणो | to rub; {Verb}
