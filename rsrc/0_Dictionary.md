@@ -75,12 +75,17 @@
 आगे से | अघिन बटि | from ahead
 बुड्ढा | ढ्यर | old man; {slang}
 बुड्ढी | ढेरी | old woman; {slang}
+घर | ध्याल | Home
+मकान | कुड़ि | House
 बैठक का कमरा | चाक | drawing room; {House}
 सोने का कमरा | भितौर | bedroom; {House}
 मवेशी शालिका | छानो, खर्क | cattle shed; {House}
 छत | पाख | terrace; {House}
-पहली मंजिल | पाणमैं | first floor; {House}
-दूसरी मंजिल | त्यौलो/त्यौल | second floor; {House}
+फ़र्श | पाल | Floor (Physical Surface); {House}
+मंज़िल | पुर | Storey (Building Level); {House}
+तिमंज़िला मकान | तिपुर्या कुड़ि | Three-Storey House; {House}
+पहली मंज़िल | पाणमैं | first floor; {House}
+दूसरी मंज़िल | त्यौलो/त्यौल | second floor; {House}
 भूतल | गोठ | ground floor; {House}
 कमरा | खंड, खण | room; {House}
 बरामदा | खलो | verandah; {House}
@@ -90,7 +95,7 @@
 पिछले साल से पहले का साल | परार | year before last year
 एक ज़माने में | पोर-परार | once upon a time
 ढोना | सारणो | to carry; {Verb}
-उठाना | टिपणो | to raise; {Verb}
+उठाना | टिपणो | to pick up; {Verb}
 एक बार | इक घात | once
 जगना | बिजणो | to wake up; {Verb}
 चैन से लेटना / लंबा पसर जाना | लंपसर | lie down / stretch out
@@ -180,3 +185,6 @@
 छीजना | घौणिणो | to wear out; {Verb}
 रगड़ना | खिणिणो | to erode; {Verb}
 घिसना | घसकणो | to rub; {Verb}
+ऊँचा | अल्को | High
+विशाल | सगत | Huge
+झुरना<br> बहुत अधिक चिंता, रोग या परिश्रम आदि के कारण दुर्बल होना।<br> बहुत अधिक दुःखी होना या शोक करना। | झुरणो | to languish; {Verb}
