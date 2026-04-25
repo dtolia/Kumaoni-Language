@@ -24,8 +24,6 @@ Now suppose certain features of कुमय्या dialect are excluded from 
 
 Therefore, before speaking of standardization, it becomes necessary to establish and publish a set of clear, universally acceptable principles on the basis of which a standard dialect is to be constructed.
 
----
-
 ## The Case of Almora City Dialect
 During the late medieval period, Almora served as the capital of Kumaon. As a result, people from different parts of the region migrated there for administrative work, trade, and better opportunities.
 
@@ -36,8 +34,6 @@ However, after the formation of Uttarakhand in 2000, migration patterns changed 
 Gradually, Kumaoni itself became restricted to family conversations. In some households, parents even stopped passing the language to their children, fearing that it might interfere with their Hindi or English pronunciation and limit professional opportunities.
 
 As a result, a dialect that once had the potential to serve as a common linguistic center gradually lost its relevance among its own people.
-
----
 
 ## A Possible Solution
 I think of two theories in this context.
