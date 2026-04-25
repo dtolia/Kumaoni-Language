@@ -27,13 +27,15 @@ Therefore, before speaking of standardization, it becomes necessary to establish
 ---
 
 ## The Case of Almora City Dialect
-Almora city was the capital of Kumaon during the late medieval era. Thus, people from various regions migrated there for better prospects and administrative work.
+During the late medieval period, Almora served as the capital of Kumaon. As a result, people from different parts of the region migrated there for administrative work, trade, and better opportunities.
 
-It is a generally accepted that Almora city dialect is खसपर्जिया, but that isn't true. Almora city lies in the Baramandal province and the dialect of this entire region is labelled खसपर्जिया. But since Almora city was settled by people from all across Kumaon and country, the city dialect drew influence from Sanskrit, Kannauji, and Awadhi alongside the various Kumaoni dialects. Thus becoming an ideal candidate for Standardized Kumaoni.
+It is commonly assumed that the dialect of Almora city is simply खसपर्जिया, but this is only partially true. Almora lies within the Baramandal region, whose broader regional dialect is classified as खसपर्जिया. However, the urban speech of Almora developed under very different conditions. Since the city was populated by people from across Kumaon and beyond, its dialect absorbed influences not only from various Kumaoni dialects, but also from Sanskrit, Kannauji, and Awadhi. This gave it a broader and more balanced linguistic character, making it a strong candidate for a standardized form of Kumaoni.
 
-But post-2000, with the formation of the hill state of Uttarakhand, people started migrating to the भाभर cities of Ramnagar, Haldwani, and Tanakpur. Almora city dialect didn’t hold prominence here. Hence, people reverted to their regional dialects. Kumaoni became a language that people only used with family members. Eventually, some families stopped teaching the language to their children out of fear that it may negatively affect their Hindi/English accent and hinder professional growth.
+However, after the formation of Uttarakhand in 2000, migration patterns changed significantly. Many people moved toward the भाभर cities such as Ramnagar, Haldwani, and Tanakpur, where the Almora city dialect no longer held the same social or cultural prominence. In these new urban spaces, speakers often reverted to their own regional dialects.
 
-And therefore, a promising dialect lost relevance among its people.
+Gradually, Kumaoni itself became restricted to family conversations. In some households, parents even stopped passing the language to their children, fearing that it might interfere with their Hindi or English pronunciation and limit professional opportunities.
+
+As a result, a dialect that once had the potential to serve as a common linguistic center gradually lost its relevance among its own people.
 
 ---
 
