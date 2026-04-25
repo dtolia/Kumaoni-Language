@@ -39,8 +39,8 @@
 घूॅंट | तुरकू | gulp
 मण्डप (शामियाना) | बुरती छौनो | pavilion, a shed adorning flowers erected on festive occasions
 चोटी पर स्थित भूमि की एक लंबी, संकरी पट्टी | धार | ridge; {Geography}
-संतुष्टि | धौ | satisfaction
-संतुष्ट | छक्क | satisfied
+संतुष्टि | धौ | satisfaction; {Emotions}
+संतुष्ट | छक्क / अडल | satisfied, content; {Emotions}
 पहाड़ी ढलान | भिड़ा, भ्योल | hillside; {Geography}
 पहाड़ी | डाना | hill; {Geography}
 पहाड़, पर्वत | धुरा | mountain, place high enough to have oak forest; {Geography}
@@ -109,11 +109,12 @@
 भी | लै / लगै | too, also; {Adverb}
 उचित, सही | सप्यों | appropriate, correct, right
 अनुचित, ग़लत | बिप्यों | inappropriate, incorrect, wrong
-खुशी | फुर्ऱ्याट / फौंस्याट<br> Usage: मन फुर्रिगौ। (मन खुश हो गया।) | happiness
+खुशी | फुर्ऱ्याट / फौंस्याट<br> Usage: मन फुर्रिगौ। (मन खुश हो गया।) | happiness; {Emotions}
 पगडंडी | ग्वैंट | trail, alleyway
 गली-वली | ग्वैंट-वैंट | street-wreet
 आह भरना, निःश्वास | निशास | sigh
-चिंता | झर्क | worry
+चिंता | झर्क | worry;
+चिंतित | झर्कि | worried; {Emotions}
 कौनसे | क्वल (को + ल) | which ones
 वश में करना, फुसला लेना, मनवा लेना | मुन लिणो | to persuade, to convince
 चालाक | सट्ट | clever, cunning
@@ -153,7 +154,7 @@
 सोचना | ठारणो | to think
 चलना | चोलणो | to work, to converse
 चलना | हिटणो | to walk, to move
-डर, भय | त्रास | fear
+डर, भय | त्रास | fear; {Emotions}
 नाश्ता | कल्यो | breakfast, snacks
 दिन का खाना | सल्यो | lunch
 अधःपतन, ह्रास | उन्यांत | downfall, degradation
@@ -191,4 +192,17 @@
 समझना, जानना | बूजणो | to understand, to know; {Verb}
 समझाना, बोध कराना;<br>चित्त का आवेग या उत्साह आदि शांत करना। जैसे- दिल की लगी बुझाना। | बुजूणो | to explain, to calm the passion of the mind; {Verb}
 बुझना;<br> किसी जलते हुए पदार्थ का जलना बंद हो जाना। | निमणो | to extinguish; {Verb}
-झाड़ियों को साफ़ करने और ज़मीन की जुताई करने के बाद खेती के लिए तैयार की गई भूमि | नवाड़ | Tillage; {Geography}
+झाड़ियों को साफ़ करने और ज़मीन की जुताई करने के बाद खेती के लिए तैयार की गई भूमि | नवाड़ | tillage; {Geography}
+प्रसन्न (खुश) | फुर्मि | happy; {Emotions}
+उत्साहित | रौंकि<br>Usage: रौंकि लागि / ग्यू। | excited; {Emotions}
+दुखी | टोइ | sad; {Emotions}
+भयभीत | कफरि / झस्कि<br>Usage: झस्कि ग्यू। | scared; {Emotions}
+भ्रमित | गजबजि | confused; {Emotions}
+मूर्खतापूर्ण | गिगल | silly; {Emotions}
+आहत | पिड़ाइ | hurt; {Emotions}
+थका हुआ | पटाइ | tired; {Emotions}
+क्रोधित | चड़ि | angry; {Emotions}
+क्रोध / रोष (गुस्सा / नाराज़गी) | रीस | anger, resentment; {Emotions}
+क्रोध / बैरभाव | खार | anger, enmity; {Emotions}
+गड्ढा |  खाड़ | pit
+खोदना | खनणो<br>Usage: खाड़ खनणो। | to dig; {Verb}
