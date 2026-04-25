@@ -142,7 +142,7 @@
 बहसबाज़ी | मचमचाट | bickering, debate, argumentation
 आलसी | अल्छी | lazy
 आलसीपन | ल्यमलमाट | laziness
-ज़्यादा | बाँकि / बैकि | more
+ज़्यादा | झिक // बाँकि / बैकि | more
 बारिश, वर्षा | द्यो, बर्खा | rain
 देवता | द्याप्त | god
 देवी | देइ | goddess
@@ -206,3 +206,13 @@
 क्रोध / बैरभाव | खार | anger, enmity; {Emotions}
 गड्ढा |  खाड़ | pit
 खोदना | खनणो<br>Usage: खाड़ खनणो। | to dig; {Verb}
+इच्छा करना | इछण | to wish; {Verb}
+शोभायमान होना | शोभाण<br>Usage: जोभणले युक्त यव विद्याहीन छन त नि शोभानऺ। | to be graceful; {Verb}
+तुलसी | त्वेश | holy basil
+सवेरा | रत्तै | morning
+दोपहर | छकाल | afternoon
+साँझ (शाम) | ब्याखुलि | evening
+सायं संध्याकाल | रुमुक | dusk
+भाँति (तरह) | चारि<br>Usage: पुतइ चारि उड़ि गौ। | of the same nature or character
+ढंग / प्रकार | ढब | manner, type
+पूड़ी (पूरी) | लगड़ | a kind of fried chapati
