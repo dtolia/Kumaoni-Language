@@ -1,14 +1,18 @@
 # Why Kumaoni isn't Standardized?
-The general perception around why Kumaoni isn’t standardized yet is as follows:
+The usual explanations for why Kumaoni still lacks a widely accepted standard form are familiar enough:
 
-* Lack of Political Will;
-* Dialect versus Language Debate;
-* Inferiority Complex; and,
-* Less effective presence in Popular Culture.
+* lack of political will
+* the dialect versus language debate
+* linguistic inferiority complex
+* weak presence in popular culture
 
-But an often ignored, troubling aspect is the various geographically-differentiated rules that the dialects of Kumaoni follows. Yes, the variations among कारक and सर्वनाम words may be attributed to synonyms which would make the language vocabulary stronger. But it is the different rules around verb tenses that make the standardization process complicated.
+All of these are valid, but they often overshadow a more fundamental and far more difficult issue: the internal grammatical diversity of Kumaoni itself.
 
-For example, the sentence “मैं एक सेब खा रहा था।” may be written in the various Kumaoni dialects as follows:
+Kumaoni is not merely a language with different accents or interchangeable vocabulary across regions. While variations in कारक and सर्वनाम forms can often be treated as lexical alternatives, and may even enrich the language, the real challenge lies elsewhere, in the differences in verbal systems, especially tense formation and usage.
+
+Different dialects of Kumaoni often follow different grammatical rules for verb tenses, not just different word choices. This is where standardization becomes genuinely difficult.
+
+For example, the sentence “मैं एक सेब खा रहा था” may be expressed differently across various Kumaoni dialects as follows:
 Dialect | Translation | | Dialect | Translation | | Dialect | Translation
 --- | --- | --- | --- | --- | --- | --- | ---
 रौ–चौबैसी | मैं एक स्यौ खनारछ्यू। | | फल्दाकोटिया | में एक स्यौ खाणों छी। | | कुमय्या | मे एक स्यौ खान्नै छ्यू।
@@ -16,9 +20,9 @@ Dialect | Translation | | Dialect | Translation | | Dialect | Translation
 सोर्याली | म इक स्यौ खाँ बरै थ्यू। | | अस्कोटी | म यूटो स्यौ खांदै थ्यु। | | सिराली | म इक स्यौ खानमरै छिउ।
 गंगोली | मु यौक स्यौ खाँरछ्यु। | | दानपुरिया | मी एक स्यो खाड़ै हिउ। | | जोहारी | मे येक स्यो खान्ही।
 
-Now suppose that some features of कुमय्या Kumaoni are not kept in Standard Kumaoni. That being so, the linguists would have to give a satisfactory reason to the कुमय्या people for this act. Otherwise they will not accept the standard dialect.
+Now suppose certain features of कुमय्या dialect are excluded from the proposed Standard Kumaoni. In that case, linguists must be able to provide a convincing and principled explanation to speakers of कुमय्या as to why those forms were left out. Without such justification, the standard form will appear arbitrary, and naturally, it will not be accepted.
 
-Hence, it becomes mandatory to publish some universally accepted principles following which the standard dialect may be composed.
+Therefore, before speaking of standardization, it becomes necessary to establish and publish a set of clear, universally acceptable principles on the basis of which a standard dialect is to be constructed.
 
 ---
 
