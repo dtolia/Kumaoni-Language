@@ -35,19 +35,23 @@ Gradually, Kumaoni itself became restricted to family conversations. In some hou
 
 As a result, a dialect that once had the potential to serve as a common linguistic center gradually lost its relevance among its own people.
 
-## A Possible Solution
-I think of two theories in this context.
+## Possible Solutions
+The question of standardizing Kumaoni cannot be answered by grammar alone, nor by sentiment alone. It requires both linguistic discipline and social acceptance. In this context, three possible approaches may be considered.
 
-### First
-Standard dialect construction should be done keeping Almora City Dialect as base to bring Kumaoni to the Eighth Schedule of the Constitution. On observing other scheduled languages and constitutional articles, we know that only those languages have been included in the schedule which:
-* differ from other scheduled languages; and
-* strengthen Hindi.
+### First: Almora City Dialect as the Base
+The construction of a standard dialect should begin with the Almora city dialect as its base, with the larger goal of securing Kumaoni a place in the Eighth Schedule of the Constitution.
 
-Perhaps along these lines, a satisfactory reason may be provided for modifying the Almora City dialect to create the standard language.
+A look at other scheduled languages and the broader constitutional framework suggests that inclusion has generally favored languages that maintain a distinct identity from other scheduled languages while also strengthening Hindi within the larger linguistic structure of India.
 
-### Second
-Like standard Bengali and Gujarati, the decision on standard dialect should be left to the affluent class of Kumaoni society. That is, the language that pleases the well-to-do and gets their patronage should be the standard.
+From this perspective, the Almora city dialect offers a practical foundation. Its historical prestige, mixed linguistic character, and wider intelligibility make it better suited for standardization than a narrowly regional dialect. If certain features of other dialects are excluded in this process, linguists must provide clear and principled reasons for such choices so that the standard form is seen as representative rather than imposed.
 
-Therefore the dialect whose music and lyrics attract the Kumaoni elites sitting in Delhi and Bombay, the dialect which may be easily learned by everyone, shall become the standard.
+### Second: Standardization Through Elite Patronage
+Another possibility is to accept a social reality often ignored in linguistic debates: as happened with standard Bengali and Gujarati, the decision on the standard dialect may ultimately rest not with linguists, but with the affluent and influential sections of society.
+
+In practice, the dialect that receives the patronage of the educated and economically dominant class often becomes the standard. Prestige, publication, education, and urban influence shape language far more than formal linguistic arguments.
+
+In that case, whichever form of Kumaoni finds favor among the Kumaoni elites settled in cities like Delhi and Bombay, whichever dialect dominates music, literature, and cultural production, and whichever form is easiest for wider audiences to learn, may gradually establish itself as the standard.
+
+### Third: 
 
 ---
