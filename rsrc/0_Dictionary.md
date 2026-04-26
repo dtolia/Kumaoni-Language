@@ -165,7 +165,7 @@
 ठंडी हवा | शोड़ (feminine) | cold wind
 ठंडी हवा लगना, ठंडी हवा से ठंडा हो जाना | शोड़ीणो | To feel to cold air, to become cold due to cold air; {Verb}
 जीवन | जूनि | life
-जीवित | ज्यौन | alive
+जीवित | ज्यून / ज्यौन | alive
 चांद, चंद्रमा | जून | moon
 तारा | गैणऻ | star
 हालचाल | कुशौ-खेम, आदै-कुशै | well being
