@@ -225,3 +225,5 @@
 पाला, तुषार | तुश्यार / तोश्यार | frost
 श्रम | बौल | labor
 श्रमिक | बौलि | laborer, worker
+१. अतिथियों की कतार<br>२. छोटी दावत | पौणक्योव | queue of guests, a small feast
+बड़ी दावत अथवा आयोजन | झरफर | a grand feast or event
