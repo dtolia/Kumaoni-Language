@@ -207,8 +207,8 @@
 आहत | पिड़ाइ | hurt; {Emotions}
 थका हुआ | पटाइ | tired; {Emotions}
 क्रोधित | चड़ि | angry; {Emotions}
-क्रोध / रोष (गुस्सा / नाराज़गी) | रीस | anger, resentment; {Emotions}
-क्रोध / बैरभाव | खार | anger, enmity; {Emotions}
+क्रोध, रोष (गुस्सा, नाराज़गी) | रीस | anger, resentment; {Emotions}
+क्रोध, बैरभाव | खार | anger, enmity; {Emotions}
 गड्ढा |  खाड़ | pit
 खोदना | खनणो<br>Usage: खाड़ खनणो। | to dig; {Verb}
 इच्छा करना | इछण | to wish; {Verb}
@@ -219,7 +219,7 @@
 साँझ (शाम) | ब्याखुलि | evening
 सायं संध्याकाल | रुमुक | dusk
 भाँति (तरह) | चारि<br>Usage: पुतइ चारि उड़ि गौ। | of the same nature or character
-ढंग / प्रकार | ढब | manner, type
+ढंग, प्रकार | ढब | manner, type
 पूड़ी (पूरी) | लगड़ | a kind of fried chapati
 दृष्टि | डीठ | vision, evil eye
 पाला, तुषार | तुश्यार / तोश्यार | frost
@@ -227,3 +227,7 @@
 श्रमिक | बौलि | laborer, worker
 १. अतिथियों की कतार<br>२. छोटी दावत | पौणक्योव | queue of guests, a small feast
 बड़ी दावत अथवा आयोजन | झरफर | a grand feast or event
+खटपटाहट | खड़बड़ाट | rattling, chaotic shaky noise
+छटकना<br>-अत्यधिक प्रतिक्रिया देना | उछटीणो<br>Usage: फोंसी बे उछटीन। रीस बे उछटीन। | to jump out, to react excessively; {Verb}
+१. याद<br>२. होश | फाम<br>Usage: जब उँ आपण फाममा आय।<br>(When he came to his senses.) | memory, senses
+अलग, पृथक, भिन्न | हरक | other, seperate, apart
