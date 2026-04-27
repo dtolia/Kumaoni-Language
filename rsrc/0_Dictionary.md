@@ -10,7 +10,7 @@
 दिन | दिवस | day
 भाई | भाय, भै | brother
 ठंडा | अलि | cold
-सूचना | द्होति | information, notice
+सूचना, समाचार (ख़बर) | दहोति<br>Usage: दहोति कै दिया। | information, news
 ओर (तरफ़) | उज्याणि, फाट | towards
 पुस्तक | पोथी | book
 कम्बल | खातड़ | blanket
@@ -193,6 +193,7 @@
 ऊँचा | अल्को | High
 विशाल | सगत | Huge
 झुरना;<br>- बहुत अधिक चिंता, रोग या परिश्रम आदि के कारण दुर्बल होना;<br>- बहुत अधिक दुःखी होना या शोक करना; | झुरणो | to languish; {Verb}
+पता<br>Usage: वो कहाँ गया है? पता नहीं। | छ्यत | awareness, information
 समझना, जानना | १. बूजणो<br>२. छ्याणो / छ्यालणो | to understand, to know; {Verb}
 समझाना, बोध कराना;<br>चित्त का आवेग या उत्साह आदि शांत करना। जैसे- दिल की लगी बुझाना। | बुजूणो | to explain, to calm the passion of the mind; {Verb}
 बुझना;<br> किसी जलते हुए पदार्थ का जलना बंद हो जाना। | निमणो | to extinguish; {Verb}
@@ -221,3 +222,6 @@
 ढंग / प्रकार | ढब | manner, type
 पूड़ी (पूरी) | लगड़ | a kind of fried chapati
 दृष्टि | डीठ | vision, evil eye
+पाला, तुषार | तुश्यार / तोश्यार | frost
+श्रम | बौल | labor
+श्रमिक | बौलि | laborer, worker
