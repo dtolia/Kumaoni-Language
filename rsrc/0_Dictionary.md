@@ -228,7 +228,7 @@
 १. अतिथियों की कतार<br>२. छोटी दावत | पौणक्योव | queue of guests, a small feast
 बड़ी दावत अथवा आयोजन | झरफर | a grand feast or event
 खटपटाहट | खड़बड़ाट | rattling, chaotic shaky noise
-छटकना<br>-अत्यधिक प्रतिक्रिया देना | उछटीणो<br>Usage: फोंसी बे उछटीन। रीस बे उछटीन। | to jump out, to react excessively; {Verb}
+छटकना<br>-अत्यधिक प्रतिक्रिया देना | उछटीणो<br>Usage: फोंसी बे उछटीणो।<br>रीस बे उछटीणो। | to jump out, to react excessively; {Verb}
 १. याद<br>२. होश | फाम<br>Usage: जब उँ आपण फाममा आय।<br>(When he came to his senses.) | memory, senses
 अलग, पृथक, भिन्न | हरक | other, seperate, apart
 चंगा (दुरुस्त) | चं / चङ<br>Usage: वीले वीकणि भल अणि चङ पाछ। | in good health or condition
