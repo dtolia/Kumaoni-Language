@@ -231,3 +231,5 @@
 छटकना<br>-अत्यधिक प्रतिक्रिया देना | उछटीणो<br>Usage: फोंसी बे उछटीन। रीस बे उछटीन। | to jump out, to react excessively; {Verb}
 १. याद<br>२. होश | फाम<br>Usage: जब उँ आपण फाममा आय।<br>(When he came to his senses.) | memory, senses
 अलग, पृथक, भिन्न | हरक | other, seperate, apart
+चंगा (दुरुस्त) | चं / चङ<br>Usage: वीले वीकणि भल अणि चङ पाछ। | in good health or condition
+बराबरी, तुलना, होड़ | हौत<br>Usage: उनर दगड़ हौत झन कर।<br>उनरि हौत झन कर। | comparison, rivalry
