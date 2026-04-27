@@ -67,7 +67,11 @@
 छाया; छाँव; परछाई | सेल/सेव, शेल/शेव; छेव; स्योल | shade; umbra; shadow
 खड़ी पहाड़ी | काँठा | cliff; {Geography}
 श्वेत | सुकिलो; सेतो/स्यौत; धौल | white; {Color}
-गहरा | गैर/गैल | deep
+गहरा | गैल | deep
+घाटी | गैर / खुवा<br>Usage: सिमलगैर | valley; {Geography}
+घना | भासि | dense
+मिश्रित वन | पातल | mixed forest; {Geography}
+एकल-प्रभावी वन | वणी | monodominant forest; {Geography}
 पश्चात | पछा | after
 पीछे | पछि | behind
 पीछे से | पछिन बटि | from behind
@@ -149,7 +153,7 @@
 मंदिर | थान, द्यौल, पौंर | temple
 सीढ़ी | निशण / निशणो | ladder
 बादल | बधौ, ऊना | cloud
-तक | जाँलै / जालेक | till, until
+तक | जाँलै / जाँलेक / लैक / ल्हैक | till, until
 खड़ा होना | ठाड़णो | to stand
 सोचना | ठारणो | to think
 चलना | चोलणो | to work, to converse
@@ -189,7 +193,7 @@
 ऊँचा | अल्को | High
 विशाल | सगत | Huge
 झुरना;<br>- बहुत अधिक चिंता, रोग या परिश्रम आदि के कारण दुर्बल होना;<br>- बहुत अधिक दुःखी होना या शोक करना; | झुरणो | to languish; {Verb}
-समझना, जानना | बूजणो | to understand, to know; {Verb}
+समझना, जानना | १. बूजणो<br>२. छ्याणो / छ्यालणो | to understand, to know; {Verb}
 समझाना, बोध कराना;<br>चित्त का आवेग या उत्साह आदि शांत करना। जैसे- दिल की लगी बुझाना। | बुजूणो | to explain, to calm the passion of the mind; {Verb}
 बुझना;<br> किसी जलते हुए पदार्थ का जलना बंद हो जाना। | निमणो | to extinguish; {Verb}
 झाड़ियों को साफ़ करने और ज़मीन की जुताई करने के बाद खेती के लिए तैयार की गई भूमि | नवाड़ | tillage; {Geography}
@@ -216,3 +220,4 @@
 भाँति (तरह) | चारि<br>Usage: पुतइ चारि उड़ि गौ। | of the same nature or character
 ढंग / प्रकार | ढब | manner, type
 पूड़ी (पूरी) | लगड़ | a kind of fried chapati
+दृष्टि | डीठ | vision, evil eye
