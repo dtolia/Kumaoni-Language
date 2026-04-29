@@ -233,3 +233,7 @@
 अलग, पृथक, भिन्न | हरक | other, seperate, apart
 चंगा (दुरुस्त) | चं / चङ<br>Usage: वीले वीकणि भल अणि चङ पाछ। | in good health or condition
 बराबरी, तुलना, होड़ | हौत<br>Usage: उनर दगड़ हौत झन कर।<br>उनरि हौत झन कर। | comparison, rivalry
+पेड़ की छाल, अनाज के छिलके | बगेट / बुग्याट / बुकेट | tree bark, husks
+कुटिया | खुपड़ी | hut
+साधारण पुरुष | ढानव | simple man
+साधारण महिला | ढानइ | simple woman
