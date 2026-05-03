@@ -36,14 +36,14 @@ Gradually, Kumaoni itself became restricted to family conversations. In some hou
 As a result, a dialect that once had the potential to serve as a common linguistic center gradually lost its relevance among its own people.
 
 ## Possible Solutions
-The question of standardizing Kumaoni cannot be answered by grammar alone, nor by sentiment alone. It requires both linguistic discipline and social acceptance. In this context, three possible approaches may be considered.
+The question of standardizing Kumaoni has no single agreed solution and can be approached from different perspectives, each with its own strengths and limitations. In this context, three possible approaches may be considered.
 
 ### First: Almora City Dialect as the Base
 The construction of a standard dialect should begin with the Almora city dialect as its base, with the larger goal of securing Kumaoni a place in the Eighth Schedule of the Constitution.
 
 A look at other scheduled languages and the broader constitutional framework suggests that inclusion has generally favored languages that maintain a distinct identity from other scheduled languages while also strengthening Hindi within the larger linguistic structure of India.
 
-From this perspective, the Almora city dialect offers a practical foundation. Its historical prestige, mixed linguistic character, and wider intelligibility make it better suited for standardization than a narrowly regional dialect. If certain features of other dialects are excluded in this process, linguists must provide clear and principled reasons for such choices so that the standard form is seen as representative rather than imposed.
+From this perspective, the Almora city dialect offers a practical foundation. Its historical prestige, mixed linguistic character, and wider intelligibility make it better suited for standardization than a narrowly regional dialect. But if certain features of other dialects are excluded in this process, linguists must provide clear and principled reasons for such choices so that the standard form is seen as representative rather than imposed.
 
 ### Second: Standardization Through Elite Patronage
 Another possibility is to accept a social reality often ignored in linguistic debates: as happened with standard Bengali and Gujarati, the decision on the standard dialect may ultimately rest not with linguists, but with the affluent and influential sections of society.
