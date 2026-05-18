@@ -61,8 +61,10 @@
 वेदी | द्योठ्या / दिठ्या | elevated base prepared for religious purposes
 मलिन | नरगी | dirty, contaminated, sinful
 नदी | रहप / रहौप | river; {Geography}
-नदिका, छोटी नदी | गार | creek, rivulet; {Geography}
+उप-नदी | गार | creek, tributary; {Geography}
 नाला | गधेढ़ / गद्यार | brook; {Geography}
+नदिका | रौड़ा / रौला | rivulet; {Geography}
+धारा | धौर | stream; {Geography}
 प्रतिबिंब | छैल | reflection
 छाया; छाँव; परछाई | सेल/सेव, शेल/शेव; छेव; स्योल | shade; umbra; shadow
 खड़ी पहाड़ी | काँठा | cliff; {Geography}
