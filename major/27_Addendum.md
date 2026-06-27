@@ -16,7 +16,7 @@ The following is the paradigm of this tense,
 | ------------- | ------------- | ------------- |
 | (1) | hit̥anai-chhiyū̃ हिटनै छियूँ (Hindi: मैं चल रहा था/रही थी) | hit̥anai-chhiyā̃ हिटनै छियाँ (Hindi: हम चल रहे थे/रहीं थीं) |
 | (2) | Masc. - hit̥anai-chhiyē हिटनै छिये (Hindi: तू चल रहा था); <br>Fem. - hit̥anai-chhī हिटनै छी (Hindi: तू चल रही थी) | hit̥anai-chhiyā हिटनै छिया (Hindi: तुम चल रहे थे/रहीं थीं) |
-| (3) | Masc. - hit̥anau-chhiyo हिटनौ छियो (Hindi: वह चल रहा था); <br>Fem. - hit̥anai-chi हिटनै छि (Hindi: वह चल रही थी) | Masc. - hit̥anaī-chhiyà हिटनै छिय (Hindi: वे चल रहे थे); <br>Fem. - hit̥anaī-chhin हिटनै छिन (Hindi: वे चल रहीं थीं) |
+| (3) | Masc. - hit̥anau-chhiyo हिटनौ छियो (Hindi: वह चल रहा था); <br>Fem. - hit̥anai-chi हिटनै छि (Hindi: वह चल रही थी) | Masc. - hit̥anai-chhiyà हिटनै छिय (Hindi: वे चल रहे थे); <br>Fem. - hit̥anai-chhin हिटनै छिन (Hindi: वे चल रहीं थीं) |
 
 ## Present Habitual
 The following is the paradigm of this tense,
@@ -25,6 +25,14 @@ The following is the paradigm of this tense,
 | (1) | hit̥anai rū̃-chhu हिटनै रूँछु (Hindi: मैं चलते रहता/रहती हूँ) | hit̥anai rūnū̃ हिटनै रूनूँ (Hindi: हम चलते रहते/रहतीं हैं) |
 | (2) | Masc. - hit̥anai rū̃-chhai हिटनै रूँछै (Hindi: तू चलते रहता है); <br>Fem. - hit̥anai rū̃-chhē हिटनै रूँछे (Hindi: तू चलते रहती है) | hit̥anai rū̃-chhā हिटनै रूँछा (Hindi: तुम चलते रहते/रहती हो) |
 | (3) | Masc. - hit̥anai rū̃-chha हिटनै रूँछऺ (Hindi: वह चलते रहता है); <br>Fem. - hit̥anai rū̃-chhya हिटनै रूँछ्य (Hindi: वह चलते रहती है) | Masc. - hit̥anai rūnī हिटनै रूनी (Hindi: वे चलते रहते हैं); <br>Fem. - hit̥anai rūnin हिटनै रूनिन (Hindi: वे चलते रहतीं हैं।) |
+
+## Past Habitual
+The following is the paradigm of this tense,
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | hit̥anai rū̃-chhiyū̃ हिटनै रूँछियूँ (Hindi: मैं चलते रहता था/रहती थी) | hit̥anai rū̃-chhiyā̃ हिटनै रूँछियाँ (Hindi: हम चलते रहते थे/रहतीं थीं) |
+| (2) | Masc. - hit̥anai rū̃-chhiyē हिटनै रूँछिये (Hindi: तू चलते रहता था); <br>Fem. - hit̥anai rū̃-chhī हिटनै रूँछी (Hindi: तू चलते रहती थी) | hit̥anai rū̃-chhiyā हिटनै रूँछिया (Hindi: तुम चलते रहते थे/रहती थीं) |
+| (3) | Masc. - hit̥anai rū̃-chhiyo हिटनै रूँछियो (Hindi: वह चलते रहता था); <br>Fem. - hit̥anai rū̃-chi हिटनै रूँछि (Hindi: वह चलते रहती थी) | Masc. - hit̥anai rū̃-chhiyà हिटनै रूँछिय (Hindi: वे चलते रहते थे); <br>Fem. - hit̥anai rū̃-chhin हिटनै रूँछिन (Hindi: वे चलते रहतीं थीं) |
 
 <br>
 
