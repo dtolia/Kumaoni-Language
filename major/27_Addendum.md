@@ -34,6 +34,14 @@ The following is the paradigm of this tense,
 | (2) | Masc. - hit̥anai rū̃-chhiyē हिटनै रूँछिये (Hindi: तू चलते रहता था); <br>Fem. - hit̥anai rū̃-chhī हिटनै रूँछी (Hindi: तू चलते रहती थी) | hit̥anai rū̃-chhiyā हिटनै रूँछिया (Hindi: तुम चलते रहते थे/रहती थीं) |
 | (3) | Masc. - hit̥anai rū̃-chhiyo हिटनै रूँछियो (Hindi: वह चलते रहता था); <br>Fem. - hit̥anai rū̃-chi हिटनै रूँछि (Hindi: वह चलते रहती थी) | Masc. - hit̥anai rū̃-chhiyà हिटनै रूँछिय (Hindi: वे चलते रहते थे); <br>Fem. - hit̥anai rū̃-chhin हिटनै रूँछिन (Hindi: वे चलते रहतीं थीं) |
 
+## Simple Past Continuative
+The following is the paradigm of this tense,
+| Person | Singular | Plural |
+| ------------- | ------------- | ------------- |
+| (1) | hit̥anai rayū̃ हिटनै रयूँ (Hindi: मैं चलते रहा/रही) | hit̥anai rayā̃ हिटनै रयाँ (Hindi: हम चलते रहे/रहीं) |
+| (2) | Masc. - hit̥anai rayai हिटनै रयै (Hindi: तू चलते रहा); <br>Fem. - hit̥anai rai हिटनै रै (Hindi: तू चलती रही) | hit̥anai rayā हिटनै रया (Hindi: तुम चलते रहे/रहीं) |
+| (3) | Masc. - hit̥anai rayo हिटनै रयो (Hindi: वह चलते रहा); <br>Fem. - hit̥anai rai हिटनै रै (Hindi: वह चलती रही) | Masc. - hit̥anai rayà हिटनै रयऺ (Hindi: वे चलते रहे); <br>Fem. - hit̥anai rayin हिटनै रयिन (Hindi: वे चलती रहीं) |
+
 <br>
 
 [<- PreviousChapter](/major/26_Indeclinables.md) &ensp;
